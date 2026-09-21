@@ -149,8 +149,8 @@ pl:{tapmic:"Dotknij mikrofonu, aby mówić.",over:"Powyżej budżetu",h1:"Najlep
 };
 
 (function(){
-const DATA = JSON.parse(document.getElementById('offres-data').textContent);
-const OFFRES = DATA.offres;
+let DATA = JSON.parse(document.getElementById('offres-data').textContent);
+let OFFRES = DATA.offres;
 const $ = s => document.querySelector(s);
 const main = $('#main'), composer = $('#composer'), txt = $('#txt'), micBtn = $('#mic'), langSel = $('#lang');
 let heard = false, L = 'fr', mode = null, S = {}, step = null, speaking = false, rec = null, listening = false, sample = null;
@@ -172,8 +172,8 @@ function applyLang(){
 }
 
 /* ---------- écran de lancement ---------- */
-const OPS = [...new Set(OFFRES.map(o=>o.operateur.replace(/\s*\(.*\)/,'').replace(' Belgium','')))];
 function showLaunch(){
+  const OPS = [...new Set(OFFRES.map(o=>o.operateur.replace(/\s*\(.*\)/,'').replace(' Belgium','')))];
   stopAll(); step = null; S = {}; composer.hidden = true;
   const tag = t('tagline');
   main.innerHTML = `<section class="launch">
@@ -389,6 +389,11 @@ Question de l'utilisateur : ${q}`;
 
 /* ---------- démarrage ---------- */
 applyLang(); showLaunch();
+if (/^https?:$/.test(location.protocol)) {
+  fetch('offres.json?v=' + Date.now(), {cache:'no-store'}).then(r => r.ok ? r.json() : null).then(d => {
+    if (d && Array.isArray(d.offres) && d.offres.length > 10 && String(d.date) >= String(DATA.date)) { DATA = d; OFFRES = d.offres; applyLang(); }
+  }).catch(()=>{});
+}
 if (synth) { try{ synth.getVoices(); synth.onvoiceschanged = ()=>{}; }catch(e){} }
 if (window.claude && window.claude.use) window.claude.use('sample').then(s => { sample = s; }).catch(()=>{});
 })();
