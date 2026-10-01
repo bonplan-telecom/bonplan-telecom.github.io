@@ -1,5 +1,5 @@
 {
- "date": "2026-09-30",
+ "date": "2026-10-01",
  "offres": [
   {
    "id": "proximus-mobile-essential",
@@ -7,7 +7,7 @@
    "produit": "mobile",
    "nom": "Mobile Essential",
    "prix_mensuel": 16.99,
-   "promo_texte": "Réduction pendant 12 mois pour toute nouvelle souscription (jusqu'au 30/09/2026)",
+   "promo_texte": "Réduction pendant 12 mois pour toute nouvelle souscription en ligne, jusqu'au 01/11/2026",
    "promo_mois": 12,
    "promo_prix_mensuel": 14.99,
    "frais_activation": 0,
@@ -26,7 +26,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "proximus-mobile-easy",
@@ -34,7 +34,7 @@
    "produit": "mobile",
    "nom": "Mobile Easy",
    "prix_mensuel": 19.99,
-   "promo_texte": "Réduction pendant 12 mois pour toute nouvelle souscription (jusqu'au 30/09/2026)",
+   "promo_texte": "Réduction pendant 12 mois pour toute nouvelle souscription en ligne, jusqu'au 01/11/2026",
    "promo_mois": 12,
    "promo_prix_mensuel": 15.99,
    "frais_activation": 0,
@@ -53,7 +53,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "proximus-mobile-smart",
@@ -61,7 +61,7 @@
    "produit": "mobile",
    "nom": "Mobile Smart",
    "prix_mensuel": 24.99,
-   "promo_texte": "Réduction pendant 12 mois pour toute nouvelle souscription (jusqu'au 30/09/2026)",
+   "promo_texte": "Réduction pendant 12 mois pour toute nouvelle souscription en ligne, jusqu'au 01/11/2026",
    "promo_mois": 12,
    "promo_prix_mensuel": 18.99,
    "frais_activation": 0,
@@ -80,7 +80,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "proximus-mobile-maxi",
@@ -88,7 +88,7 @@
    "produit": "mobile",
    "nom": "Mobile Maxi",
    "prix_mensuel": 29.99,
-   "promo_texte": "Réduction pendant 12 mois pour toute nouvelle souscription (jusqu'au 30/09/2026)",
+   "promo_texte": "Réduction pendant 12 mois pour toute nouvelle souscription en ligne, jusqu'au 01/11/2026",
    "promo_mois": 12,
    "promo_prix_mensuel": 21.99,
    "frais_activation": 0,
@@ -107,7 +107,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "proximus-mobile-unlimited",
@@ -115,7 +115,7 @@
    "produit": "mobile",
    "nom": "Mobile Unlimited",
    "prix_mensuel": 49.99,
-   "promo_texte": "Réduction pendant 12 mois pour toute nouvelle souscription (jusqu'au 30/09/2026)",
+   "promo_texte": "Réduction pendant 12 mois pour toute nouvelle souscription en ligne, jusqu'au 01/11/2026",
    "promo_mois": 12,
    "promo_prix_mensuel": 34.99,
    "frais_activation": 0,
@@ -134,7 +134,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "proximus-payandgo-plus-15",
@@ -178,7 +178,7 @@
    "appels": "illimités",
    "vitesse": "5G",
    "engagement": "sans engagement",
-   "conditions": "Divergence de prix : Selectra et CallMePower annoncent 13,50 EUR/mois pour 10 Go ; la page officielle Orange n'a pas pu être lue. Prix à confirmer.",
+   "conditions": "Prix et volume confirmés par orange.be/fr/nouveaux-prix (adaptation du 18/01/2026 : 15 €, 10 Go -> 12 Go). Les fiches Selectra/CallMePower annonçant 13,50 € / 10 Go sont périmées.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -186,9 +186,9 @@
     "VL"
    ],
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
-   "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
-   "a_verifier": true,
-   "date_verif": "2026-09-30"
+   "source": "https://www.orange.be/fr/nouveaux-prix",
+   "a_verifier": false,
+   "date_verif": "2026-10-01"
   },
   {
    "id": "orange-mobile-medium",
@@ -215,7 +215,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "orange-mobile-large",
@@ -242,7 +242,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "orange-mobile-unlimited",
@@ -269,7 +269,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "orange-mobile-child",
@@ -304,7 +304,7 @@
    "produit": "mobile",
    "nom": "Tempo Giga (prépayé, recharge 15 €)",
    "prix_mensuel": 15,
-   "promo_texte": "Bonus 1 Go pour une recharge Tempo de 15 € (jusqu'au 30/09/2026)",
+   "promo_texte": "",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
    "frais_activation": 10,
@@ -313,7 +313,7 @@
    "appels": "50 min + 4000 SMS",
    "vitesse": "",
    "engagement": "prépayé",
-   "conditions": "frais_activation = prix de la carte SIM (10 € avec crédit inclus)",
+   "conditions": "frais_activation = prix de la carte SIM (10 € avec crédit inclus). Recharge 15 € : 5 Go + 4000 SMS + 50 min, appels illimités vers les autres Tempo Giga. Bonus 1 Go terminé le 30/09/2026.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -321,9 +321,9 @@
     "VL"
    ],
    "lien": "https://www.orange.be/fr/mobile/cartes-prepayees",
-   "source": "https://www.orange.be/fr/mobile/cartes-prepayees",
-   "a_verifier": true,
-   "date_verif": "2026-09-28"
+   "source": "https://www.orange.be/fr/tempo",
+   "a_verifier": false,
+   "date_verif": "2026-10-01"
   },
   {
    "id": "scarlet-red",
@@ -457,7 +457,7 @@
    "lien": "https://www2.telenet.be/residential/fr/produits/mobile.html",
    "source": "https://www2.telenet.be/residential/fr/produits/mobile.html",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "telenet-mobile-unlimited",
@@ -483,7 +483,7 @@
    "lien": "https://www2.telenet.be/residential/fr/produits/mobile.html",
    "source": "https://www2.telenet.be/residential/fr/produits/mobile.html",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "telenet-mobile-junior",
@@ -642,9 +642,9 @@
     "VL"
    ],
    "lien": "https://mobilevikings.be/fr/offer/subscriptions/",
-   "source": "https://www.comparateur.be/telecom/fournisseurs/mobilevikings/abonnements-gsm",
-   "a_verifier": true,
-   "date_verif": "2026-09-30"
+   "source": "https://callmepower.be/fr/telecom/fournisseurs/mobile-vikings/mobile",
+   "a_verifier": false,
+   "date_verif": "2026-10-01"
   },
   {
    "id": "mobilevikings-40go",
@@ -860,7 +860,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "https://www.heytelecom.be/fr/mobile",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "hey-mobile-m",
@@ -887,7 +887,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "https://www.heytelecom.be/fr/mobile",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "hey-mobile-l",
@@ -914,7 +914,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "https://www.heytelecom.be/fr/mobile",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "hey-mobile-xl",
@@ -941,7 +941,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "https://www.heytelecom.be/fr/mobile",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "yoin-30go",
@@ -1125,9 +1125,9 @@
     "VL"
    ],
    "lien": "https://www.lycamobile.be/fr/bundles/forfait-prepaye/",
-   "source": "https://www.lycamobile.be/fr/bundles/forfait-prepaye/",
+   "source": "https://www.lycamobile.be/fr/bundle/belgium-plan-s/",
    "a_verifier": false,
-   "date_verif": "2026-09-28"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "lycamobile-plan-m",
@@ -1152,9 +1152,9 @@
     "VL"
    ],
    "lien": "https://www.lycamobile.be/fr/bundle/belgium-plan-m/",
-   "source": "https://www.lycamobile.be/fr/bundles/forfait-prepaye/",
+   "source": "https://www.lycamobile.be/fr/bundle/belgium-plan-m/",
    "a_verifier": false,
-   "date_verif": "2026-09-28"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "lycamobile-plan-xxl",
@@ -1262,7 +1262,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "proximus-internet-mega-fiber",
@@ -1270,9 +1270,9 @@
    "produit": "internet",
    "nom": "Internet Mega Fiber",
    "prix_mensuel": 64.99,
-   "promo_texte": "0 EUR/mois pendant 3 mois pour tout nouvel abonné Internet, souscription en ligne, du 17/08 au 30/09/2026",
-   "promo_mois": 3,
-   "promo_prix_mensuel": 0,
+   "promo_texte": "44,99 €/mois pendant 12 mois au lieu de 64,99 € (-240 €), nouveaux clients, jusqu'au 31/12/2026",
+   "promo_mois": 12,
+   "promo_prix_mensuel": 44.99,
    "frais_activation": 0,
    "frais_equipement": 0,
    "data": "illimité",
@@ -1289,7 +1289,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "proximus-flex-internet-tv",
@@ -1297,9 +1297,9 @@
    "produit": "pack",
    "nom": "Flex+ Internet + TV",
    "prix_mensuel": 75.99,
-   "promo_texte": "0 EUR/mois pendant 3 mois (réduction jusqu'à 124.98 EUR/mois), installation technicien offerte, promo du 17/08 au 30/09/2026",
-   "promo_mois": 3,
-   "promo_prix_mensuel": 0,
+   "promo_texte": "",
+   "promo_mois": 0,
+   "promo_prix_mensuel": null,
    "frais_activation": 0,
    "frais_equipement": 0,
    "data": "illimité",
@@ -1315,8 +1315,8 @@
    ],
    "lien": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "source": "https://www.proximus.be/fr/packs/internet-gsm-tv",
-   "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "a_verifier": true,
+   "date_verif": "2026-10-01"
   },
   {
    "id": "proximus-flex-internet-gsm-tv",
@@ -1324,9 +1324,9 @@
    "produit": "pack",
    "nom": "Flex+ Internet + GSM + TV (Mobile Easy)",
    "prix_mensuel": 90.99,
-   "promo_texte": "0 EUR/mois pendant 3 mois, installation technicien offerte, promo du 17/08 au 30/09/2026 ; -5 EUR/mois par ligne mobile supplémentaire",
-   "promo_mois": 3,
-   "promo_prix_mensuel": 0,
+   "promo_texte": "55,99 €/mois pendant 6 mois au lieu de 90,99 €, installation par technicien offerte (79 €), promo du 01/10 au 01/11/2026",
+   "promo_mois": 6,
+   "promo_prix_mensuel": 55.99,
    "frais_activation": 0,
    "frais_equipement": 0,
    "data": "20 GB (mobile, options 85 GB ou illimité) ; internet fixe illimité",
@@ -1343,7 +1343,7 @@
    "lien": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "source": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "scarlet-poco",
@@ -1478,7 +1478,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "https://www.astel.be/operateurs/orange",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "orange-livebox-giga",
@@ -1505,7 +1505,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "https://www.astel.be/operateurs/orange",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "orange-love-trio",
@@ -1558,7 +1558,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www.test-aankoop.be/hightech/telecom/nieuws/verhoging-telenet-prijzen",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "telenet-internet-standard",
@@ -1584,7 +1584,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "telenet-standard-tv",
@@ -1662,7 +1662,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "https://www.voo.be/fr/offre",
    "a_verifier": true,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "voo-net-giga-max",
@@ -1688,7 +1688,7 @@
    "lien": "https://www.voo.be/fr/internet",
    "source": "https://www.voo.be/fr/offre",
    "a_verifier": true,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "voo-duo-net-tv",
@@ -1714,7 +1714,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "https://www.voo.be/fr/offre",
    "a_verifier": true,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "voo-trio-net-tv-mobile",
@@ -1740,7 +1740,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "https://www.voo.be/fr/offre",
    "a_verifier": true,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "base-internet-unlimited",
@@ -1960,7 +1960,7 @@
    "produit": "pack",
    "nom": "Internet + GSM 40 GB",
    "prix_mensuel": 55,
-   "promo_texte": "52 EUR/mois au lieu de 55 EUR (durée non précisée) ; installation offerte ; cashback Astel possible",
+   "promo_texte": "52 €/mois au lieu de 55 € (-3 €/mois à vie sur l'internet combiné à un GSM), activation et installation offertes, 30 jours d'essai",
    "promo_mois": 999,
    "promo_prix_mensuel": 52,
    "frais_activation": 0,
@@ -1977,9 +1977,9 @@
     "VL"
    ],
    "lien": "https://mobilevikings.be/fr/internet/",
-   "source": "https://www.astel.be/nl/providers/mobile-vikings",
-   "a_verifier": true,
-   "date_verif": "2026-09-28"
+   "source": "https://www.astel.be/prix-abonnement/mobile-vikings/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-01"
   },
   {
    "id": "edpnet-vdsl-xl",
@@ -2006,7 +2006,7 @@
    "lien": "https://www.edpnet.be/fr/prive/internet.html",
    "source": "https://my.edpnet.net/fr/prive/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "edpnet-fiber-xl",
@@ -2014,16 +2014,16 @@
    "produit": "internet",
    "nom": "Fiber XL",
    "prix_mensuel": 49.95,
-   "promo_texte": "Raccordement fibre à 99 EUR au lieu de 199 EUR + activation offerte (50 EUR), jusqu'au 30/09/2026",
+   "promo_texte": "",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
-   "frais_activation": 99,
+   "frais_activation": 199,
    "frais_equipement": 109,
    "data": "illimité",
    "appels": "téléphonie fixe incluse",
    "vitesse": "500 Mbps",
    "engagement": "",
-   "conditions": "Réservé aux nouveaux clients edpnet. Existe aussi avec GSM (5/25/50/75 Go) de 61,95 à 82,95 EUR/mois.",
+   "conditions": "Réservé aux nouveaux clients edpnet. Existe aussi avec GSM (5/25/50/75 Go) de 61,95 à 82,95 EUR/mois. Promo raccordement (99 € au lieu de 199 €) et activation offerte terminée le 30/09/2026 : frais de raccordement 199 €, activation 50 € en sus. La page edpnet affichait encore la promo le 01/10, à revérifier.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -2032,8 +2032,8 @@
    ],
    "lien": "https://www.edpnet.be/fr/prive/internet.html",
    "source": "https://my.edpnet.net/fr/prive/internet.html",
-   "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "a_verifier": true,
+   "date_verif": "2026-10-01"
   },
   {
    "id": "proximus-etudiant-internet-light-fiber",
@@ -2275,7 +2275,7 @@
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
    "source": "https://www2.telenet.be/residential/en/promos/students.html",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "telenet-etudiant-internet-standard",
@@ -2301,7 +2301,7 @@
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
    "source": "https://www2.telenet.be/residential/en/promos/students.html",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "telenet-etudiant-internet-mobile-200",
@@ -2522,9 +2522,9 @@
    "produit": "internet",
    "nom": "Internet Go Fiber",
    "prix_mensuel": 59.99,
-   "promo_texte": "0 EUR/mois pendant 3 mois pour tout nouvel abonné Internet, souscription en ligne, du 17/08 au 30/09/2026",
-   "promo_mois": 3,
-   "promo_prix_mensuel": 0,
+   "promo_texte": "44,99 €/mois pendant 12 mois au lieu de 59,99 € (-180 €), nouveaux clients, jusqu'au 31/12/2026",
+   "promo_mois": 12,
+   "promo_prix_mensuel": 44.99,
    "frais_activation": 0,
    "frais_equipement": 0,
    "data": "illimité",
@@ -2541,7 +2541,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "proximus-internet-giga-fiber",
@@ -2549,9 +2549,9 @@
    "produit": "internet",
    "nom": "Internet Giga Fiber",
    "prix_mensuel": 77.99,
-   "promo_texte": "0 EUR/mois pendant 3 mois pour tout nouvel abonné Internet, souscription en ligne, du 17/08 au 30/09/2026",
-   "promo_mois": 3,
-   "promo_prix_mensuel": 0,
+   "promo_texte": "57,99 €/mois pendant 12 mois au lieu de 77,99 € (-240 €), nouveaux clients, jusqu'au 31/12/2026",
+   "promo_mois": 12,
+   "promo_prix_mensuel": 57.99,
    "frais_activation": 0,
    "frais_equipement": 0,
    "data": "illimité",
@@ -2568,7 +2568,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "proximus-flex-internet-gsm",
@@ -2576,9 +2576,9 @@
    "produit": "pack",
    "nom": "Flex+ Internet + GSM",
    "prix_mensuel": 72.99,
-   "promo_texte": "0 EUR/mois pendant 3 mois, installation par technicien offerte (79 EUR), jusqu'au 30/09/2026",
-   "promo_mois": 3,
-   "promo_prix_mensuel": 0,
+   "promo_texte": "",
+   "promo_mois": 0,
+   "promo_prix_mensuel": null,
    "frais_activation": 0,
    "frais_equipement": 0,
    "data": "illimité (fixe) + 20 Go mobile",
@@ -2594,8 +2594,8 @@
    ],
    "lien": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "source": "https://www.proximus.be/fr/packs/internet-gsm-tv",
-   "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "a_verifier": true,
+   "date_verif": "2026-10-01"
   },
   {
    "id": "orange-livebox-up",
@@ -2622,7 +2622,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "https://www.astel.be/operateurs/orange",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "orange-love-duo-medium",
@@ -2675,7 +2675,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www.astel.be/operateurs/telenet",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "scarlet-duo",
@@ -2860,9 +2860,9 @@
     "VL"
    ],
    "lien": "https://mobilevikings.be/fr/offer/subscriptions/",
-   "source": "https://www.astel.be/operateurs/mobile-vikings",
-   "a_verifier": true,
-   "date_verif": "2026-09-30"
+   "source": "https://callmepower.be/fr/telecom/fournisseurs/mobile-vikings/mobile",
+   "a_verifier": false,
+   "date_verif": "2026-10-01"
   },
   {
    "id": "mobilevikings-internet-fibre-superfast",
@@ -2968,9 +2968,9 @@
     "VL"
    ],
    "lien": "https://www.lycamobile.be/fr/bundles/forfait-prepaye/",
-   "source": "https://www.lycamobile.be/fr/bundles/forfait-prepaye/",
+   "source": "https://www.lycamobile.be/fr/bundle/belgium-plan-l/",
    "a_verifier": false,
-   "date_verif": "2026-09-28"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "voo-duo-net-mobile",
@@ -2996,7 +2996,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "https://www.voo.be/fr/offre",
    "a_verifier": true,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "frais_activation": 0,
@@ -3009,7 +3009,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-09-30",
+   "date_verif": "2026-10-01",
    "promo_texte": "",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -3036,7 +3036,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-09-30",
+   "date_verif": "2026-10-01",
    "promo_texte": "",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -3063,7 +3063,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-09-30",
+   "date_verif": "2026-10-01",
    "promo_texte": "",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -3078,33 +3078,6 @@
    "appels": "",
    "lien": "https://tadaam.be/fr",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/tadaam"
-  },
-  {
-   "frais_activation": 0,
-   "frais_equipement": 0,
-   "engagement": "sans engagement",
-   "jeune": false,
-   "regions": [
-    "BXL",
-    "WAL",
-    "VL"
-   ],
-   "a_verifier": true,
-   "date_verif": "2026-09-30",
-   "promo_texte": "",
-   "promo_mois": 0,
-   "promo_prix_mensuel": null,
-   "conditions": "Non listée sur tadaam.be/en/our-products/internet-and-tv ni sur callmepower (30/09/2026). Offre peut-être retirée ; à confirmer.",
-   "vitesse": "30 Mbps",
-   "id": "tadaam-on-the-go",
-   "operateur": "Tadaam",
-   "produit": "internet",
-   "nom": "Internet on the go",
-   "prix_mensuel": 30,
-   "data": "illimite",
-   "appels": "",
-   "lien": "https://tadaam.be/fr",
-   "source": "https://www.dhnet.be/actu/new-tech/2026/09/15/mauvaise-nouvelle-pour-les-clients-telenet-loperateur-retire-labonnement-mobile-illimite-le-moins-cher-du-marche-6SF25EY4D5GDBK4DKGFSNIIUFE/"
   },
   {
    "frais_activation": 0,
@@ -3171,7 +3144,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-09-30",
+   "date_verif": "2026-10-01",
    "promo_texte": "25,95 EUR/mois pendant 12 mois au lieu de 29,95 EUR (jusqu'au 31/12/2026)",
    "promo_mois": 12,
    "promo_prix_mensuel": 25.95,
@@ -3188,7 +3161,7 @@
    "source": "https://my.edpnet.net/fr/prive/internet.html"
   },
   {
-   "frais_activation": 99,
+   "frais_activation": 199,
    "frais_equipement": 109,
    "engagement": "",
    "jeune": false,
@@ -3197,12 +3170,12 @@
     "WAL",
     "VL"
    ],
-   "a_verifier": false,
-   "date_verif": "2026-09-30",
-   "promo_texte": "Raccordement fibre à 99 EUR au lieu de 199 EUR + activation offerte (50 EUR), jusqu'au 30/09/2026",
+   "a_verifier": true,
+   "date_verif": "2026-10-01",
+   "promo_texte": "",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
-   "conditions": "Réservé aux nouveaux clients edpnet.",
+   "conditions": "Réservé aux nouveaux clients edpnet. Promo raccordement (99 € au lieu de 199 €) et activation offerte terminée le 30/09/2026 : frais de raccordement 199 €, activation 50 € en sus. La page edpnet affichait encore la promo le 01/10, à revérifier.",
    "vitesse": "150 Mbps",
    "id": "edpnet-fiber-xs",
    "operateur": "EDPnet",
@@ -3215,7 +3188,7 @@
    "source": "https://my.edpnet.net/fr/prive/internet.html"
   },
   {
-   "frais_activation": 99,
+   "frais_activation": 199,
    "frais_equipement": 109,
    "engagement": "",
    "jeune": false,
@@ -3224,12 +3197,12 @@
     "WAL",
     "VL"
    ],
-   "a_verifier": false,
-   "date_verif": "2026-09-30",
-   "promo_texte": "Raccordement fibre à 99 EUR au lieu de 199 EUR + activation offerte (50 EUR), jusqu'au 30/09/2026",
+   "a_verifier": true,
+   "date_verif": "2026-10-01",
+   "promo_texte": "",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
-   "conditions": "Option Boosted (+10 EUR/mois) réservée aux abonnés Fiber XL",
+   "conditions": "Option Boosted (+10 EUR/mois) réservée aux abonnés Fiber XL. Promo raccordement (99 € au lieu de 199 €) et activation offerte terminée le 30/09/2026 : frais de raccordement 199 €, activation 50 € en sus. La page edpnet affichait encore la promo le 01/10, à revérifier.",
    "vitesse": "1 Gbps",
    "id": "edpnet-fiber-xl-boosted",
    "operateur": "EDPnet",
@@ -3247,7 +3220,7 @@
    "produit": "internet",
    "nom": "hey! Internet",
    "prix_mensuel": 39,
-   "promo_texte": "29 EUR/mois au lieu de 39 EUR, réduction à vie pour les nouveaux clients (jusqu'au 04/10/2026)",
+   "promo_texte": "29 €/mois au lieu de 39 € (jusqu'au 04/10/2026) — durée à confirmer : heytelecom.be indique 3 mois, callmepower indique à vie",
    "promo_mois": 999,
    "promo_prix_mensuel": 29,
    "frais_activation": 0,
@@ -3256,7 +3229,7 @@
    "appels": "",
    "vitesse": "200 Mbps down / 20 Mbps up",
    "engagement": "sans engagement",
-   "conditions": "Installation gratuite et modem fourni",
+   "conditions": "Installation gratuite, sans engagement. 3 To en heures de pointe (17h-minuit), puis 20/2 Mbps. Durée de la réduction à confirmer (3 mois ou à vie).",
    "jeune": false,
    "regions": [
     "BXL",
@@ -3265,8 +3238,8 @@
    ],
    "lien": "https://www.heytelecom.be/fr",
    "source": "https://www.heytelecom.be/fr",
-   "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "a_verifier": true,
+   "date_verif": "2026-10-01"
   },
   {
    "id": "yoin-6go",
@@ -3328,9 +3301,9 @@
    "produit": "pack",
    "nom": "Flex+ Mega Fiber + GSM + TV",
    "prix_mensuel": 97.99,
-   "promo_texte": "0 EUR/mois pendant 3 mois pour tout nouvel abonné, installation par technicien offerte (79 EUR), jusqu'au 30/09/2026",
-   "promo_mois": 3,
-   "promo_prix_mensuel": 0,
+   "promo_texte": "62,99 €/mois pendant 6 mois au lieu de 97,99 €, installation par technicien offerte (79 €), promo du 01/10 au 01/11/2026",
+   "promo_mois": 6,
+   "promo_prix_mensuel": 62.99,
    "frais_activation": 0,
    "frais_equipement": 0,
    "data": "20 Go mobile",
@@ -3347,7 +3320,7 @@
    "lien": "https://www.proximus.be/fr/packs",
    "source": "https://www.proximus.be/fr/packs",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
   },
   {
    "id": "proximus-flex-giga-fiber-gsm-tv",
@@ -3355,9 +3328,9 @@
    "produit": "pack",
    "nom": "Flex+ Giga Fiber + GSM + TV",
    "prix_mensuel": 107.99,
-   "promo_texte": "0 EUR/mois pendant 3 mois pour tout nouvel abonné, installation par technicien offerte (79 EUR), jusqu'au 30/09/2026",
-   "promo_mois": 3,
-   "promo_prix_mensuel": 0,
+   "promo_texte": "67,99 €/mois pendant 6 mois au lieu de 107,99 €, installation par technicien offerte (79 €), promo du 01/10 au 01/11/2026",
+   "promo_mois": 6,
+   "promo_prix_mensuel": 67.99,
    "frais_activation": 0,
    "frais_equipement": 0,
    "data": "20 Go mobile",
@@ -3374,7 +3347,34 @@
    "lien": "https://www.proximus.be/fr/packs",
    "source": "https://www.proximus.be/fr/packs",
    "a_verifier": false,
-   "date_verif": "2026-09-30"
+   "date_verif": "2026-10-01"
+  },
+  {
+   "id": "proximus-flex-ultra-fiber-gsm-tv",
+   "operateur": "Proximus",
+   "produit": "pack",
+   "nom": "Flex+ Ultra Fiber + GSM + TV",
+   "prix_mensuel": 137.99,
+   "promo_texte": "97,99 €/mois pendant 6 mois au lieu de 137,99 €, installation par technicien offerte (79 €), promo du 01/10 au 01/11/2026",
+   "promo_mois": 6,
+   "promo_prix_mensuel": 97.99,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "20 Go mobile",
+   "appels": "illimités",
+   "vitesse": "8,5 Gbps down / 8 Gbps up (10 Gbps)",
+   "engagement": "sans engagement",
+   "conditions": "Internet illimité + 80 chaînes TV via Pickx + mobile 20 Go 5G. Wi-Fi 7. Fibre Proximus requise à l'adresse.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.proximus.be/fr/packs",
+   "source": "https://www.proximus.be/fr/packs",
+   "a_verifier": false,
+   "date_verif": "2026-10-01"
   }
  ]
 }
