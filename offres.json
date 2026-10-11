@@ -1,5 +1,5 @@
 {
- "date": "2026-10-09",
+ "date": "2026-10-11",
  "offres": [
   {
    "id": "proximus-mobile-essential",
@@ -26,7 +26,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "proximus-mobile-easy",
@@ -53,7 +53,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "proximus-mobile-smart",
@@ -80,7 +80,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "proximus-mobile-maxi",
@@ -107,7 +107,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "proximus-mobile-unlimited",
@@ -134,7 +134,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "proximus-payandgo-plus-15",
@@ -178,7 +178,7 @@
    "appels": "illimités",
    "vitesse": "5G",
    "engagement": "sans engagement",
-   "conditions": "Divergence de prix : 15 EUR/mois sur orange.be, mais selectra.be lit 13,50 EUR/mois pour 10 Go (09/10/2026). A confirmer.",
+   "conditions": "Divergence persistante au 11/10/2026 : orange.be affiche 15 EUR, selectra.be (maj 10/10) lit 13,50 EUR pour 10 Go et comparateur.be annonce 12 Go. Prix et volume a confirmer ; valeur officielle conservee.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -186,9 +186,9 @@
     "VL"
    ],
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
-   "source": "orange.be / selectra.be",
+   "source": "orange.be + selectra.be/fr/telecom/fournisseurs/orange + comparateur.be (11/10/2026)",
    "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "orange-mobile-medium",
@@ -215,7 +215,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "orange.be + selectra.be",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "orange-mobile-large",
@@ -242,7 +242,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "orange.be + astel.be",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "orange-mobile-unlimited",
@@ -269,7 +269,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "orange.be + selectra.be",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "orange-mobile-child",
@@ -457,7 +457,7 @@
    "lien": "https://www2.telenet.be/residential/fr/produits/mobile.html",
    "source": "https://www2.telenet.be/residential/fr/produits/mobile.html",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "telenet-mobile-unlimited",
@@ -483,7 +483,7 @@
    "lien": "https://www2.telenet.be/residential/fr/produits/mobile.html",
    "source": "https://www2.telenet.be/residential/fr/produits/mobile.html",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "telenet-mobile-junior",
@@ -536,7 +536,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "base-20",
@@ -563,7 +563,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans/base-20.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "base-29",
@@ -590,7 +590,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "base-39",
@@ -617,7 +617,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "mobilevikings-10go",
@@ -644,7 +644,7 @@
    "lien": "https://mobilevikings.be/fr/offer/subscriptions/",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/mobile-vikings/mobile",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "mobilevikings-40go",
@@ -671,7 +671,7 @@
    "lien": "https://mobilevikings.be/fr/offer/subscriptions/",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/mobile-vikings/mobile",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "mobilevikings-70go",
@@ -698,7 +698,7 @@
    "lien": "https://mobilevikings.be/fr/offer/subscriptions/",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/mobile-vikings/mobile",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "mobilevikings-unlimited-fast",
@@ -725,7 +725,7 @@
    "lien": "https://mobilevikings.be/fr/offer/subscriptions/",
    "source": "https://www.astel.be/operateurs/mobile-vikings",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "digi-mobile-7",
@@ -860,7 +860,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "https://www.heytelecom.be/fr/mobile",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "hey-mobile-m",
@@ -868,16 +868,16 @@
    "produit": "mobile",
    "nom": "hey! mobile M",
    "prix_mensuel": 9,
-   "promo_texte": "-2 EUR/mois a vie (7 EUR au lieu de 9 EUR) + 10 Go en plus",
-   "promo_mois": 999,
-   "promo_prix_mensuel": 7,
+   "promo_texte": "",
+   "promo_mois": 0,
+   "promo_prix_mensuel": null,
    "frais_activation": 0,
    "frais_equipement": 0,
-   "data": "35 Go avec la promo (25 Go hors promo)",
+   "data": "25 Go en Belgique et dans l'UE",
    "appels": "illimités",
    "vitesse": "",
    "engagement": "sans engagement",
-   "conditions": "Nouveaux abonnements uniquement, non cumulable. La fenetre officielle (24/08 au 04/10/2026) est close mais heytelecom.be affiche toujours 7 EUR le 08/10/2026 ; callmepower ne liste plus de promo mobile hey! (9 EUR / 25 Go). Promo conservee par prudence, a verifier.",
+   "conditions": "Promo retiree le 11/10/2026 : les conditions officielles de heytelecom.be limitent la reduction (-2 EUR/mois + 10 Go) aux commandes du 24/08 au 04/10/2026 incluses, fenetre desormais close, et callmepower.be ne liste plus aucune promo mobile hey! (9 EUR / 25 Go). Une reduction de -4 EUR/mois a vie existe sur les forfaits L et XL en combinaison avec un internet hey! (jusqu'au 01/11/2026).",
    "jeune": false,
    "regions": [
     "BXL",
@@ -885,9 +885,9 @@
     "VL"
    ],
    "lien": "https://www.heytelecom.be/fr/mobile",
-   "source": "heytelecom.be/fr/abonnements-mobiles + callmepower.be/fr/telecom/fournisseurs/hey (07/10/2026)",
-   "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "source": "heytelecom.be/fr/abonnements-mobiles + callmepower.be/fr/telecom/fournisseurs/hey (11/10/2026)",
+   "a_verifier": false,
+   "date_verif": "2026-10-11"
   },
   {
    "id": "hey-mobile-l",
@@ -914,7 +914,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "heytelecom.be/fr/abonnements-mobiles + callmepower.be/fr/telecom/fournisseurs/hey (07/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "hey-mobile-xl",
@@ -941,7 +941,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "https://www.heytelecom.be/fr/abonnements-mobiles",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "yoin-30go",
@@ -968,7 +968,7 @@
    "lien": "https://www.yoin.be/fr",
    "source": "https://www.yoin.be/fr",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "yoin-80go",
@@ -995,7 +995,7 @@
    "lien": "https://www.yoin.be/fr",
    "source": "https://www.yoin.be/fr",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "yoin-150go",
@@ -1022,7 +1022,7 @@
    "lien": "https://www.yoin.be/fr",
    "source": "https://www.yoin.be/fr",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "voo-solo-15go",
@@ -1048,7 +1048,7 @@
    "lien": "https://www.voo.be/fr/mobile",
    "source": "voo.be / callmepower.be",
    "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "voo-solo-50go",
@@ -1074,7 +1074,7 @@
    "lien": "https://www.voo.be/fr/mobile",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/voo",
    "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "voo-solo-300go",
@@ -1100,7 +1100,7 @@
    "lien": "https://www.voo.be/fr/mobile",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/voo",
    "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "lycamobile-plan-s",
@@ -1154,7 +1154,7 @@
    "lien": "https://www.lycamobile.be/fr/bundle/belgium-plan-m/",
    "source": "https://www.lycamobile.be/fr/bundle/belgium-plan-m/",
    "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "lycamobile-plan-xxl",
@@ -1262,7 +1262,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "proximus-internet-mega-fiber",
@@ -1289,7 +1289,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "proximus-flex-internet-tv",
@@ -1306,7 +1306,7 @@
    "appels": "",
    "vitesse": "100 Mbps (ADSL/VDSL) ; fibre 500 Mbps à 10 Gbps en option (Mega 82.99, Giga 92.99, Ultra 122.99 EUR)",
    "engagement": "sans engagement",
-   "conditions": "Nouveaux abonnes internet souscrivant un pack Flex+. La page officielle annonce la reduction de 25 EUR/mois pour les combinaisons internet+TV et internet+mobile mais n'affiche pas le prix promo correspondant : montant calcule a partir du prix de base.",
+   "conditions": "Nouveaux abonnes internet souscrivant un pack Flex+. Resolu le 11/10/2026 : les conditions officielles de proximus.be/fr/packs annoncent explicitement une reduction de 25 EUR/mois pendant 6 mois pour les formules internet+TV et internet+mobile, valable du 01/10 au 01/11/2026 - ce qui valide le prix promo calcule depuis le prix de base.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -1314,9 +1314,9 @@
     "VL"
    ],
    "lien": "https://www.proximus.be/fr/packs/internet-gsm-tv",
-   "source": "https://www.proximus.be/fr/packs/internet-gsm-tv",
-   "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "source": "proximus.be/fr/packs (11/10/2026)",
+   "a_verifier": false,
+   "date_verif": "2026-10-11"
   },
   {
    "id": "proximus-flex-internet-gsm-tv",
@@ -1343,7 +1343,7 @@
    "lien": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "source": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "scarlet-poco",
@@ -1370,7 +1370,7 @@
    "lien": "https://www.scarlet.be/fr/internet",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "scarlet-loco",
@@ -1397,7 +1397,7 @@
    "lien": "https://www.scarlet.be/fr/internet",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "scarlet-loco-fiber-boost",
@@ -1424,7 +1424,7 @@
    "lien": "https://www.scarlet.be/fr/internet",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "scarlet-trio-mobile",
@@ -1451,7 +1451,7 @@
    "lien": "https://www.scarlet.be/fr/packs",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "orange-livebox",
@@ -1468,7 +1468,7 @@
    "appels": "",
    "vitesse": "150 Mbps / 20 Mbps",
    "engagement": "durée indéterminée, résiliable à tout moment",
-   "conditions": "Nouveaux clients Orange uniquement. Promo web du 05/10 au 01/11/2026. Les conditions officielles et astel.be annoncent une reduction a vie (toute la duree du contrat), mais la FAQ d'orange.be parle de 12 mois et comparateur.be lit 6 mois pour la Livebox seule : duree a confirmer.",
+   "conditions": "Nouveaux clients Orange uniquement. Promo web du 05/10 au 01/11/2026. Duree 'a vie' (toute la duree du contrat) confirmee le 11/10/2026 par trois sources concordantes : conditions officielles d'orange.be, astel.be ('-10/-15 EUR a vie') et test-achats.be ('A vie, jusqu'au 01/11/2026'). La FAQ d'orange.be parlant de 12 mois est contredite par les conditions detaillees. Prix standard 53 / 62 / 72 EUR confirmes par selectra.be (Start / Zen / Giga Internet).",
    "jeune": false,
    "regions": [
     "BXL",
@@ -1476,9 +1476,9 @@
     "VL"
    ],
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
-   "source": "orange.be/fr/produits-et-services/abonnement-internet + astel.be/operateurs/orange/promotion + comparateur.be/telecom/fournisseurs/orange/promo (07/10/2026)",
-   "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "source": "orange.be/fr/produits-et-services/abonnement-internet + astel.be/prix-abonnement/orange/promotion + test-achats.be/hightech/telecom/news/promotions-telecom (11/10/2026)",
+   "a_verifier": false,
+   "date_verif": "2026-10-11"
   },
   {
    "id": "orange-livebox-giga",
@@ -1495,7 +1495,7 @@
    "appels": "",
    "vitesse": "1 Gbps / 50 Mbps",
    "engagement": "durée indéterminée, résiliable à tout moment",
-   "conditions": "Nouveaux clients Orange uniquement. Promo web du 05/10 au 01/11/2026. Les conditions officielles et astel.be annoncent une reduction a vie (toute la duree du contrat), mais la FAQ d'orange.be parle de 12 mois et comparateur.be lit 6 mois pour la Livebox seule : duree a confirmer. Si le 1 Gbps n'est pas disponible dans le quartier, Orange fournit une Livebox Up a 400 Mbps avec 10 EUR de moins par mois.",
+   "conditions": "Nouveaux clients Orange uniquement. Promo web du 05/10 au 01/11/2026. Duree 'a vie' (toute la duree du contrat) confirmee le 11/10/2026 par trois sources concordantes : conditions officielles d'orange.be, astel.be ('-10/-15 EUR a vie') et test-achats.be ('A vie, jusqu'au 01/11/2026'). La FAQ d'orange.be parlant de 12 mois est contredite par les conditions detaillees. Prix standard 53 / 62 / 72 EUR confirmes par selectra.be (Start / Zen / Giga Internet).",
    "jeune": false,
    "regions": [
     "BXL",
@@ -1503,9 +1503,9 @@
     "VL"
    ],
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
-   "source": "orange.be/fr/produits-et-services/abonnement-internet + astel.be/operateurs/orange/promotion + comparateur.be/telecom/fournisseurs/orange/promo (07/10/2026)",
-   "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "source": "orange.be/fr/produits-et-services/abonnement-internet + astel.be/prix-abonnement/orange/promotion + test-achats.be/hightech/telecom/news/promotions-telecom (11/10/2026)",
+   "a_verifier": false,
+   "date_verif": "2026-10-11"
   },
   {
    "id": "orange-love-trio",
@@ -1532,7 +1532,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/internet",
    "source": "comparateur.be + test-achats.be",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "telenet-internet-basic",
@@ -1558,7 +1558,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "telenet-internet-standard",
@@ -1584,7 +1584,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "telenet-standard-tv",
@@ -1662,7 +1662,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/voo",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "voo-net-giga-max",
@@ -1705,16 +1705,16 @@
    "appels": "",
    "vitesse": "200 Mbps / 10 Mbps",
    "engagement": "6 mois (pour bénéficier de la promo)",
-   "conditions": "Prix reconfirmes le 08/10/2026 sur voo.be/fr/offre ET sur callmepower.be/fr/telecom/fournisseurs/voo/pack (la divergence a 72/85 EUR relevee le 07/10 venait des prix 'des' en en-tete, pas des tableaux). Migration de VOO vers Orange en cours. Frais d'activation offerts toujours annonces sans date de fin.",
+   "conditions": "Prix reconfirmes le 11/10/2026 par deux sources concordantes : voo.be/fr/offre (65 / 68 / 78 EUR, tarifs en vigueur depuis le 01/01/2026) et callmepower.be/fr/telecom/fournisseurs/voo/pack (Duo Rapide + Streaming 65 EUR, Duo Rapide + 15GB 68 EUR, Trio Rapide + 15GB + Streaming 78 EUR). Frais d'activation offerts, toujours annonces sans date de fin. Rapprochement VOO-Orange en cours (lien 'VOO & Orange' sur voo.be), sans effet sur les prix a ce jour.",
    "jeune": false,
    "regions": [
     "WAL",
     "BXL"
    ],
    "lien": "https://www.voo.be/fr/offre",
-   "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (07/10/2026)",
-   "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (11/10/2026)",
+   "a_verifier": false,
+   "date_verif": "2026-10-11"
   },
   {
    "id": "voo-trio-net-tv-mobile",
@@ -1731,16 +1731,16 @@
    "appels": "",
    "vitesse": "200 Mbps / 10 Mbps",
    "engagement": "6 mois (pour bénéficier de la promo)",
-   "conditions": "Prix reconfirmes le 08/10/2026 sur voo.be/fr/offre ET sur callmepower.be/fr/telecom/fournisseurs/voo/pack (la divergence a 72/85 EUR relevee le 07/10 venait des prix 'des' en en-tete, pas des tableaux). Migration de VOO vers Orange en cours. Frais d'activation offerts toujours annonces sans date de fin.",
+   "conditions": "Prix reconfirmes le 11/10/2026 par deux sources concordantes : voo.be/fr/offre (65 / 68 / 78 EUR, tarifs en vigueur depuis le 01/01/2026) et callmepower.be/fr/telecom/fournisseurs/voo/pack (Duo Rapide + Streaming 65 EUR, Duo Rapide + 15GB 68 EUR, Trio Rapide + 15GB + Streaming 78 EUR). Frais d'activation offerts, toujours annonces sans date de fin. Rapprochement VOO-Orange en cours (lien 'VOO & Orange' sur voo.be), sans effet sur les prix a ce jour.",
    "jeune": false,
    "regions": [
     "WAL",
     "BXL"
    ],
    "lien": "https://www.voo.be/fr/offre",
-   "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (07/10/2026)",
-   "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (11/10/2026)",
+   "a_verifier": false,
+   "date_verif": "2026-10-11"
   },
   {
    "id": "base-internet-unlimited",
@@ -1767,7 +1767,7 @@
    "lien": "https://www.base.be/en/internet.html",
    "source": "base.be",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "base-internet-limited",
@@ -1801,17 +1801,17 @@
    "operateur": "BASE",
    "produit": "pack",
    "nom": "Internet + TV + Mobile",
-   "prix_mensuel": 47,
-   "promo_texte": "-30% sur l'abonnement GSM pour toute la durée du contrat + -10% à vie sur l'internet (combo), promo prolongée jusqu'au 16/11/2026",
-   "promo_mois": 0,
-   "promo_prix_mensuel": null,
+   "prix_mensuel": 76,
+   "promo_texte": "64,40 EUR/mois au lieu de 76 EUR a vie (-10% internet+TV en combinaison et -30% sur le GSM), promo jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 64.4,
    "frais_activation": 0,
    "frais_equipement": 0,
-   "data": "selon abonnement mobile",
-   "appels": "selon abonnement mobile",
-   "vitesse": "50 Mbps (entrée de gamme)",
+   "data": "50 Go mobile + internet illimite",
+   "appels": "illimites",
+   "vitesse": "Internet Unlimited (illimite)",
    "engagement": "sans engagement",
-   "conditions": "Combinaison internet + TV + mobile : -10 % a vie sur l'internet et/ou la TV des 2 produits combines, cumulable avec les -30 % sur le GSM (29/09 au 16/11/2026). Prix du pack a verifier : base.be n'affiche aucun prix de pack complet, et test-achats (06/10/2026) lit 76 -> 64,40 EUR/mois pour Internet Unlimited + TV Box + 50 Go.",
+   "conditions": "Internet Unlimited + TV Box + Mobile 50 Go. Le prix de 47 EUR retenu jusqu'ici etait errone. Chiffre resolu le 11/10/2026 : test-achats lit 76 -> 64,40 EUR et le calcul concorde exactement avec les remises publiees par BASE ((40 internet + 16 TV) x 0,9 + 20 mobile x 0,7 = 64,40). Campagne du 29/09 au 16/11/2026, activation (30 EUR) et installation (59 EUR) offertes.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -1819,9 +1819,9 @@
     "VL"
    ],
    "lien": "https://www.base.be/en/internet.html",
-   "source": "base.be / test-achats.be",
-   "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "source": "test-achats.be/hightech/telecom/news/promotions-telecom (06/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-11"
   },
   {
    "id": "digi-5g-home-internet",
@@ -1925,7 +1925,7 @@
    "lien": "https://mobilevikings.be/fr/internet/",
    "source": "https://www.astel.be/operateurs/mobile-vikings",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "mobilevikings-internet-fibre-5g",
@@ -1952,7 +1952,7 @@
    "lien": "https://mobilevikings.be/fr/internet/",
    "source": "https://www.astel.be/operateurs/mobile-vikings",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "mobilevikings-internet-gsm-40",
@@ -1996,7 +1996,7 @@
    "appels": "téléphonie fixe incluse",
    "vitesse": "100 Mbps",
    "engagement": "",
-   "conditions": "Réservé aux nouveaux clients edpnet. Après 12 mois : 39,95 EUR/mois. Existe aussi avec GSM (5/25/50/75 Go) de 47,95 à 68,95 EUR/mois pendant 12 mois.",
+   "conditions": "Reconfirme le 11/10/2026 sur my.edpnet.net/fr/prive/internet.html : -4 EUR/mois pendant 12 mois jusqu'au 31/12/2026, activation offerte (normalement 50 EUR). La lecture 35,95 -> 31,95 EUR de test-achats decale d'un cran les formules.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -2006,7 +2006,7 @@
    "lien": "https://www.edpnet.be/fr/prive/internet.html",
    "source": "https://my.edpnet.net/fr/prive/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "edpnet-fiber-xl",
@@ -2033,7 +2033,7 @@
    "lien": "https://www.edpnet.be/fr/prive/internet.html",
    "source": "https://my.edpnet.net/fr/prive/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "proximus-etudiant-internet-light-fiber",
@@ -2541,7 +2541,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "proximus-internet-giga-fiber",
@@ -2568,7 +2568,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "proximus-flex-internet-gsm",
@@ -2585,7 +2585,7 @@
    "appels": "illimités",
    "vitesse": "jusqu'à 10 Gbps (FTTH)",
    "engagement": "sans engagement",
-   "conditions": "Nouveaux abonnes internet souscrivant un pack Flex+. La page officielle annonce la reduction de 25 EUR/mois pour les combinaisons internet+TV et internet+mobile mais n'affiche pas le prix promo correspondant : montant calcule a partir du prix de base.",
+   "conditions": "Nouveaux abonnes internet souscrivant un pack Flex+. Resolu le 11/10/2026 : les conditions officielles de proximus.be/fr/packs annoncent explicitement une reduction de 25 EUR/mois pendant 6 mois pour les formules internet+TV et internet+mobile, valable du 01/10 au 01/11/2026 - ce qui valide le prix promo calcule depuis le prix de base.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -2593,9 +2593,9 @@
     "VL"
    ],
    "lien": "https://www.proximus.be/fr/packs/internet-gsm-tv",
-   "source": "https://www.proximus.be/fr/packs/internet-gsm-tv",
-   "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "source": "proximus.be/fr/packs (11/10/2026)",
+   "a_verifier": false,
+   "date_verif": "2026-10-11"
   },
   {
    "id": "orange-livebox-up",
@@ -2612,7 +2612,7 @@
    "appels": "",
    "vitesse": "400 Mbps / 30 Mbps",
    "engagement": "durée indéterminée, résiliable à tout moment",
-   "conditions": "Nouveaux clients Orange uniquement. Promo web du 05/10 au 01/11/2026. Les conditions officielles et astel.be annoncent une reduction a vie (toute la duree du contrat), mais la FAQ d'orange.be parle de 12 mois et comparateur.be lit 6 mois pour la Livebox seule : duree a confirmer. Reduction relue a 10 EUR/mois le 08/10 sur orange.be et astel.be (9 EUR auparavant).",
+   "conditions": "Nouveaux clients Orange uniquement. Promo web du 05/10 au 01/11/2026. Duree 'a vie' (toute la duree du contrat) confirmee le 11/10/2026 par trois sources concordantes : conditions officielles d'orange.be, astel.be ('-10/-15 EUR a vie') et test-achats.be ('A vie, jusqu'au 01/11/2026'). La FAQ d'orange.be parlant de 12 mois est contredite par les conditions detaillees. Prix standard 53 / 62 / 72 EUR confirmes par selectra.be (Start / Zen / Giga Internet).",
    "jeune": false,
    "regions": [
     "BXL",
@@ -2620,26 +2620,26 @@
     "VL"
    ],
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
-   "source": "orange.be/fr/produits-et-services/abonnement-internet + astel.be/operateurs/orange/promotion + comparateur.be/telecom/fournisseurs/orange/promo (07/10/2026)",
-   "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "source": "orange.be/fr/produits-et-services/abonnement-internet + astel.be/prix-abonnement/orange/promotion + test-achats.be/hightech/telecom/news/promotions-telecom (11/10/2026)",
+   "a_verifier": false,
+   "date_verif": "2026-10-11"
   },
   {
    "id": "orange-love-duo-medium",
    "operateur": "Orange Belgium",
    "produit": "pack",
    "nom": "Love Duo (Internet + Mobile Medium)",
-   "prix_mensuel": 75,
-   "promo_texte": "-18 EUR/mois a vie (57 EUR au lieu de 75 EUR), frais de mise en service offerts (39 EUR), promo du 05/10 au 01/11/2026",
+   "prix_mensuel": 76,
+   "promo_texte": "-20 EUR/mois (56 EUR au lieu de 76 EUR), frais de mise en service offerts (39 EUR), promo du 05/10 au 01/11/2026",
    "promo_mois": 999,
-   "promo_prix_mensuel": 57,
+   "promo_prix_mensuel": 56,
    "frais_activation": 0,
    "frais_equipement": 0,
    "data": "illimité (fixe) + 70 Go mobile",
    "appels": "illimités",
    "vitesse": "150 Mbps / 20 Mbps",
    "engagement": "durée indéterminée",
-   "conditions": "Livebox + Mobile Medium. Reduction a vie confirmee par orange.be et astel.be, mais les prix divergent : notre valeur 75 -> 57 EUR contre 66 -> 56 EUR chez comparateur.be (09/10/2026). Les prix des packs ne sont pas affiches sur orange.be.",
+   "conditions": "Livebox + Mobile Medium (70 Go). Prix revus le 11/10/2026 : selectra.be (maj 10/10/2026) lit 76 -> 56 EUR et comparateur.be lit 56 EUR de prix promo, soit deux sources concordantes sur le prix promo. Nos anciennes valeurs (75 -> 57) sont abandonnees. La duree reste incertaine : orange.be et astel.be annoncent 'a vie', selectra.be annonce 12 mois.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -2647,9 +2647,9 @@
     "VL"
    ],
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
-   "source": "orange.be / comparateur.be",
+   "source": "selectra.be/fr/telecom/fournisseurs/orange/pack-love + comparateur.be (11/10/2026)",
    "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "telenet-internet-turbo",
@@ -2675,7 +2675,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "scarlet-duo",
@@ -2702,7 +2702,7 @@
    "lien": "https://www.scarlet.be/fr/packs",
    "source": "https://www.scarlet.be/fr/packs",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "scarlet-trio",
@@ -2729,7 +2729,7 @@
    "lien": "https://www.scarlet.be/fr/packs",
    "source": "https://www.scarlet.be/fr/packs",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "base-internet-unlimited-plus",
@@ -2835,7 +2835,7 @@
    "lien": "https://mobilevikings.be/fr/offer/subscriptions/",
    "source": "https://www.astel.be/operateurs/mobile-vikings",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "mobilevikings-unlimited-superfast",
@@ -2862,7 +2862,7 @@
    "lien": "https://mobilevikings.be/fr/offer/subscriptions/",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/mobile-vikings/mobile",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "mobilevikings-internet-fibre-superfast",
@@ -2889,7 +2889,7 @@
    "lien": "https://mobilevikings.be/fr/internet/",
    "source": "https://www.astel.be/operateurs/mobile-vikings",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "mobilevikings-internet-fibre-megafast",
@@ -2916,7 +2916,7 @@
    "lien": "https://mobilevikings.be/fr/internet/",
    "source": "https://www.astel.be/operateurs/mobile-vikings",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "lycamobile-plan-star",
@@ -2943,7 +2943,7 @@
    "lien": "https://www.lycamobile.be/fr/bundles/forfait-prepaye/",
    "source": "lycamobile.be",
    "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "lycamobile-plan-l",
@@ -2960,7 +2960,7 @@
    "appels": "illimités",
    "vitesse": "",
    "engagement": "prépayé (30 jours)",
-   "conditions": "lycamobile.be/fr/bundle/belgium-plan-l/ affiche 30 EUR et 20 EUR par 30 jours sans preciser lequel est le prix standard ; les conditions indiquent que le prix reduit ne s'applique que les 2 premiers mois. A confirmer.",
+   "conditions": "La page officielle affiche deux montants sans etiquette (30 et 20) et precise que 'le prix reduit n'est applicable que pendant les deux premiers mois'. Lecture reconfirmee le 11/10/2026 : 30 EUR standard, 20 EUR pendant 2 mois. 100 Go (au lieu de 50 Go) pour les SIM renouvelees automatiquement.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -2970,7 +2970,7 @@
    "lien": "https://www.lycamobile.be/fr/bundles/forfait-prepaye/",
    "source": "https://www.lycamobile.be/fr/bundle/belgium-plan-l/",
    "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "voo-duo-net-mobile",
@@ -2987,16 +2987,16 @@
    "appels": "illimités",
    "vitesse": "200 Mbps / 10 Mbps",
    "engagement": "6 mois (pour bénéficier de la promo)",
-   "conditions": "Prix reconfirmes le 08/10/2026 sur voo.be/fr/offre ET sur callmepower.be/fr/telecom/fournisseurs/voo/pack (la divergence a 72/85 EUR relevee le 07/10 venait des prix 'des' en en-tete, pas des tableaux). Migration de VOO vers Orange en cours. Frais d'activation offerts toujours annonces sans date de fin.",
+   "conditions": "Prix reconfirmes le 11/10/2026 par deux sources concordantes : voo.be/fr/offre (65 / 68 / 78 EUR, tarifs en vigueur depuis le 01/01/2026) et callmepower.be/fr/telecom/fournisseurs/voo/pack (Duo Rapide + Streaming 65 EUR, Duo Rapide + 15GB 68 EUR, Trio Rapide + 15GB + Streaming 78 EUR). Frais d'activation offerts, toujours annonces sans date de fin. Rapprochement VOO-Orange en cours (lien 'VOO & Orange' sur voo.be), sans effet sur les prix a ce jour.",
    "jeune": false,
    "regions": [
     "WAL",
     "BXL"
    ],
    "lien": "https://www.voo.be/fr/offre",
-   "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (07/10/2026)",
-   "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (11/10/2026)",
+   "a_verifier": false,
+   "date_verif": "2026-10-11"
   },
   {
    "frais_activation": 0,
@@ -3144,11 +3144,11 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-09",
+   "date_verif": "2026-10-11",
    "promo_texte": "25,95 EUR/mois pendant 12 mois au lieu de 29,95 EUR (jusqu'au 31/12/2026)",
    "promo_mois": 12,
    "promo_prix_mensuel": 25.95,
-   "conditions": "Réservé aux nouveaux clients edpnet.",
+   "conditions": "Reconfirme le 11/10/2026 sur my.edpnet.net/fr/prive/internet.html : -4 EUR/mois pendant 12 mois pour les nouveaux clients VDSL, jusqu'au 31/12/2026. Test-achats lit 25,95 -> 21,95 EUR : il s'agit de l'en-tete 'a partir de 21,95 EUR' de la page, pas du tarif XS. Frais d'activation 50 EUR.",
    "vitesse": "20 Mbps",
    "id": "edpnet-vdsl-xs",
    "operateur": "EDPnet",
@@ -3171,7 +3171,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-09",
+   "date_verif": "2026-10-11",
    "promo_texte": "Raccordement fibre 99 EUR au lieu de 199 EUR + activation offerte (50 EUR) : confirmee sur my.edpnet.net le 06/10/2026",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -3198,7 +3198,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-09",
+   "date_verif": "2026-10-11",
    "promo_texte": "Raccordement fibre 99 EUR au lieu de 199 EUR + activation offerte (50 EUR) : confirmee sur my.edpnet.net le 06/10/2026",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -3239,7 +3239,7 @@
    "lien": "https://www.heytelecom.be/fr/internet-maison",
    "source": "callmepower.be/fr/telecom/fournisseurs/hey + heytelecom.be/fr/internet-maison (07/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "yoin-6go",
@@ -3266,7 +3266,7 @@
    "lien": "https://www.yoin.be/fr/abonnement-gsm",
    "source": "yoin.be + test-achats.be",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "yoin-60go",
@@ -3293,7 +3293,7 @@
    "lien": "https://www.yoin.be/fr/abonnement-gsm",
    "source": "yoin.be + test-achats.be",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "proximus-flex-mega-fiber-gsm-tv",
@@ -3320,7 +3320,7 @@
    "lien": "https://www.proximus.be/fr/packs",
    "source": "https://www.proximus.be/fr/packs",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "proximus-flex-giga-fiber-gsm-tv",
@@ -3347,7 +3347,7 @@
    "lien": "https://www.proximus.be/fr/packs",
    "source": "https://www.proximus.be/fr/packs",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "proximus-flex-ultra-fiber-gsm-tv",
@@ -3374,7 +3374,7 @@
    "lien": "https://www.proximus.be/fr/packs",
    "source": "https://www.proximus.be/fr/packs",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "orange-love-duo-small",
@@ -3391,7 +3391,7 @@
    "appels": "illimités",
    "vitesse": "150 Mbps / 20 Mbps",
    "engagement": "durée indéterminée",
-   "conditions": "Nouveaux clients Orange. Prix releves sur comparateur.be/telecom/fournisseurs/orange/promo le 08/10/2026 : non affiches sur orange.be, a confirmer. Avantage multi-produits deja inclus.",
+   "conditions": "Livebox + Mobile Small. Le prix promo de 51 EUR est confirme le 11/10/2026 par selectra.be (Livebox + Mobile Small 68 -> 51 EUR), mais le prix standard diverge (68 EUR chez selectra contre 61 EUR retenu ici, ecart proche de l'avantage multi-produits de 10,50 EUR). Prix de base a confirmer.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -3399,9 +3399,9 @@
     "VL"
    ],
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
-   "source": "https://www.comparateur.be/telecom/fournisseurs/orange/promo",
+   "source": "selectra.be/fr/telecom/fournisseurs/orange/pack-love + comparateur.be (11/10/2026)",
    "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "orange-love-duo-unlimited",
@@ -3418,7 +3418,7 @@
    "appels": "illimités",
    "vitesse": "150 Mbps / 20 Mbps",
    "engagement": "durée indéterminée",
-   "conditions": "Livebox + Mobile Unlimited. Prix releve uniquement sur comparateur.be (09/10/2026) : 82 -> 72 EUR/mois, reduction a vie. Nouveaux clients, souscription en ligne du 05/10 au 01/11/2026. Non affiche sur orange.be.",
+   "conditions": "Livebox + Mobile Unlimited. Prix promo de 72 EUR confirme le 11/10/2026 par selectra.be, mais son tableau classe l'offre avec le telephone fixe et affiche un prix standard de 93 EUR contre 82 EUR retenu ici. Prix de base a confirmer.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -3426,9 +3426,9 @@
     "VL"
    ],
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
-   "source": "comparateur.be",
+   "source": "selectra.be/fr/telecom/fournisseurs/orange/pack-love + comparateur.be (11/10/2026)",
    "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "orange-love-trio-small",
@@ -3445,7 +3445,7 @@
    "appels": "selon abonnement mobile",
    "vitesse": "200 Mbps (entrée de gamme)",
    "engagement": "durée indéterminée",
-   "conditions": "Livebox + decodeur TV + Mobile Small. Prix releve uniquement sur comparateur.be (09/10/2026) : 81 -> 71 EUR/mois, reduction a vie. Non affiche sur orange.be.",
+   "conditions": "Livebox + Mobile Small + Orange TV. Prix 81 -> 71 EUR confirme le 11/10/2026 par comparateur.be ; selectra.be lit le meme prix promo (71 EUR) mais un prix standard de 88 EUR. Prix de base a confirmer.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -3453,9 +3453,9 @@
     "VL"
    ],
    "lien": "https://www.orange.be/fr/produits-et-services/internet",
-   "source": "comparateur.be",
+   "source": "comparateur.be + selectra.be/fr/telecom/fournisseurs/orange/pack-love (11/10/2026)",
    "a_verifier": true,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   },
   {
    "id": "telenet-basic-tv",
@@ -3533,7 +3533,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "astel.be + test-achats.be",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-11"
   }
  ]
 }
