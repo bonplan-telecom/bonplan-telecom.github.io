@@ -1,5 +1,5 @@
 {
- "date": "2026-10-11",
+ "date": "2026-10-13",
  "offres": [
   {
    "id": "proximus-mobile-essential",
@@ -26,7 +26,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "proximus-mobile-easy",
@@ -53,7 +53,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "proximus-mobile-smart",
@@ -80,7 +80,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "proximus-mobile-maxi",
@@ -107,7 +107,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "proximus-mobile-unlimited",
@@ -134,7 +134,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "proximus-payandgo-plus-15",
@@ -188,7 +188,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "orange.be + selectra.be/fr/telecom/fournisseurs/orange + comparateur.be (11/10/2026)",
    "a_verifier": true,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "orange-mobile-medium",
@@ -215,7 +215,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "orange.be + selectra.be",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "orange-mobile-large",
@@ -242,7 +242,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "orange.be + astel.be",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "orange-mobile-unlimited",
@@ -269,7 +269,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "orange.be + selectra.be",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "orange-mobile-child",
@@ -457,7 +457,7 @@
    "lien": "https://www2.telenet.be/residential/fr/produits/mobile.html",
    "source": "https://www2.telenet.be/residential/fr/produits/mobile.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "telenet-mobile-unlimited",
@@ -483,7 +483,7 @@
    "lien": "https://www2.telenet.be/residential/fr/produits/mobile.html",
    "source": "https://www2.telenet.be/residential/fr/produits/mobile.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "telenet-mobile-junior",
@@ -536,7 +536,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "base-20",
@@ -563,7 +563,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans/base-20.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "base-29",
@@ -590,7 +590,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "base-39",
@@ -617,7 +617,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "mobilevikings-10go",
@@ -752,7 +752,7 @@
    "lien": "https://www.digi-belgium.be/fr",
    "source": "https://selectra.be/fr/telecom/fournisseurs/digi",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "digi-mobile-30",
@@ -779,7 +779,7 @@
    "lien": "https://www.digi-belgium.be/fr",
    "source": "https://selectra.be/fr/telecom/fournisseurs/digi",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "digi-mobile-60",
@@ -806,7 +806,7 @@
    "lien": "https://www.digi-belgium.be/fr",
    "source": "https://selectra.be/fr/telecom/fournisseurs/digi",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "digi-prepaid-5",
@@ -860,7 +860,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "https://www.heytelecom.be/fr/mobile",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "hey-mobile-m",
@@ -868,12 +868,12 @@
    "produit": "mobile",
    "nom": "hey! mobile M",
    "prix_mensuel": 9,
-   "promo_texte": "",
-   "promo_mois": 0,
-   "promo_prix_mensuel": null,
+   "promo_texte": "-2 EUR/mois pendant toute la duree du contrat + 10 Go offerts (35 Go au lieu de 25 Go) pour tout nouvel abonnement commande entre le 05/10/2026 et le 25/10/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 7,
    "frais_activation": 0,
    "frais_equipement": 0,
-   "data": "25 Go en Belgique et dans l'UE",
+   "data": "35 Go en Belgique et dans l'UE (25 Go + 10 Go de promo)",
    "appels": "illimités",
    "vitesse": "",
    "engagement": "sans engagement",
@@ -885,9 +885,9 @@
     "VL"
    ],
    "lien": "https://www.heytelecom.be/fr/mobile",
-   "source": "heytelecom.be/fr/abonnements-mobiles + callmepower.be/fr/telecom/fournisseurs/hey (11/10/2026)",
+   "source": "heytelecom.be/fr/abonnements-mobiles (conditions, 13/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "hey-mobile-l",
@@ -914,7 +914,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "heytelecom.be/fr/abonnements-mobiles + callmepower.be/fr/telecom/fournisseurs/hey (07/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "hey-mobile-xl",
@@ -941,7 +941,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "https://www.heytelecom.be/fr/abonnements-mobiles",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "yoin-30go",
@@ -968,7 +968,7 @@
    "lien": "https://www.yoin.be/fr",
    "source": "https://www.yoin.be/fr",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "yoin-80go",
@@ -995,7 +995,7 @@
    "lien": "https://www.yoin.be/fr",
    "source": "https://www.yoin.be/fr",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "yoin-150go",
@@ -1022,7 +1022,7 @@
    "lien": "https://www.yoin.be/fr",
    "source": "https://www.yoin.be/fr",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "voo-solo-15go",
@@ -1048,7 +1048,7 @@
    "lien": "https://www.voo.be/fr/mobile",
    "source": "voo.be / callmepower.be",
    "a_verifier": true,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "voo-solo-50go",
@@ -1074,7 +1074,7 @@
    "lien": "https://www.voo.be/fr/mobile",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/voo",
    "a_verifier": true,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "voo-solo-300go",
@@ -1100,7 +1100,7 @@
    "lien": "https://www.voo.be/fr/mobile",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/voo",
    "a_verifier": true,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "lycamobile-plan-s",
@@ -1208,7 +1208,7 @@
    "lien": "https://www.undo.be",
    "source": "https://undo.be/mobile-subscriptions/",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "undo-boost",
@@ -1235,7 +1235,7 @@
    "lien": "https://www.undo.be",
    "source": "https://undo.be/mobile-subscriptions/",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "proximus-internet-light-fiber",
@@ -1262,7 +1262,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "proximus-internet-mega-fiber",
@@ -1289,7 +1289,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "proximus-flex-internet-tv",
@@ -1316,7 +1316,7 @@
    "lien": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "source": "proximus.be/fr/packs (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "proximus-flex-internet-gsm-tv",
@@ -1343,7 +1343,7 @@
    "lien": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "source": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "scarlet-poco",
@@ -1370,7 +1370,7 @@
    "lien": "https://www.scarlet.be/fr/internet",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "scarlet-loco",
@@ -1397,7 +1397,7 @@
    "lien": "https://www.scarlet.be/fr/internet",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "scarlet-loco-fiber-boost",
@@ -1424,7 +1424,7 @@
    "lien": "https://www.scarlet.be/fr/internet",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "scarlet-trio-mobile",
@@ -1451,7 +1451,7 @@
    "lien": "https://www.scarlet.be/fr/packs",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "orange-livebox",
@@ -1478,7 +1478,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "orange.be/fr/produits-et-services/abonnement-internet + astel.be/prix-abonnement/orange/promotion + test-achats.be/hightech/telecom/news/promotions-telecom (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "orange-livebox-giga",
@@ -1505,7 +1505,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "orange.be/fr/produits-et-services/abonnement-internet + astel.be/prix-abonnement/orange/promotion + test-achats.be/hightech/telecom/news/promotions-telecom (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "orange-love-trio",
@@ -1532,7 +1532,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/internet",
    "source": "comparateur.be + test-achats.be",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "telenet-internet-basic",
@@ -1558,7 +1558,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "telenet-internet-standard",
@@ -1584,7 +1584,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "telenet-standard-tv",
@@ -1662,7 +1662,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/voo",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "voo-net-giga-max",
@@ -1714,7 +1714,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "voo-trio-net-tv-mobile",
@@ -1740,7 +1740,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "base-internet-unlimited",
@@ -1821,7 +1821,7 @@
    "lien": "https://www.base.be/en/internet.html",
    "source": "test-achats.be/hightech/telecom/news/promotions-telecom (06/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "digi-5g-home-internet",
@@ -1848,7 +1848,7 @@
    "lien": "https://www.digi-belgium.be/fr",
    "source": "https://selectra.be/fr/telecom/fournisseurs/digi",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "digi-fibre-500",
@@ -1873,7 +1873,7 @@
    "lien": "https://www.digi-belgium.be/en/internet-subscription-fiber",
    "source": "https://www.digi-belgium.be/en/internet-subscription-fiber",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "digi-fibre-1g",
@@ -1898,7 +1898,7 @@
    "lien": "https://www.digi-belgium.be/en/internet-subscription-fiber",
    "source": "https://www.digi-belgium.be/en/internet-subscription-fiber",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "mobilevikings-internet",
@@ -2006,7 +2006,7 @@
    "lien": "https://www.edpnet.be/fr/prive/internet.html",
    "source": "https://my.edpnet.net/fr/prive/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "edpnet-fiber-xl",
@@ -2033,7 +2033,7 @@
    "lien": "https://www.edpnet.be/fr/prive/internet.html",
    "source": "https://my.edpnet.net/fr/prive/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "proximus-etudiant-internet-light-fiber",
@@ -2433,7 +2433,7 @@
    "lien": "https://www.mega.be/fr/telecom/abonnements",
    "source": "https://www.mega.be/fr/telecom/abonnements ; https://www.astel.be/operateurs/mega",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "mega-mobile-30go",
@@ -2460,7 +2460,7 @@
    "lien": "https://www.mega.be/fr/telecom/abonnements",
    "source": "https://www.mega.be/fr/telecom/abonnements",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "mega-mobile-75go",
@@ -2487,7 +2487,7 @@
    "lien": "https://www.mega.be/fr/telecom/abonnements",
    "source": "https://www.mega.be/fr/telecom/abonnements",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "mega-mobile-120go",
@@ -2514,7 +2514,7 @@
    "lien": "https://www.mega.be/fr/telecom/abonnements",
    "source": "https://www.mega.be/fr/telecom/abonnements ; https://www.astel.be/operateurs/mega",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "proximus-internet-go-fiber",
@@ -2541,7 +2541,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "proximus-internet-giga-fiber",
@@ -2568,7 +2568,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "proximus-flex-internet-gsm",
@@ -2595,7 +2595,7 @@
    "lien": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "source": "proximus.be/fr/packs (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "orange-livebox-up",
@@ -2622,7 +2622,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "orange.be/fr/produits-et-services/abonnement-internet + astel.be/prix-abonnement/orange/promotion + test-achats.be/hightech/telecom/news/promotions-telecom (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "orange-love-duo-medium",
@@ -2630,7 +2630,7 @@
    "produit": "pack",
    "nom": "Love Duo (Internet + Mobile Medium)",
    "prix_mensuel": 76,
-   "promo_texte": "-20 EUR/mois (56 EUR au lieu de 76 EUR), frais de mise en service offerts (39 EUR), promo du 05/10 au 01/11/2026",
+   "promo_texte": "-20 EUR/mois a vie (56 EUR au lieu de 76 EUR) : -10 EUR/mois de promo web + avantage multi-produits de -10,50 EUR/mois, frais de mise en service offerts. Souscription en ligne jusqu'au 01/11/2026",
    "promo_mois": 999,
    "promo_prix_mensuel": 56,
    "frais_activation": 0,
@@ -2647,9 +2647,9 @@
     "VL"
    ],
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
-   "source": "selectra.be/fr/telecom/fournisseurs/orange/pack-love + comparateur.be (11/10/2026)",
-   "a_verifier": true,
-   "date_verif": "2026-10-11"
+   "source": "astel.be/prix-abonnement/orange/promotion + selectra.be/fr/telecom/fournisseurs/orange (13/10/2026)",
+   "a_verifier": false,
+   "date_verif": "2026-10-13"
   },
   {
    "id": "telenet-internet-turbo",
@@ -2675,7 +2675,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "scarlet-duo",
@@ -2702,7 +2702,7 @@
    "lien": "https://www.scarlet.be/fr/packs",
    "source": "https://www.scarlet.be/fr/packs",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "scarlet-trio",
@@ -2729,7 +2729,7 @@
    "lien": "https://www.scarlet.be/fr/packs",
    "source": "https://www.scarlet.be/fr/packs",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "base-internet-unlimited-plus",
@@ -2781,7 +2781,7 @@
    "lien": "https://www.digi-belgium.be/en/internet-subscription-fiber",
    "source": "https://www.digi-belgium.be/en/internet-subscription-fiber",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "digi-mobile-40",
@@ -2808,7 +2808,7 @@
    "lien": "https://www.digi-belgium.be/en/mobile-subscription",
    "source": "https://selectra.be/fr/telecom/fournisseurs/digi",
    "a_verifier": false,
-   "date_verif": "2026-10-09"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "mobilevikings-unlimited-basic",
@@ -2996,7 +2996,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "frais_activation": 0,
@@ -3090,7 +3090,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-09",
+   "date_verif": "2026-10-13",
    "promo_texte": "",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -3117,7 +3117,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-09",
+   "date_verif": "2026-10-13",
    "promo_texte": "",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -3144,7 +3144,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-11",
+   "date_verif": "2026-10-13",
    "promo_texte": "25,95 EUR/mois pendant 12 mois au lieu de 29,95 EUR (jusqu'au 31/12/2026)",
    "promo_mois": 12,
    "promo_prix_mensuel": 25.95,
@@ -3171,7 +3171,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-11",
+   "date_verif": "2026-10-13",
    "promo_texte": "Raccordement fibre 99 EUR au lieu de 199 EUR + activation offerte (50 EUR) : confirmee sur my.edpnet.net le 06/10/2026",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -3198,7 +3198,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-11",
+   "date_verif": "2026-10-13",
    "promo_texte": "Raccordement fibre 99 EUR au lieu de 199 EUR + activation offerte (50 EUR) : confirmee sur my.edpnet.net le 06/10/2026",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -3239,7 +3239,7 @@
    "lien": "https://www.heytelecom.be/fr/internet-maison",
    "source": "callmepower.be/fr/telecom/fournisseurs/hey + heytelecom.be/fr/internet-maison (07/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "yoin-6go",
@@ -3266,7 +3266,7 @@
    "lien": "https://www.yoin.be/fr/abonnement-gsm",
    "source": "yoin.be + test-achats.be",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "yoin-60go",
@@ -3293,7 +3293,7 @@
    "lien": "https://www.yoin.be/fr/abonnement-gsm",
    "source": "yoin.be + test-achats.be",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "proximus-flex-mega-fiber-gsm-tv",
@@ -3320,7 +3320,7 @@
    "lien": "https://www.proximus.be/fr/packs",
    "source": "https://www.proximus.be/fr/packs",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "proximus-flex-giga-fiber-gsm-tv",
@@ -3347,7 +3347,7 @@
    "lien": "https://www.proximus.be/fr/packs",
    "source": "https://www.proximus.be/fr/packs",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "proximus-flex-ultra-fiber-gsm-tv",
@@ -3374,7 +3374,7 @@
    "lien": "https://www.proximus.be/fr/packs",
    "source": "https://www.proximus.be/fr/packs",
    "a_verifier": false,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "orange-love-duo-small",
@@ -3401,7 +3401,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "selectra.be/fr/telecom/fournisseurs/orange/pack-love + comparateur.be (11/10/2026)",
    "a_verifier": true,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "orange-love-duo-unlimited",
@@ -3428,7 +3428,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "selectra.be/fr/telecom/fournisseurs/orange/pack-love + comparateur.be (11/10/2026)",
    "a_verifier": true,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "orange-love-trio-small",
@@ -3455,7 +3455,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/internet",
    "source": "comparateur.be + selectra.be/fr/telecom/fournisseurs/orange/pack-love (11/10/2026)",
    "a_verifier": true,
-   "date_verif": "2026-10-11"
+   "date_verif": "2026-10-13"
   },
   {
    "id": "telenet-basic-tv",
