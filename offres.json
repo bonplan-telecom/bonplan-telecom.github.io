@@ -1,5 +1,5 @@
 {
- "date": "2026-10-20",
+ "date": "2026-10-21",
  "offres": [
   {
    "id": "proximus-mobile-essential",
@@ -26,7 +26,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "proximus-mobile-easy",
@@ -53,7 +53,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "proximus-mobile-smart",
@@ -80,7 +80,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "proximus-mobile-maxi",
@@ -107,7 +107,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "proximus-mobile-unlimited",
@@ -134,7 +134,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "proximus-payandgo-plus-15",
@@ -188,7 +188,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "orange-mobile-medium",
@@ -215,7 +215,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "orange-mobile-large",
@@ -242,7 +242,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "orange-mobile-unlimited",
@@ -269,7 +269,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "orange-mobile-child",
@@ -296,7 +296,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "orange-tempo-giga",
@@ -350,7 +350,7 @@
    "lien": "https://www.scarlet.be/fr/abonnement-gsm",
    "source": "https://www.scarlet.be/fr/abonnement-gsm",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "scarlet-berry",
@@ -377,7 +377,7 @@
    "lien": "https://www.scarlet.be/fr/abonnement-gsm",
    "source": "https://www.scarlet.be/fr/abonnement-gsm",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "scarlet-cherry",
@@ -404,7 +404,7 @@
    "lien": "https://www.scarlet.be/fr/abonnement-gsm",
    "source": "https://www.scarlet.be/fr/abonnement-gsm",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "scarlet-hot",
@@ -431,7 +431,7 @@
    "lien": "https://www.scarlet.be/fr/abonnement-gsm",
    "source": "https://www.scarlet.be/fr/abonnement-gsm",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "telenet-mobile-basic",
@@ -536,7 +536,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "base-20",
@@ -563,7 +563,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans/base-20.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "base-29",
@@ -590,7 +590,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "base-39",
@@ -617,7 +617,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "mobilevikings-10go",
@@ -644,7 +644,7 @@
    "lien": "https://mobilevikings.be/fr/offer/subscriptions/",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/mobile-vikings/mobile",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "mobilevikings-40go",
@@ -671,7 +671,7 @@
    "lien": "https://mobilevikings.be/fr/offer/subscriptions/",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/mobile-vikings/mobile",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "mobilevikings-70go",
@@ -698,7 +698,7 @@
    "lien": "https://mobilevikings.be/fr/offer/subscriptions/",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/mobile-vikings/mobile",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "mobilevikings-unlimited-fast",
@@ -725,7 +725,7 @@
    "lien": "https://mobilevikings.be/fr/offer/subscriptions/",
    "source": "https://www.astel.be/operateurs/mobile-vikings",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "digi-mobile-7",
@@ -860,7 +860,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "https://www.heytelecom.be/fr/mobile",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "hey-mobile-m",
@@ -887,7 +887,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "heytelecom.be/fr/abonnements-mobiles (conditions, 13/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "hey-mobile-l",
@@ -914,7 +914,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "heytelecom.be/fr/abonnements-mobiles + callmepower.be/fr/telecom/fournisseurs/hey (07/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "hey-mobile-unlimited",
@@ -941,7 +941,7 @@
    "lien": "https://www.heytelecom.be/fr/abonnements-mobiles",
    "source": "https://www.heytelecom.be/fr/abonnements-mobiles",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "yoin-30go",
@@ -1028,27 +1028,27 @@
    "id": "voo-solo-15go",
    "operateur": "VOO",
    "produit": "mobile",
-   "nom": "Solo 15GB",
+   "nom": "Mobile 10GB",
    "prix_mensuel": 18,
    "promo_texte": "",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
    "frais_activation": 0,
    "frais_equipement": 0,
-   "data": "15 Go",
+   "data": "10 Go",
    "appels": "illimités",
    "vitesse": "",
    "engagement": "sans engagement",
-   "conditions": "Ecart de volume non tranche : voo.be/fr/offre libelle cette offre « Mobile 10GB » a 18 EUR/mois (3e consultation consecutive), alors que selectra.be annonce 15 Go au meme prix. Arret de commercialisation ecarte : callmepower (02/10/2026) confirme que VOO commercialise toujours 43 abonnements, sans promotion mobile. 4e consultation le 20/10/2026 : voo.be/fr/offre libelle toujours l'offre « Mobile 10GB » a 18 EUR, tandis que selectra.be/fr/telecom/fournisseurs/voo/mobile, page mise a jour le 20/10/2026, maintient « Solo 15GB » a 18 EUR avec appels et SMS illimites. Le desaccord porte uniquement sur le volume de data, pas sur le prix. Reste a verifier : la page officielle ne donne qu'un libellé de carte produit.",
+   "conditions": "Volume tranche le 21/10/2026 en faveur de la source officielle : voo.be/fr/offre libelle cette offre « Mobile 10GB » a 18 EUR/mois pour la cinquieme consultation consecutive (08, 18, 19, 20 et 21/10/2026), alors que selectra.be maintient « Solo 15GB » au meme prix. Apres cinq releves officiels concordants et un seul comparateur en desaccord, le libelle de VOO est retenu : 10 Go. Le prix de 18 EUR n'a jamais ete conteste. Appels et SMS illimites, sans engagement. Aucune promotion mobile en cours chez VOO.",
    "jeune": false,
    "regions": [
     "WAL",
     "BXL"
    ],
    "lien": "https://www.voo.be/fr/mobile",
-   "source": "voo.be / callmepower.be",
-   "a_verifier": true,
-   "date_verif": "2026-10-20"
+   "source": "https://www.voo.be/fr/offre",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
   },
   {
    "id": "voo-solo-50go",
@@ -1074,7 +1074,7 @@
    "lien": "https://www.voo.be/fr/mobile",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/voo",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "voo-solo-300go",
@@ -1100,7 +1100,7 @@
    "lien": "https://www.voo.be/fr/mobile",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/voo",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "lycamobile-plan-s",
@@ -1208,7 +1208,7 @@
    "lien": "https://www.undo.be",
    "source": "https://undo.be/mobile-subscriptions/",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "undo-boost",
@@ -1235,7 +1235,7 @@
    "lien": "https://www.undo.be",
    "source": "https://undo.be/mobile-subscriptions/",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "proximus-internet-light-fiber",
@@ -1289,7 +1289,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "proximus-flex-internet-tv",
@@ -1316,7 +1316,7 @@
    "lien": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "source": "proximus.be/fr/packs (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "proximus-flex-internet-gsm-tv",
@@ -1343,7 +1343,7 @@
    "lien": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "source": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "scarlet-poco",
@@ -1370,7 +1370,7 @@
    "lien": "https://www.scarlet.be/fr/internet",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "scarlet-loco",
@@ -1397,7 +1397,7 @@
    "lien": "https://www.scarlet.be/fr/internet",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "scarlet-loco-fiber-boost",
@@ -1424,7 +1424,7 @@
    "lien": "https://www.scarlet.be/fr/internet",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "scarlet-trio-mobile",
@@ -1478,7 +1478,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "orange.be/fr/produits-et-services/abonnement-internet + astel.be/prix-abonnement/orange/promotion + test-achats.be/hightech/telecom/news/promotions-telecom (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "orange-livebox-giga",
@@ -1505,7 +1505,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "orange.be/fr/produits-et-services/abonnement-internet + astel.be/prix-abonnement/orange/promotion + test-achats.be/hightech/telecom/news/promotions-telecom (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "orange-love-trio",
@@ -1522,7 +1522,7 @@
    "appels": "selon abonnement mobile",
    "vitesse": "jusqu'a 500 Mbps",
    "engagement": "durée indéterminée",
-   "conditions": "Prix normal corrige de 105 a 95 EUR le 20/10/2026 sur la base du tableau astel.be/operateurs/orange, qui donne Love Trio Mobile Medium a 85 EUR promo contre 95 EUR normal, pour un pack internet 400 Mbps (Livebox Up) + TV 70 chaines + Mobile Medium 70 Go : meme composition et meme prix promo que notre offre. Marque a verifier car astel est la seule source et orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10.",
+   "conditions": "Point « a verifier » leve le 21/10/2026 : la matrice astel.be/operateurs/orange/promotion donne Love Trio Livebox Up + decodeur TV + Mobile Medium sans telephone fixe a 85 EUR promo contre 95 EUR normal, confirmant le prix normal corrige le 20/10. Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -1530,9 +1530,9 @@
     "VL"
    ],
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
-   "source": "https://www.orange.be/fr/packs-internet-tv-mobile",
-   "a_verifier": true,
-   "date_verif": "2026-10-20"
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
   },
   {
    "id": "telenet-internet-basic",
@@ -1558,7 +1558,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "telenet-internet-standard",
@@ -1584,7 +1584,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "telenet-standard-tv",
@@ -1636,7 +1636,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "www2.telenet.be + astel.be",
    "a_verifier": false,
-   "date_verif": "2026-10-19"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "voo-net-super-relax",
@@ -1662,7 +1662,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/voo",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "voo-net-giga-max",
@@ -1714,7 +1714,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "voo-trio-net-tv-mobile",
@@ -1740,7 +1740,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "base-internet-unlimited",
@@ -1925,7 +1925,7 @@
    "lien": "https://mobilevikings.be/fr/internet/",
    "source": "https://www.astel.be/operateurs/mobile-vikings",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "mobilevikings-internet-fibre-5g",
@@ -1952,7 +1952,7 @@
    "lien": "https://mobilevikings.be/fr/internet/",
    "source": "https://www.astel.be/operateurs/mobile-vikings",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "mobilevikings-internet-gsm-40",
@@ -1979,7 +1979,7 @@
    "lien": "https://mobilevikings.be/fr/internet/",
    "source": "https://www.astel.be/prix-abonnement/mobile-vikings/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "edpnet-vdsl-xl",
@@ -2275,7 +2275,7 @@
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
    "source": "https://www2.telenet.be/residential/en/promos/students.html",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "telenet-etudiant-internet-standard",
@@ -2301,15 +2301,15 @@
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
    "source": "https://www2.telenet.be/residential/en/promos/students.html",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "telenet-etudiant-internet-mobile-200",
    "operateur": "Telenet",
    "produit": "pack",
    "nom": "Internet 200 Mbps + Mobile étudiant",
-   "prix_mensuel": 77.0,
-   "promo_texte": "Tarif etudiant 32,50 EUR/mois au lieu de 77 EUR + 6 mois de Netflix ou Disney+ offerts",
+   "prix_mensuel": 66,
+   "promo_texte": "Tarif etudiant 32,50 EUR/mois au lieu de 66 EUR + 6 mois de Netflix ou Disney+ offerts",
    "promo_mois": 12,
    "promo_prix_mensuel": 32.5,
    "frais_activation": 0,
@@ -2325,17 +2325,17 @@
     "BXL"
    ],
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
-   "source": "astel.be",
+   "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "telenet-etudiant-internet-mobile-500",
    "operateur": "Telenet",
    "produit": "pack",
    "nom": "Internet 500 Mbps + Mobile étudiant",
-   "prix_mensuel": 86.0,
-   "promo_texte": "Tarif etudiant 36,50 EUR/mois au lieu de 86 EUR + 6 mois de Netflix ou Disney+ offerts",
+   "prix_mensuel": 75,
+   "promo_texte": "Tarif etudiant 36,50 EUR/mois au lieu de 75 EUR + 6 mois de Netflix ou Disney+ offerts",
    "promo_mois": 12,
    "promo_prix_mensuel": 36.5,
    "frais_activation": 0,
@@ -2351,9 +2351,9 @@
     "BXL"
    ],
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
-   "source": "astel.be",
+   "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "telenet-etudiant-internet-turbo",
@@ -2379,7 +2379,7 @@
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
    "source": "astel.be",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "proximus-mobile-kids",
@@ -2541,7 +2541,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "proximus-internet-giga-fiber",
@@ -2568,7 +2568,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "proximus-flex-internet-gsm",
@@ -2595,7 +2595,7 @@
    "lien": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "source": "proximus.be/fr/packs (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "orange-livebox-up",
@@ -2622,7 +2622,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "orange.be/fr/produits-et-services/abonnement-internet + astel.be/prix-abonnement/orange/promotion + test-achats.be/hightech/telecom/news/promotions-telecom (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "orange-love-duo-medium",
@@ -2649,7 +2649,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "astel.be/prix-abonnement/orange/promotion + selectra.be/fr/telecom/fournisseurs/orange (13/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "telenet-internet-turbo",
@@ -2675,7 +2675,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "scarlet-duo",
@@ -2835,7 +2835,7 @@
    "lien": "https://mobilevikings.be/fr/offer/subscriptions/",
    "source": "https://www.astel.be/operateurs/mobile-vikings",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "mobilevikings-unlimited-superfast",
@@ -2862,7 +2862,7 @@
    "lien": "https://mobilevikings.be/fr/offer/subscriptions/",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/mobile-vikings/mobile",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "mobilevikings-internet-fibre-superfast",
@@ -2889,7 +2889,7 @@
    "lien": "https://mobilevikings.be/fr/internet/",
    "source": "https://www.astel.be/operateurs/mobile-vikings",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "mobilevikings-internet-fibre-megafast",
@@ -2916,7 +2916,7 @@
    "lien": "https://mobilevikings.be/fr/internet/",
    "source": "https://www.astel.be/operateurs/mobile-vikings",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "lycamobile-plan-star",
@@ -2996,7 +2996,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "frais_activation": 0,
@@ -3090,7 +3090,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-20",
+   "date_verif": "2026-10-21",
    "promo_texte": "",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -3117,7 +3117,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-20",
+   "date_verif": "2026-10-21",
    "promo_texte": "",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -3401,7 +3401,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "selectra.be/fr/telecom/fournisseurs/orange/pack-love + comparateur.be (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "orange-love-duo-unlimited",
@@ -3418,7 +3418,7 @@
    "appels": "illimités",
    "vitesse": "150 Mbps / 20 Mbps",
    "engagement": "durée indéterminée",
-   "conditions": "Toujours a verifier au 20/10/2026 : aucune fiche « Livebox + Mobile Unlimited » chez astel (seules les variantes Livebox Up et Livebox Giga existent). La fiche Livebox Up + Mobile Unlimited (id=2616) donne 91 EUR/mois - 10 EUR = 81 EUR/mois ; l'ecart Livebox Up / Livebox vaut 9 EUR sur la gamme Medium (75 contre 66), ce qui redonne bien 82 EUR pour notre offre. Le chiffre tient donc par deduction, pas par lecture directe. orange.be/fr/packs-internet-tv-mobile est en erreur pour le 3e jour consecutif.",
+   "conditions": "Point « a verifier » leve le 21/10/2026 : la matrice astel.be/operateurs/orange/promotion donne Love Duo Livebox + Mobile Unlimited sans telephone fixe a 72 EUR promo contre 82 EUR normal, soit exactement nos chiffres, obtenus jusqu'ici par deduction. Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -3426,17 +3426,17 @@
     "VL"
    ],
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
-   "source": "selectra.be/fr/telecom/fournisseurs/orange/pack-love + comparateur.be (11/10/2026)",
-   "a_verifier": true,
-   "date_verif": "2026-10-20"
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
   },
   {
    "id": "orange-love-trio-small",
    "operateur": "Orange Belgium",
    "produit": "pack",
    "nom": "Love Trio (Livebox + Mobile Small + Orange TV Lite)",
-   "prix_mensuel": 78,
-   "promo_texte": "61 EUR/mois au lieu de 78 EUR (prix a vie) + frais de mise en service de 39 EUR offerts pour toute commande en ligne du 05/10 au 01/11/2026",
+   "prix_mensuel": 71,
+   "promo_texte": "61 EUR/mois au lieu de 71 EUR (prix a vie) + frais de mise en service de 39 EUR offerts pour toute commande en ligne du 05/10 au 01/11/2026",
    "promo_mois": 999,
    "promo_prix_mensuel": 61,
    "frais_activation": 0,
@@ -3445,7 +3445,7 @@
    "appels": "selon abonnement mobile",
    "vitesse": "jusqu'a 200 Mbps",
    "engagement": "durée indéterminée",
-   "conditions": "A verifier depuis le 20/10/2026 : astel.be/operateurs/orange ne connait pas de Love Trio avec TV Lite ; sa formule Trio Mobile Small (Livebox Up 400 Mbps + TV 70 chaines + 12 Go) est a 80 EUR promo contre 90 EUR normal, nettement au-dessus de nos 61 / 78 EUR. Les deux lectures peuvent coexister (TV Lite a 20 chaines contre TV a 70 chaines), mais aucune source officielle ne confirme plus notre configuration. selectra.be/fr/telecom/fournisseurs/orange/pack-love est inutilisable : son tableau, pourtant date du 19/10/2026, decrit encore les anciens volumes mobiles (Small 8 Go, Medium 50 Go, Large 300 Go).",
+   "conditions": "Prix normal corrige de 78 a 71 EUR le 21/10/2026, et point « a verifier » leve : la matrice astel.be/operateurs/orange/promotion donne Love Trio Livebox + TV Lite + Mobile Small sans telephone fixe a 61 EUR promo contre 71 EUR normal. Le prix promo de 61 EUR etait juste. Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -3453,9 +3453,9 @@
     "VL"
    ],
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
-   "source": "https://www.orange.be/fr/packs-internet-tv-mobile",
-   "a_verifier": true,
-   "date_verif": "2026-10-20"
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
   },
   {
    "id": "telenet-basic-tv",
@@ -3507,7 +3507,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "astel.be + www2.telenet.be",
    "a_verifier": false,
-   "date_verif": "2026-10-19"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "telenet-basic-tv-mobile-unlimited",
@@ -3560,7 +3560,7 @@
    "lien": "https://undo.be/fr",
    "source": "https://undo.be/mobile-subscriptions/",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "undo-rise-sms",
@@ -3587,7 +3587,7 @@
    "lien": "https://undo.be/fr",
    "source": "https://undo.be/mobile-subscriptions/",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "undo-boost-sms",
@@ -3614,24 +3614,24 @@
    "lien": "https://undo.be/fr",
    "source": "https://undo.be/mobile-subscriptions/",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-21"
   },
   {
    "id": "orange-love-trio-unlimited",
    "operateur": "Orange Belgium",
    "produit": "pack",
-   "nom": "Love Trio (Livebox Giga + Mobile Unlimited + Orange TV Plus)",
-   "prix_mensuel": 144,
-   "promo_prix_mensuel": 118,
+   "nom": "Love Trio (Livebox Giga + decodeur TV + Mobile Unlimited)",
+   "prix_mensuel": 121,
+   "promo_prix_mensuel": 106,
    "promo_mois": 999,
-   "promo_texte": "118 EUR/mois au lieu de 144 EUR (prix a vie) + frais de mise en service de 39 EUR offerts pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_texte": "106 EUR/mois au lieu de 121 EUR (prix a vie) + frais de mise en service de 39 EUR offerts pour toute commande en ligne du 05/10 au 01/11/2026",
    "frais_activation": 0,
    "frais_equipement": 0,
    "data": "300 Go",
    "appels": "illimites",
    "vitesse": "jusqu'a 1 Gbps",
    "engagement": "duree indeterminee",
-   "conditions": "A verifier depuis le 20/10/2026 : astel.be/operateurs/orange donne Trio Mobile Unlimited a 101 EUR promo contre 111 EUR normal, mais sur un internet Livebox Up 400 Mbps, alors que notre offre porte sur une Livebox Giga 1 Gbps avec Orange TV Plus. Les deux prix ne sont donc pas comparables et nos 118 / 144 EUR ne sont plus confirmes par aucune source.",
+   "conditions": "Prix corriges le 21/10/2026 (121 / 106 EUR au lieu de 144 / 118 EUR) et point « a verifier » leve. La matrice astel.be/operateurs/orange/promotion donne Love Trio Livebox Giga + decodeur TV + Mobile Unlimited a 106 EUR promo contre 121 EUR normal sans telephone fixe, et 118 / 133 EUR avec telephone fixe : notre ancien prix promo de 118 EUR correspondait donc a la variante avec ligne fixe, et notre prix normal de 144 EUR n'apparait dans aucune des 36 combinaisons publiees. Comme toutes nos autres offres Love sont encodees sans telephone fixe, l'offre est alignee sur la variante sans fixe. Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -3639,9 +3639,9 @@
     "VL"
    ],
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
-   "source": "https://www.orange.be/fr/packs-internet-tv-mobile",
-   "a_verifier": true,
-   "date_verif": "2026-10-20"
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
   },
   {
    "id": "neibo-mix-budget",
@@ -3904,7 +3904,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-20",
+   "date_verif": "2026-10-21",
    "id": "orange-love-duo-large",
    "operateur": "Orange Belgium",
    "produit": "pack",
@@ -3931,7 +3931,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-20",
+   "date_verif": "2026-10-21",
    "id": "orange-love-duo-up-unlimited",
    "operateur": "Orange Belgium",
    "produit": "pack",
@@ -3958,7 +3958,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-20",
+   "date_verif": "2026-10-21",
    "id": "mobilevikings-internet-gsm-70",
    "operateur": "Mobile Vikings",
    "produit": "pack",
@@ -3985,7 +3985,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-20",
+   "date_verif": "2026-10-21",
    "id": "mobilevikings-internet-gsm-unlimited-fast",
    "operateur": "Mobile Vikings",
    "produit": "pack",
@@ -4012,7 +4012,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-20",
+   "date_verif": "2026-10-21",
    "id": "mobilevikings-fibre-gsm-40",
    "operateur": "Mobile Vikings",
    "produit": "pack",
@@ -4039,7 +4039,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-20",
+   "date_verif": "2026-10-21",
    "id": "mobilevikings-fibre-gsm-70",
    "operateur": "Mobile Vikings",
    "produit": "pack",
@@ -4066,7 +4066,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-20",
+   "date_verif": "2026-10-21",
    "id": "mobilevikings-fibre-gsm-unlimited-fast",
    "operateur": "Mobile Vikings",
    "produit": "pack",
@@ -4076,7 +4076,7 @@
    "source": "https://www.astel.be/operateurs/mobile-vikings"
   },
   {
-   "promo_texte": "Tarif etudiant 40 EUR/mois au lieu de 97 EUR + 6 mois de Netflix ou Disney+ offerts",
+   "promo_texte": "Tarif etudiant 40 EUR/mois au lieu de 77 EUR + 6 mois de Netflix ou Disney+ offerts",
    "promo_mois": 12,
    "promo_prix_mensuel": 40,
    "frais_activation": 0,
@@ -4091,18 +4091,18 @@
     "VL",
     "BXL"
    ],
-   "a_verifier": true,
-   "date_verif": "2026-10-20",
+   "a_verifier": false,
+   "date_verif": "2026-10-21",
    "id": "telenet-etudiant-basic-mobile-unlimited",
    "operateur": "Telenet",
    "produit": "pack",
    "nom": "Internet Basic + Mobile Unlimited étudiant",
-   "prix_mensuel": 97,
+   "prix_mensuel": 77,
    "lien": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion"
   },
   {
-   "promo_texte": "Tarif etudiant 44 EUR/mois au lieu de 106 EUR + 6 mois de Netflix ou Disney+ offerts",
+   "promo_texte": "Tarif etudiant 44 EUR/mois au lieu de 86 EUR + 6 mois de Netflix ou Disney+ offerts",
    "promo_mois": 12,
    "promo_prix_mensuel": 44,
    "frais_activation": 0,
@@ -4117,18 +4117,18 @@
     "VL",
     "BXL"
    ],
-   "a_verifier": true,
-   "date_verif": "2026-10-20",
+   "a_verifier": false,
+   "date_verif": "2026-10-21",
    "id": "telenet-etudiant-standard-mobile-unlimited",
    "operateur": "Telenet",
    "produit": "pack",
    "nom": "Internet Standard + Mobile Unlimited étudiant",
-   "prix_mensuel": 106,
+   "prix_mensuel": 86,
    "lien": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion"
   },
   {
-   "promo_texte": "Tarif etudiant 49,50 EUR/mois au lieu de 106 EUR + 6 mois de Netflix ou Disney+ offerts",
+   "promo_texte": "Tarif etudiant 49,50 EUR/mois au lieu de 95 EUR + 6 mois de Netflix ou Disney+ offerts",
    "promo_mois": 12,
    "promo_prix_mensuel": 49.5,
    "frais_activation": 0,
@@ -4143,18 +4143,18 @@
     "VL",
     "BXL"
    ],
-   "a_verifier": true,
-   "date_verif": "2026-10-20",
+   "a_verifier": false,
+   "date_verif": "2026-10-21",
    "id": "telenet-etudiant-turbo-mobile-basic",
    "operateur": "Telenet",
    "produit": "pack",
    "nom": "Internet Turbo + Mobile Basic étudiant",
-   "prix_mensuel": 106,
+   "prix_mensuel": 95,
    "lien": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion"
   },
   {
-   "promo_texte": "Tarif etudiant 57 EUR/mois au lieu de 126 EUR + 6 mois de Netflix ou Disney+ offerts",
+   "promo_texte": "Tarif etudiant 57 EUR/mois au lieu de 106 EUR + 6 mois de Netflix ou Disney+ offerts",
    "promo_mois": 12,
    "promo_prix_mensuel": 57,
    "frais_activation": 0,
@@ -4169,13 +4169,13 @@
     "VL",
     "BXL"
    ],
-   "a_verifier": true,
-   "date_verif": "2026-10-20",
+   "a_verifier": false,
+   "date_verif": "2026-10-21",
    "id": "telenet-etudiant-turbo-mobile-unlimited",
    "operateur": "Telenet",
    "produit": "pack",
    "nom": "Internet Turbo + Mobile Unlimited étudiant",
-   "prix_mensuel": 126,
+   "prix_mensuel": 106,
    "lien": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion"
   },
@@ -4205,6 +4205,461 @@
    "prix_mensuel": 101.99,
    "lien": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "source": "https://www.test-achats.be/hightech/telecom/news/promotions-telecom"
+  },
+  {
+   "id": "orange-love-duo-up-small",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Love Duo (Livebox Up + Mobile Small)",
+   "prix_mensuel": 70,
+   "promo_texte": "-10 EUR/mois pendant toute la duree du contrat : 60 EUR/mois au lieu de 70 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 60,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + 12 Go mobile",
+   "appels": "illimités",
+   "vitesse": "jusqu'a 500 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
+  },
+  {
+   "id": "orange-love-duo-up-medium",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Love Duo (Livebox Up + Mobile Medium)",
+   "prix_mensuel": 75,
+   "promo_texte": "-10 EUR/mois pendant toute la duree du contrat : 65 EUR/mois au lieu de 75 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 65,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + 70 Go mobile",
+   "appels": "illimités",
+   "vitesse": "jusqu'a 500 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
+  },
+  {
+   "id": "orange-love-duo-up-large",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Love Duo (Livebox Up + Mobile Large)",
+   "prix_mensuel": 80.5,
+   "promo_texte": "-15 EUR/mois pendant toute la duree du contrat : 65,5 EUR/mois au lieu de 80,5 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 65.5,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + 140 Go mobile",
+   "appels": "illimités",
+   "vitesse": "jusqu'a 500 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
+  },
+  {
+   "id": "orange-love-duo-giga-medium",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Love Duo (Livebox Giga + Mobile Medium)",
+   "prix_mensuel": 85,
+   "promo_texte": "-15 EUR/mois pendant toute la duree du contrat : 70 EUR/mois au lieu de 85 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 70,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + 70 Go mobile",
+   "appels": "illimités",
+   "vitesse": "jusqu'a 1 Gbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
+  },
+  {
+   "id": "orange-love-duo-giga-unlimited",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Love Duo (Livebox Giga + Mobile Unlimited)",
+   "prix_mensuel": 101,
+   "promo_texte": "-15 EUR/mois pendant toute la duree du contrat : 86 EUR/mois au lieu de 101 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 86,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + mobile illimité (300 Go puis 512 kbps)",
+   "appels": "illimités",
+   "vitesse": "jusqu'a 1 Gbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
+  },
+  {
+   "id": "orange-love-trio-lite-medium",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Love Trio (Livebox + TV Lite + Mobile Medium)",
+   "prix_mensuel": 76,
+   "promo_texte": "-10 EUR/mois pendant toute la duree du contrat : 66 EUR/mois au lieu de 76 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 66,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + 70 Go mobile",
+   "appels": "illimités",
+   "vitesse": "150 Mbps / 20 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
+  },
+  {
+   "id": "orange-love-trio-lite-unlimited",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Love Trio (Livebox + TV Lite + Mobile Unlimited)",
+   "prix_mensuel": 92,
+   "promo_texte": "-10 EUR/mois pendant toute la duree du contrat : 82 EUR/mois au lieu de 92 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 82,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + mobile illimité (300 Go puis 512 kbps)",
+   "appels": "illimités",
+   "vitesse": "150 Mbps / 20 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
+  },
+  {
+   "id": "orange-love-trio-deco-small",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Love Trio (Livebox + decodeur TV + Mobile Small)",
+   "prix_mensuel": 81,
+   "promo_texte": "-10 EUR/mois pendant toute la duree du contrat : 71 EUR/mois au lieu de 81 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 71,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + 12 Go mobile",
+   "appels": "illimités",
+   "vitesse": "150 Mbps / 20 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
+  },
+  {
+   "id": "orange-love-trio-deco-medium",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Love Trio (Livebox + decodeur TV + Mobile Medium)",
+   "prix_mensuel": 86,
+   "promo_texte": "-10 EUR/mois pendant toute la duree du contrat : 76 EUR/mois au lieu de 86 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 76,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + 70 Go mobile",
+   "appels": "illimités",
+   "vitesse": "150 Mbps / 20 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
+  },
+  {
+   "id": "orange-love-trio-deco-large",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Love Trio (Livebox + decodeur TV + Mobile Large)",
+   "prix_mensuel": 91.5,
+   "promo_texte": "-15 EUR/mois pendant toute la duree du contrat : 76,5 EUR/mois au lieu de 91,5 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 76.5,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + 140 Go mobile",
+   "appels": "illimités",
+   "vitesse": "150 Mbps / 20 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
+  },
+  {
+   "id": "orange-love-trio-deco-unlimited",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Love Trio (Livebox + decodeur TV + Mobile Unlimited)",
+   "prix_mensuel": 102,
+   "promo_texte": "-10 EUR/mois pendant toute la duree du contrat : 92 EUR/mois au lieu de 102 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 92,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + mobile illimité (300 Go puis 512 kbps)",
+   "appels": "illimités",
+   "vitesse": "150 Mbps / 20 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
+  },
+  {
+   "id": "orange-love-trio-up-large",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Love Trio (Livebox Up + decodeur TV + Mobile Large)",
+   "prix_mensuel": 100.5,
+   "promo_texte": "-15 EUR/mois pendant toute la duree du contrat : 85,5 EUR/mois au lieu de 100,5 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 85.5,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + 140 Go mobile",
+   "appels": "illimités",
+   "vitesse": "jusqu'a 500 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
+  },
+  {
+   "id": "orange-love-trio-up-unlimited",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Love Trio (Livebox Up + decodeur TV + Mobile Unlimited)",
+   "prix_mensuel": 111,
+   "promo_texte": "-10 EUR/mois pendant toute la duree du contrat : 101 EUR/mois au lieu de 111 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 101,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + mobile illimité (300 Go puis 512 kbps)",
+   "appels": "illimités",
+   "vitesse": "jusqu'a 500 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 21/10/2026 dans la matrice complete de astel.be/operateurs/orange/promotion, qui publie pour la premiere fois les 24 combinaisons Love Duo et les 36 combinaisons Love Trio avec, pour chacune, prix promo et prix normal cote a cote (Livebox / Livebox Up / Livebox Giga, TV Lite ou decodeur, avec ou sans telephone fixe). Cette matrice redonne a l'identique les huit offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Up+Unlimited 81/91, Love Trio Up+Medium 85/95), ce qui valide la lecture. Le cashback Astel est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
+  },
+  {
+   "id": "telenet-basic-mobile-unlimited",
+   "operateur": "Telenet",
+   "produit": "pack",
+   "nom": "Internet Basic + Mobile Unlimited",
+   "prix_mensuel": 77,
+   "promo_texte": "62 EUR/mois pendant 6 mois au lieu de 77 EUR + 6 mois de Netflix ou Disney+ offerts",
+   "promo_mois": 6,
+   "promo_prix_mensuel": 62,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + mobile illimité (300 Go puis 1 Mbps)",
+   "appels": "illimités",
+   "vitesse": "200 Mbps / 20 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Prix normal et prix promo releves le 21/10/2026 dans le tableau astel.be/operateurs/telenet/promotion, qui publie les six combinaisons internet + mobile avec le prix des 6 premiers mois et le prix ensuite. Ce tableau redonne a l'identique les trois offres internet seules deja encodees (51/56, 58/65, 76/85) et les deux packs deja encodes (56/66 et 63/75), ce qui valide la lecture. Reduction de 6 mois pour les nouveaux clients Telenet, souscription du 05/10 au 01/11/2026. Inclut 6 mois de Netflix ou Disney+ offerts, activation et installation gratuites. Le cashback Astel est exclu.",
+   "jeune": false,
+   "regions": [
+    "VL",
+    "BXL"
+   ],
+   "lien": "https://www2.telenet.be/residential/fr/produits/internet.html",
+   "source": "https://www.astel.be/operateurs/telenet/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
+  },
+  {
+   "id": "telenet-standard-mobile-unlimited",
+   "operateur": "Telenet",
+   "produit": "pack",
+   "nom": "Internet Standard + Mobile Unlimited",
+   "prix_mensuel": 86,
+   "promo_texte": "69 EUR/mois pendant 6 mois au lieu de 86 EUR + 6 mois de Netflix ou Disney+ offerts",
+   "promo_mois": 6,
+   "promo_prix_mensuel": 69,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + mobile illimité (300 Go puis 1 Mbps)",
+   "appels": "illimités",
+   "vitesse": "500 Mbps / 50 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Prix normal et prix promo releves le 21/10/2026 dans le tableau astel.be/operateurs/telenet/promotion, qui publie les six combinaisons internet + mobile avec le prix des 6 premiers mois et le prix ensuite. Ce tableau redonne a l'identique les trois offres internet seules deja encodees (51/56, 58/65, 76/85) et les deux packs deja encodes (56/66 et 63/75), ce qui valide la lecture. Reduction de 6 mois pour les nouveaux clients Telenet, souscription du 05/10 au 01/11/2026. Inclut 6 mois de Netflix ou Disney+ offerts, activation et installation gratuites. Le cashback Astel est exclu.",
+   "jeune": false,
+   "regions": [
+    "VL",
+    "BXL"
+   ],
+   "lien": "https://www2.telenet.be/residential/fr/produits/internet.html",
+   "source": "https://www.astel.be/operateurs/telenet/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
+  },
+  {
+   "id": "telenet-turbo-mobile-basic",
+   "operateur": "Telenet",
+   "produit": "pack",
+   "nom": "Internet Turbo + Mobile Basic",
+   "prix_mensuel": 95,
+   "promo_texte": "81 EUR/mois pendant 6 mois au lieu de 95 EUR + 6 mois de Netflix ou Disney+ offerts",
+   "promo_mois": 6,
+   "promo_prix_mensuel": 81,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + 15 Go mobile",
+   "appels": "illimités",
+   "vitesse": "jusqu'a 2,5 Gbps",
+   "engagement": "sans engagement",
+   "conditions": "Prix normal et prix promo releves le 21/10/2026 dans le tableau astel.be/operateurs/telenet/promotion, qui publie les six combinaisons internet + mobile avec le prix des 6 premiers mois et le prix ensuite. Ce tableau redonne a l'identique les trois offres internet seules deja encodees (51/56, 58/65, 76/85) et les deux packs deja encodes (56/66 et 63/75), ce qui valide la lecture. Reduction de 6 mois pour les nouveaux clients Telenet, souscription du 05/10 au 01/11/2026. Inclut 6 mois de Netflix ou Disney+ offerts, activation et installation gratuites. Le cashback Astel est exclu.",
+   "jeune": false,
+   "regions": [
+    "VL",
+    "BXL"
+   ],
+   "lien": "https://www2.telenet.be/residential/fr/produits/internet.html",
+   "source": "https://www.astel.be/operateurs/telenet/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
+  },
+  {
+   "id": "telenet-turbo-mobile-unlimited",
+   "operateur": "Telenet",
+   "produit": "pack",
+   "nom": "Internet Turbo + Mobile Unlimited",
+   "prix_mensuel": 106,
+   "promo_texte": "87 EUR/mois pendant 6 mois au lieu de 106 EUR + 6 mois de Netflix ou Disney+ offerts",
+   "promo_mois": 6,
+   "promo_prix_mensuel": 87,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (fixe) + mobile illimité (300 Go puis 1 Mbps)",
+   "appels": "illimités",
+   "vitesse": "jusqu'a 2,5 Gbps",
+   "engagement": "sans engagement",
+   "conditions": "Prix normal et prix promo releves le 21/10/2026 dans le tableau astel.be/operateurs/telenet/promotion, qui publie les six combinaisons internet + mobile avec le prix des 6 premiers mois et le prix ensuite. Ce tableau redonne a l'identique les trois offres internet seules deja encodees (51/56, 58/65, 76/85) et les deux packs deja encodes (56/66 et 63/75), ce qui valide la lecture. Reduction de 6 mois pour les nouveaux clients Telenet, souscription du 05/10 au 01/11/2026. Inclut 6 mois de Netflix ou Disney+ offerts, activation et installation gratuites. Le cashback Astel est exclu.",
+   "jeune": false,
+   "regions": [
+    "VL",
+    "BXL"
+   ],
+   "lien": "https://www2.telenet.be/residential/fr/produits/internet.html",
+   "source": "https://www.astel.be/operateurs/telenet/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-21"
   }
  ]
 }
