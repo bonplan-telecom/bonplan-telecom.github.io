@@ -1,5 +1,5 @@
 {
- "date": "2026-10-21",
+ "date": "2026-10-27",
  "offres": [
   {
    "id": "proximus-mobile-essential",
@@ -26,7 +26,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "proximus-mobile-easy",
@@ -53,7 +53,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "proximus-mobile-smart",
@@ -80,7 +80,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "proximus-mobile-maxi",
@@ -107,7 +107,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "proximus-mobile-unlimited",
@@ -134,7 +134,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "proximus-payandgo-plus-15",
@@ -188,7 +188,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-mobile-medium",
@@ -215,7 +215,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-mobile-large",
@@ -232,7 +232,7 @@
    "appels": "illimités",
    "vitesse": "5G",
    "engagement": "sans engagement",
-   "conditions": "Promo renforcee le 18/10/2026 sur orange.be : -8 EUR/mois (21 EUR) au lieu de -5 EUR/mois (24 EUR) le 13/10. Astel affichait encore 24 EUR le 18/10 : le site officiel prime.",
+   "conditions": "Promo renforcee le 18/10/2026 sur orange.be : -8 EUR/mois (21 EUR) au lieu de -5 EUR/mois (24 EUR) le 13/10. Astel affichait encore 24 EUR le 18/10 : le site officiel prime. Revu le 27/10/2026 : astel.be/operateurs/orange/promotion affiche toujours 24 EUR (-5 EUR/mois) la ou orange.be detaille 21 EUR (-8 EUR/mois). Le site officiel prime.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -242,7 +242,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-mobile-unlimited",
@@ -269,7 +269,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-mobile-child",
@@ -296,7 +296,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-tempo-giga",
@@ -522,11 +522,11 @@
    "promo_prix_mensuel": 10.5,
    "frais_activation": 0,
    "frais_equipement": 0,
-   "data": "15 Go",
+   "data": "20 Go",
    "appels": "illimités",
    "vitesse": "",
    "engagement": "sans engagement",
-   "conditions": "Réservé aux nouveaux clients BASE ou clients existants depuis plus de 3 mois. Non cumulable avec d'autres promos (sauf avantage combo Internet & TV).",
+   "conditions": "Réservé aux nouveaux clients BASE ou clients existants depuis plus de 3 mois. Non cumulable avec d'autres promos (sauf avantage combo Internet & TV). Volumes de data augmentes le 27/10/2026 (releve sur base.be/fr/abonnements) sans changement de prix : 20 / 60 / 150 / 350 Go au lieu de 15 / 50 / 90 / 300 Go.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -536,7 +536,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "base-20",
@@ -549,11 +549,11 @@
    "promo_prix_mensuel": 14,
    "frais_activation": 0,
    "frais_equipement": 0,
-   "data": "50 Go",
+   "data": "60 Go",
    "appels": "illimités",
    "vitesse": "5G",
    "engagement": "sans engagement",
-   "conditions": "Réservé aux nouveaux clients BASE ou clients existants depuis plus de 3 mois. Non cumulable avec d'autres promos (sauf avantage combo Internet & TV).",
+   "conditions": "Réservé aux nouveaux clients BASE ou clients existants depuis plus de 3 mois. Non cumulable avec d'autres promos (sauf avantage combo Internet & TV). Volumes de data augmentes le 27/10/2026 (releve sur base.be/fr/abonnements) sans changement de prix : 20 / 60 / 150 / 350 Go au lieu de 15 / 50 / 90 / 300 Go.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -563,7 +563,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans/base-20.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "base-29",
@@ -576,11 +576,11 @@
    "promo_prix_mensuel": 20.3,
    "frais_activation": 0,
    "frais_equipement": 0,
-   "data": "90 Go",
+   "data": "150 Go",
    "appels": "illimités",
    "vitesse": "5G",
    "engagement": "sans engagement",
-   "conditions": "Réservé aux nouveaux clients BASE ou clients existants depuis plus de 3 mois. Non cumulable avec d'autres promos (sauf avantage combo Internet & TV).",
+   "conditions": "Réservé aux nouveaux clients BASE ou clients existants depuis plus de 3 mois. Non cumulable avec d'autres promos (sauf avantage combo Internet & TV). Volumes de data augmentes le 27/10/2026 (releve sur base.be/fr/abonnements) sans changement de prix : 20 / 60 / 150 / 350 Go au lieu de 15 / 50 / 90 / 300 Go.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -590,7 +590,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "base-39",
@@ -603,11 +603,11 @@
    "promo_prix_mensuel": 27.3,
    "frais_activation": 0,
    "frais_equipement": 0,
-   "data": "300 Go",
+   "data": "350 Go",
    "appels": "illimités",
    "vitesse": "5G",
    "engagement": "sans engagement",
-   "conditions": "Réservé aux nouveaux clients BASE ou clients existants depuis plus de 3 mois. Non cumulable avec d'autres promos (sauf avantage combo Internet & TV).",
+   "conditions": "Réservé aux nouveaux clients BASE ou clients existants depuis plus de 3 mois. Non cumulable avec d'autres promos (sauf avantage combo Internet & TV). Volumes de data augmentes le 27/10/2026 (releve sur base.be/fr/abonnements) sans changement de prix : 20 / 60 / 150 / 350 Go au lieu de 15 / 50 / 90 / 300 Go.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -617,7 +617,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "mobilevikings-10go",
@@ -860,7 +860,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "https://www.heytelecom.be/fr/mobile",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "hey-mobile-m",
@@ -868,16 +868,16 @@
    "produit": "mobile",
    "nom": "hey! mobile M",
    "prix_mensuel": 9,
-   "promo_texte": "-2 EUR/mois pendant toute la duree du contrat + 10 Go offerts (35 Go au lieu de 25 Go) pour tout nouvel abonnement commande entre le 05/10/2026 et le 25/10/2026",
+   "promo_texte": "-2 EUR/mois pendant toute la duree du contrat (7 EUR au lieu de 9 EUR) pour tout nouvel abonnement commande du 26/10/2026 au 01/11/2026 inclus",
    "promo_mois": 999,
    "promo_prix_mensuel": 7,
    "frais_activation": 0,
    "frais_equipement": 0,
-   "data": "35 Go en Belgique et dans l'UE (25 Go + 10 Go de promo)",
+   "data": "25 Go en Belgique et dans l'UE",
    "appels": "illimités",
    "vitesse": "",
    "engagement": "sans engagement",
-   "conditions": "Promo retiree le 11/10/2026 : les conditions officielles de heytelecom.be limitent la reduction (-2 EUR/mois + 10 Go) aux commandes du 24/08 au 04/10/2026 incluses, fenetre desormais close, et callmepower.be ne liste plus aucune promo mobile hey! (9 EUR / 25 Go). Une reduction de -4 EUR/mois a vie existe sur les forfaits L et XL en combinaison avec un internet hey! (jusqu'au 01/11/2026).",
+   "conditions": "Nouvelle fenetre de commande ouverte le 26/10/2026 (la precedente se terminait le 25/10) : heytelecom.be/fr/abonnements-mobiles annonce la reduction de -2 EUR/mois a vie pour les commandes jusqu'au 01/11/2026 inclus, verifiee le 27/10/2026. Les 10 Go supplementaires de la campagne precedente ne sont plus offerts : le forfait revient a 25 Go. Promo non cumulable avec une autre promotion. Une reduction multi-produits de -4 EUR/mois existe sur les forfaits L et Unlimited en combinaison avec un internet hey! (jusqu'au 01/11/2026).",
    "jeune": false,
    "regions": [
     "BXL",
@@ -885,9 +885,9 @@
     "VL"
    ],
    "lien": "https://www.heytelecom.be/fr/mobile",
-   "source": "heytelecom.be/fr/abonnements-mobiles (conditions, 13/10/2026)",
+   "source": "heytelecom.be/fr/abonnements-mobiles (27/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "hey-mobile-l",
@@ -914,7 +914,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "heytelecom.be/fr/abonnements-mobiles + callmepower.be/fr/telecom/fournisseurs/hey (07/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "hey-mobile-unlimited",
@@ -941,7 +941,7 @@
    "lien": "https://www.heytelecom.be/fr/abonnements-mobiles",
    "source": "https://www.heytelecom.be/fr/abonnements-mobiles",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "yoin-30go",
@@ -1048,7 +1048,7 @@
    "lien": "https://www.voo.be/fr/mobile",
    "source": "https://www.voo.be/fr/offre",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-22"
   },
   {
    "id": "voo-solo-50go",
@@ -1144,7 +1144,7 @@
    "appels": "illimites",
    "vitesse": "",
    "engagement": "prépayé (30 jours)",
-   "conditions": "Pass prepaye 30 jours. Souscription 3, 6 ou 12 mois possible avec jusqu'a -32%. Duree de la reduction non communiquee : a reverifier.",
+   "conditions": "Pass prepaye 30 jours. Souscription 3, 6 ou 12 mois possible avec jusqu'a -32%. Duree de la reduction non communiquee : a reverifier. Page officielle lycamobile.be/fr/national-plans/ retentee le 22/10/2026 : toujours aucun tarif publie (reduite a une mention de plans prepayes et eSIM) et astel.be/operateurs/lycamobile toujours en erreur. Chiffre inchange, reste a verifier. Page officielle et fiche astel retentees le 27/10/2026 : toujours sans tarif.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -1154,7 +1154,7 @@
    "lien": "https://www.lycamobile.be/fr/bundle/belgium-plan-m/",
    "source": "https://www.lycamobile.be/fr/bundle/belgium-plan-m/",
    "a_verifier": true,
-   "date_verif": "2026-10-19"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "lycamobile-plan-xxl",
@@ -1289,7 +1289,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "proximus-flex-internet-tv",
@@ -1316,7 +1316,7 @@
    "lien": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "source": "proximus.be/fr/packs (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "proximus-flex-internet-gsm-tv",
@@ -1343,7 +1343,7 @@
    "lien": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "source": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "scarlet-poco",
@@ -1370,7 +1370,7 @@
    "lien": "https://www.scarlet.be/fr/internet",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "scarlet-loco",
@@ -1397,7 +1397,7 @@
    "lien": "https://www.scarlet.be/fr/internet",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "scarlet-loco-fiber-boost",
@@ -1424,7 +1424,7 @@
    "lien": "https://www.scarlet.be/fr/internet",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "scarlet-trio-mobile",
@@ -1478,7 +1478,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "orange.be/fr/produits-et-services/abonnement-internet + astel.be/prix-abonnement/orange/promotion + test-achats.be/hightech/telecom/news/promotions-telecom (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-livebox-giga",
@@ -1505,7 +1505,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "orange.be/fr/produits-et-services/abonnement-internet + astel.be/prix-abonnement/orange/promotion + test-achats.be/hightech/telecom/news/promotions-telecom (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-love-trio",
@@ -1532,7 +1532,7 @@
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "telenet-internet-basic",
@@ -1558,7 +1558,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "telenet-internet-standard",
@@ -1584,7 +1584,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "telenet-standard-tv",
@@ -1610,7 +1610,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "www2.telenet.be + astel.be",
    "a_verifier": false,
-   "date_verif": "2026-10-19"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "telenet-standard-mobile",
@@ -1636,7 +1636,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "www2.telenet.be + astel.be",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "voo-net-super-relax",
@@ -1662,7 +1662,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/voo",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "voo-net-giga-max",
@@ -1714,7 +1714,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "voo-trio-net-tv-mobile",
@@ -1740,7 +1740,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "base-internet-unlimited",
@@ -1767,7 +1767,7 @@
    "lien": "https://www.base.be/en/internet.html",
    "source": "base.be",
    "a_verifier": false,
-   "date_verif": "2026-10-18"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "base-internet-limited",
@@ -1794,7 +1794,7 @@
    "lien": "https://www.base.be/en/internet.html",
    "source": "base.be",
    "a_verifier": false,
-   "date_verif": "2026-10-18"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "base-pack-internet-tv-mobile",
@@ -1807,11 +1807,11 @@
    "promo_prix_mensuel": 64.4,
    "frais_activation": 0,
    "frais_equipement": 0,
-   "data": "50 Go mobile + internet illimite",
+   "data": "60 Go mobile + internet illimite",
    "appels": "illimites",
    "vitesse": "Internet Unlimited (illimite)",
    "engagement": "sans engagement",
-   "conditions": "Internet Unlimited + TV Box + Mobile 50 Go. Le prix de 47 EUR retenu jusqu'ici etait errone. Chiffre resolu le 11/10/2026 : test-achats lit 76 -> 64,40 EUR et le calcul concorde exactement avec les remises publiees par BASE ((40 internet + 16 TV) x 0,9 + 20 mobile x 0,7 = 64,40). Campagne du 29/09 au 16/11/2026, activation (30 EUR) et installation (59 EUR) offertes.",
+   "conditions": "Internet Unlimited + TV Box + Mobile 50 Go. Le prix de 47 EUR retenu jusqu'ici etait errone. Chiffre resolu le 11/10/2026 : test-achats lit 76 -> 64,40 EUR et le calcul concorde exactement avec les remises publiees par BASE ((40 internet + 16 TV) x 0,9 + 20 mobile x 0,7 = 64,40). Campagne du 29/09 au 16/11/2026, activation (30 EUR) et installation (59 EUR) offertes. Le forfait GSM 20 inclus passe de 50 a 60 Go le 27/10/2026, a prix inchange.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -1821,7 +1821,7 @@
    "lien": "https://www.base.be/en/internet.html",
    "source": "test-achats.be/hightech/telecom/news/promotions-telecom (06/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-19"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "digi-5g-home-internet",
@@ -2275,7 +2275,7 @@
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
    "source": "https://www2.telenet.be/residential/en/promos/students.html",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "telenet-etudiant-internet-standard",
@@ -2301,7 +2301,7 @@
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
    "source": "https://www2.telenet.be/residential/en/promos/students.html",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "telenet-etudiant-internet-mobile-200",
@@ -2327,7 +2327,7 @@
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "telenet-etudiant-internet-mobile-500",
@@ -2353,7 +2353,7 @@
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "telenet-etudiant-internet-turbo",
@@ -2379,7 +2379,7 @@
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
    "source": "astel.be",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "proximus-mobile-kids",
@@ -2541,7 +2541,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "proximus-internet-giga-fiber",
@@ -2568,7 +2568,7 @@
    "lien": "https://www.proximus.be/fr/abonnement-internet",
    "source": "https://www.proximus.be/fr/abonnement-internet",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "proximus-flex-internet-gsm",
@@ -2595,7 +2595,7 @@
    "lien": "https://www.proximus.be/fr/packs/internet-gsm-tv",
    "source": "proximus.be/fr/packs (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-livebox-up",
@@ -2622,7 +2622,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "orange.be/fr/produits-et-services/abonnement-internet + astel.be/prix-abonnement/orange/promotion + test-achats.be/hightech/telecom/news/promotions-telecom (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-love-duo-medium",
@@ -2649,7 +2649,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "astel.be/prix-abonnement/orange/promotion + selectra.be/fr/telecom/fournisseurs/orange (13/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "telenet-internet-turbo",
@@ -2675,7 +2675,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "scarlet-duo",
@@ -2756,7 +2756,7 @@
    "lien": "https://www.base.be/en/internet.html",
    "source": "base.be",
    "a_verifier": false,
-   "date_verif": "2026-10-18"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "digi-fibre-10g",
@@ -2933,7 +2933,7 @@
    "appels": "750 min + 750 SMS",
    "vitesse": "",
    "engagement": "prépayé (30 jours)",
-   "conditions": "Pass prepaye 30 jours. Lycamobile annonce 10 EUR/mois au lieu de 15 EUR sans communiquer de duree : encode comme reduction continue, a reverifier.",
+   "conditions": "Pass prepaye 30 jours. Lycamobile annonce 10 EUR/mois au lieu de 15 EUR sans communiquer de duree : encode comme reduction continue, a reverifier. Page officielle lycamobile.be/fr/national-plans/ retentee le 22/10/2026 : toujours aucun tarif publie (reduite a une mention de plans prepayes et eSIM) et astel.be/operateurs/lycamobile toujours en erreur. Chiffre inchange, reste a verifier. Page officielle et fiche astel retentees le 27/10/2026 : toujours sans tarif.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -2943,7 +2943,7 @@
    "lien": "https://www.lycamobile.be/fr/bundles/forfait-prepaye/",
    "source": "lycamobile.be",
    "a_verifier": true,
-   "date_verif": "2026-10-19"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "lycamobile-plan-l",
@@ -2960,7 +2960,7 @@
    "appels": "illimites",
    "vitesse": "",
    "engagement": "prépayé (30 jours)",
-   "conditions": "Pass prepaye 30 jours. Duree de la reduction non communiquee : a reverifier.",
+   "conditions": "Pass prepaye 30 jours. Duree de la reduction non communiquee : a reverifier. Page officielle lycamobile.be/fr/national-plans/ retentee le 22/10/2026 : toujours aucun tarif publie (reduite a une mention de plans prepayes et eSIM) et astel.be/operateurs/lycamobile toujours en erreur. Chiffre inchange, reste a verifier. Page officielle et fiche astel retentees le 27/10/2026 : toujours sans tarif.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -2970,7 +2970,7 @@
    "lien": "https://www.lycamobile.be/fr/bundles/forfait-prepaye/",
    "source": "https://www.lycamobile.be/fr/bundle/belgium-plan-l/",
    "a_verifier": true,
-   "date_verif": "2026-10-19"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "voo-duo-net-mobile",
@@ -2996,7 +2996,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "frais_activation": 0,
@@ -3239,7 +3239,7 @@
    "lien": "https://www.heytelecom.be/fr/internet-maison",
    "source": "callmepower.be/fr/telecom/fournisseurs/hey + heytelecom.be/fr/internet-maison (07/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-20"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "yoin-6go",
@@ -3401,7 +3401,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "selectra.be/fr/telecom/fournisseurs/orange/pack-love + comparateur.be (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-love-duo-unlimited",
@@ -3428,7 +3428,7 @@
    "lien": "https://www.orange.be/fr/produits-et-services/abonnement-internet",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-love-trio-small",
@@ -3455,7 +3455,7 @@
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "telenet-basic-tv",
@@ -3481,7 +3481,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "astel.be + www2.telenet.be",
    "a_verifier": false,
-   "date_verif": "2026-10-19"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "telenet-basic-mobile",
@@ -3507,7 +3507,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "astel.be + www2.telenet.be",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "telenet-basic-tv-mobile-unlimited",
@@ -3533,7 +3533,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "astel.be + test-achats.be",
    "a_verifier": false,
-   "date_verif": "2026-10-19"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "undo-zero-waste-sms",
@@ -3641,7 +3641,7 @@
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "neibo-mix-budget",
@@ -3904,7 +3904,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-21",
+   "date_verif": "2026-10-27",
    "id": "orange-love-duo-large",
    "operateur": "Orange Belgium",
    "produit": "pack",
@@ -3931,7 +3931,7 @@
     "VL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-21",
+   "date_verif": "2026-10-27",
    "id": "orange-love-duo-up-unlimited",
    "operateur": "Orange Belgium",
    "produit": "pack",
@@ -4092,7 +4092,7 @@
     "BXL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-21",
+   "date_verif": "2026-10-27",
    "id": "telenet-etudiant-basic-mobile-unlimited",
    "operateur": "Telenet",
    "produit": "pack",
@@ -4118,7 +4118,7 @@
     "BXL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-21",
+   "date_verif": "2026-10-27",
    "id": "telenet-etudiant-standard-mobile-unlimited",
    "operateur": "Telenet",
    "produit": "pack",
@@ -4144,7 +4144,7 @@
     "BXL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-21",
+   "date_verif": "2026-10-27",
    "id": "telenet-etudiant-turbo-mobile-basic",
    "operateur": "Telenet",
    "produit": "pack",
@@ -4170,7 +4170,7 @@
     "BXL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-10-21",
+   "date_verif": "2026-10-27",
    "id": "telenet-etudiant-turbo-mobile-unlimited",
    "operateur": "Telenet",
    "produit": "pack",
@@ -4231,7 +4231,7 @@
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-love-duo-up-medium",
@@ -4258,7 +4258,7 @@
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-love-duo-up-large",
@@ -4285,7 +4285,7 @@
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-love-duo-giga-medium",
@@ -4312,7 +4312,7 @@
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-love-duo-giga-unlimited",
@@ -4339,7 +4339,7 @@
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-love-trio-lite-medium",
@@ -4366,7 +4366,7 @@
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-love-trio-lite-unlimited",
@@ -4393,7 +4393,7 @@
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-love-trio-deco-small",
@@ -4420,7 +4420,7 @@
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-love-trio-deco-medium",
@@ -4447,7 +4447,7 @@
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-love-trio-deco-large",
@@ -4474,7 +4474,7 @@
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-love-trio-deco-unlimited",
@@ -4501,7 +4501,7 @@
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-love-trio-up-large",
@@ -4528,7 +4528,7 @@
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "orange-love-trio-up-unlimited",
@@ -4555,7 +4555,7 @@
    "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
    "source": "https://www.astel.be/operateurs/orange/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "telenet-basic-mobile-unlimited",
@@ -4581,7 +4581,7 @@
    "lien": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "telenet-standard-mobile-unlimited",
@@ -4607,7 +4607,7 @@
    "lien": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "telenet-turbo-mobile-basic",
@@ -4633,7 +4633,7 @@
    "lien": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
   },
   {
    "id": "telenet-turbo-mobile-unlimited",
@@ -4659,7 +4659,1081 @@
    "lien": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-10-21"
+   "date_verif": "2026-10-27"
+  },
+  {
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (usage raisonnable 3 TB/mois)",
+   "appels": "illimités",
+   "vitesse": "150 Mbps / 20 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 22/10/2026 dans la matrice de astel.be/operateurs/orange/promotion, qui publie prix promo et prix normal cote a cote pour les 18 combinaisons Livebox seule et les 60 combinaisons Love Duo et Trio. La matrice redonne a l'identique les offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Giga+Medium 70/85, Giga+Unlimited 86/101, Up+Unlimited 81/91, Trio Up+Medium 85/95), ce qui valide la lecture. Variante sans telephone fixe. Le cashback Astel (verse par virement 3 mois apres la commande) est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026 (5e jour).",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-27",
+   "promo_texte": "-10 EUR/mois pendant toute la duree du contrat : 53 EUR/mois au lieu de 63 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 53,
+   "id": "orange-livebox-tv-lite",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Livebox + Orange TV Lite",
+   "prix_mensuel": 63
+  },
+  {
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (usage raisonnable 3 TB/mois)",
+   "appels": "illimités",
+   "vitesse": "400 Mbps / 30 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 22/10/2026 dans la matrice de astel.be/operateurs/orange/promotion, qui publie prix promo et prix normal cote a cote pour les 18 combinaisons Livebox seule et les 60 combinaisons Love Duo et Trio. La matrice redonne a l'identique les offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Giga+Medium 70/85, Giga+Unlimited 86/101, Up+Unlimited 81/91, Trio Up+Medium 85/95), ce qui valide la lecture. Variante sans telephone fixe. Le cashback Astel (verse par virement 3 mois apres la commande) est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026 (5e jour).",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-27",
+   "promo_texte": "-10 EUR/mois pendant toute la duree du contrat : 62 EUR/mois au lieu de 72 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 62,
+   "id": "orange-livebox-up-tv-lite",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Livebox Up + Orange TV Lite",
+   "prix_mensuel": 72
+  },
+  {
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (usage raisonnable 3 TB/mois)",
+   "appels": "illimités",
+   "vitesse": "1 Gbps / 50 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 22/10/2026 dans la matrice de astel.be/operateurs/orange/promotion, qui publie prix promo et prix normal cote a cote pour les 18 combinaisons Livebox seule et les 60 combinaisons Love Duo et Trio. La matrice redonne a l'identique les offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Giga+Medium 70/85, Giga+Unlimited 86/101, Up+Unlimited 81/91, Trio Up+Medium 85/95), ce qui valide la lecture. Variante sans telephone fixe. Le cashback Astel (verse par virement 3 mois apres la commande) est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026 (5e jour).",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-27",
+   "promo_texte": "-15 EUR/mois pendant toute la duree du contrat : 67 EUR/mois au lieu de 82 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 67,
+   "id": "orange-livebox-giga-tv-lite",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Livebox Giga + Orange TV Lite",
+   "prix_mensuel": 82
+  },
+  {
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (usage raisonnable 3 TB/mois)",
+   "appels": "illimités",
+   "vitesse": "150 Mbps / 20 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 22/10/2026 dans la matrice de astel.be/operateurs/orange/promotion, qui publie prix promo et prix normal cote a cote pour les 18 combinaisons Livebox seule et les 60 combinaisons Love Duo et Trio. La matrice redonne a l'identique les offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Giga+Medium 70/85, Giga+Unlimited 86/101, Up+Unlimited 81/91, Trio Up+Medium 85/95), ce qui valide la lecture. Variante sans telephone fixe. Le cashback Astel (verse par virement 3 mois apres la commande) est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026 (5e jour).",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-27",
+   "promo_texte": "-10 EUR/mois pendant toute la duree du contrat : 63 EUR/mois au lieu de 73 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 63,
+   "id": "orange-livebox-deco",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Livebox + decodeur Orange TV",
+   "prix_mensuel": 73
+  },
+  {
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (usage raisonnable 3 TB/mois)",
+   "appels": "illimités",
+   "vitesse": "400 Mbps / 30 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 22/10/2026 dans la matrice de astel.be/operateurs/orange/promotion, qui publie prix promo et prix normal cote a cote pour les 18 combinaisons Livebox seule et les 60 combinaisons Love Duo et Trio. La matrice redonne a l'identique les offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Giga+Medium 70/85, Giga+Unlimited 86/101, Up+Unlimited 81/91, Trio Up+Medium 85/95), ce qui valide la lecture. Variante sans telephone fixe. Le cashback Astel (verse par virement 3 mois apres la commande) est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026 (5e jour).",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-27",
+   "promo_texte": "-10 EUR/mois pendant toute la duree du contrat : 72 EUR/mois au lieu de 82 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 72,
+   "id": "orange-livebox-up-deco",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Livebox Up + decodeur Orange TV",
+   "prix_mensuel": 82
+  },
+  {
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité (usage raisonnable 3 TB/mois)",
+   "appels": "illimités",
+   "vitesse": "1 Gbps / 50 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 22/10/2026 dans la matrice de astel.be/operateurs/orange/promotion, qui publie prix promo et prix normal cote a cote pour les 18 combinaisons Livebox seule et les 60 combinaisons Love Duo et Trio. La matrice redonne a l'identique les offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Giga+Medium 70/85, Giga+Unlimited 86/101, Up+Unlimited 81/91, Trio Up+Medium 85/95), ce qui valide la lecture. Variante sans telephone fixe. Le cashback Astel (verse par virement 3 mois apres la commande) est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026 (5e jour).",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-27",
+   "promo_texte": "-15 EUR/mois pendant toute la duree du contrat : 77 EUR/mois au lieu de 92 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 77,
+   "id": "orange-livebox-giga-deco",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Livebox Giga + decodeur Orange TV",
+   "prix_mensuel": 92
+  },
+  {
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "140 Go (mobile) ; internet fixe illimité",
+   "appels": "illimités",
+   "vitesse": "1 Gbps / 50 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 22/10/2026 dans la matrice de astel.be/operateurs/orange/promotion, qui publie prix promo et prix normal cote a cote pour les 18 combinaisons Livebox seule et les 60 combinaisons Love Duo et Trio. La matrice redonne a l'identique les offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Giga+Medium 70/85, Giga+Unlimited 86/101, Up+Unlimited 81/91, Trio Up+Medium 85/95), ce qui valide la lecture. Variante sans telephone fixe. Le cashback Astel (verse par virement 3 mois apres la commande) est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026 (5e jour).",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-27",
+   "promo_texte": "-20 EUR/mois pendant toute la duree du contrat : 70,5 EUR/mois au lieu de 90,5 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 70.5,
+   "id": "orange-love-duo-giga-large",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Love Duo (Livebox Giga + Mobile Large)",
+   "prix_mensuel": 90.5
+  },
+  {
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "140 Go (mobile) ; internet fixe illimité",
+   "appels": "illimités",
+   "vitesse": "1 Gbps / 50 Mbps",
+   "engagement": "durée indéterminée",
+   "conditions": "Releve le 22/10/2026 dans la matrice de astel.be/operateurs/orange/promotion, qui publie prix promo et prix normal cote a cote pour les 18 combinaisons Livebox seule et les 60 combinaisons Love Duo et Trio. La matrice redonne a l'identique les offres Orange deja encodees (Livebox 43/53, Livebox Up 52/62, Livebox Giga 57/72, Love Duo Small 51/61, Medium 56/66, Large 56,50/71,50, Giga+Medium 70/85, Giga+Unlimited 86/101, Up+Unlimited 81/91, Trio Up+Medium 85/95), ce qui valide la lecture. Variante sans telephone fixe. Le cashback Astel (verse par virement 3 mois apres la commande) est exclu. orange.be/fr/packs-internet-tv-mobile est en erreur depuis le 19/10/2026 (5e jour).",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.orange.be/fr/packs-internet-tv-mobile",
+   "source": "https://www.astel.be/operateurs/orange/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-27",
+   "promo_texte": "-20 EUR/mois pendant toute la duree du contrat : 90,5 EUR/mois au lieu de 110,5 EUR + frais de mise en service de 39 EUR offerts, pour toute commande en ligne du 05/10 au 01/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 90.5,
+   "id": "orange-love-trio-giga-large",
+   "operateur": "Orange Belgium",
+   "produit": "pack",
+   "nom": "Love Trio (Livebox Giga + decodeur TV + Mobile Large)",
+   "prix_mensuel": 110.5
+  },
+  {
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimité",
+   "appels": "illimités",
+   "vitesse": "2,5 Gbps / 100 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Releve le 22/10/2026 dans le tableau de astel.be/operateurs/telenet/promotion (prix promo 6 mois et prix normal cote a cote pour 24 combinaisons internet / TV / mobile / telephone fixe). Le tableau redonne a l'identique les offres Telenet deja encodees (internet seul 51/56, 58/65, 76/85 ; Basic+Mobile Basic 56/66 ; Standard+Mobile Basic 63/75 ; Basic+TV 51/76 ; Standard+TV 58/85 ; Basic+TV+Mobile Unlimited 62/97), ce qui valide la lecture. Variante sans telephone fixe. Decodeur et offre de base TV offerts 6 mois. Nouveaux clients, commandes du 05/10 au 01/11/2026. Activation et installation offertes (135 EUR). 6 mois de Netflix ou Disney+ offerts. Le cashback Astel est exclu.",
+   "jeune": false,
+   "regions": [
+    "VL",
+    "BXL"
+   ],
+   "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
+   "source": "https://www.astel.be/operateurs/telenet/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-27",
+   "promo_texte": "76 EUR/mois pendant 6 mois au lieu de 105 EUR (decodeur et offre de base TV offerts) + activation et installation offertes + 6 mois de Netflix ou Disney+ offerts",
+   "promo_mois": 6,
+   "promo_prix_mensuel": 76,
+   "id": "telenet-turbo-tv",
+   "operateur": "Telenet",
+   "produit": "pack",
+   "nom": "Internet Turbo + decodeur TV",
+   "prix_mensuel": 105
+  },
+  {
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "15 GB (mobile) ; internet fixe illimité",
+   "appels": "illimités",
+   "vitesse": "200 Mbps download / 20 Mbps upload",
+   "engagement": "sans engagement",
+   "conditions": "Releve le 22/10/2026 dans le tableau de astel.be/operateurs/telenet/promotion (prix promo 6 mois et prix normal cote a cote pour 24 combinaisons internet / TV / mobile / telephone fixe). Le tableau redonne a l'identique les offres Telenet deja encodees (internet seul 51/56, 58/65, 76/85 ; Basic+Mobile Basic 56/66 ; Standard+Mobile Basic 63/75 ; Basic+TV 51/76 ; Standard+TV 58/85 ; Basic+TV+Mobile Unlimited 62/97), ce qui valide la lecture. Variante sans telephone fixe. Decodeur et offre de base TV offerts 6 mois. Nouveaux clients, commandes du 05/10 au 01/11/2026. Activation et installation offertes (135 EUR). 6 mois de Netflix ou Disney+ offerts. Le cashback Astel est exclu.",
+   "jeune": false,
+   "regions": [
+    "VL",
+    "BXL"
+   ],
+   "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
+   "source": "https://www.astel.be/operateurs/telenet/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-27",
+   "promo_texte": "56 EUR/mois pendant 6 mois au lieu de 86 EUR (decodeur et offre de base TV offerts) + activation et installation offertes + 6 mois de Netflix ou Disney+ offerts",
+   "promo_mois": 6,
+   "promo_prix_mensuel": 56,
+   "id": "telenet-basic-tv-mobile",
+   "operateur": "Telenet",
+   "produit": "pack",
+   "nom": "Internet Basic + decodeur TV + Mobile Basic",
+   "prix_mensuel": 86
+  },
+  {
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "15 GB (mobile) ; internet fixe illimité",
+   "appels": "illimités",
+   "vitesse": "500 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Releve le 22/10/2026 dans le tableau de astel.be/operateurs/telenet/promotion (prix promo 6 mois et prix normal cote a cote pour 24 combinaisons internet / TV / mobile / telephone fixe). Le tableau redonne a l'identique les offres Telenet deja encodees (internet seul 51/56, 58/65, 76/85 ; Basic+Mobile Basic 56/66 ; Standard+Mobile Basic 63/75 ; Basic+TV 51/76 ; Standard+TV 58/85 ; Basic+TV+Mobile Unlimited 62/97), ce qui valide la lecture. Variante sans telephone fixe. Decodeur et offre de base TV offerts 6 mois. Nouveaux clients, commandes du 05/10 au 01/11/2026. Activation et installation offertes (135 EUR). 6 mois de Netflix ou Disney+ offerts. Le cashback Astel est exclu.",
+   "jeune": false,
+   "regions": [
+    "VL",
+    "BXL"
+   ],
+   "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
+   "source": "https://www.astel.be/operateurs/telenet/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-27",
+   "promo_texte": "63 EUR/mois pendant 6 mois au lieu de 95 EUR (decodeur et offre de base TV offerts) + activation et installation offertes + 6 mois de Netflix ou Disney+ offerts",
+   "promo_mois": 6,
+   "promo_prix_mensuel": 63,
+   "id": "telenet-standard-tv-mobile",
+   "operateur": "Telenet",
+   "produit": "pack",
+   "nom": "Internet Standard + decodeur TV + Mobile Basic",
+   "prix_mensuel": 95
+  },
+  {
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "mobile illimité (300 Go a pleine vitesse puis 1 Mbps) ; internet fixe illimité",
+   "appels": "illimités",
+   "vitesse": "500 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Releve le 22/10/2026 dans le tableau de astel.be/operateurs/telenet/promotion (prix promo 6 mois et prix normal cote a cote pour 24 combinaisons internet / TV / mobile / telephone fixe). Le tableau redonne a l'identique les offres Telenet deja encodees (internet seul 51/56, 58/65, 76/85 ; Basic+Mobile Basic 56/66 ; Standard+Mobile Basic 63/75 ; Basic+TV 51/76 ; Standard+TV 58/85 ; Basic+TV+Mobile Unlimited 62/97), ce qui valide la lecture. Variante sans telephone fixe. Decodeur et offre de base TV offerts 6 mois. Nouveaux clients, commandes du 05/10 au 01/11/2026. Activation et installation offertes (135 EUR). 6 mois de Netflix ou Disney+ offerts. Le cashback Astel est exclu.",
+   "jeune": false,
+   "regions": [
+    "VL",
+    "BXL"
+   ],
+   "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
+   "source": "https://www.astel.be/operateurs/telenet/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-27",
+   "promo_texte": "69 EUR/mois pendant 6 mois au lieu de 106 EUR (decodeur et offre de base TV offerts) + activation et installation offertes + 6 mois de Netflix ou Disney+ offerts",
+   "promo_mois": 6,
+   "promo_prix_mensuel": 69,
+   "id": "telenet-standard-tv-mobile-unlimited",
+   "operateur": "Telenet",
+   "produit": "pack",
+   "nom": "Internet Standard + decodeur TV + Mobile Unlimited",
+   "prix_mensuel": 106
+  },
+  {
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "15 GB (mobile) ; internet fixe illimité",
+   "appels": "illimités",
+   "vitesse": "2,5 Gbps / 100 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Releve le 22/10/2026 dans le tableau de astel.be/operateurs/telenet/promotion (prix promo 6 mois et prix normal cote a cote pour 24 combinaisons internet / TV / mobile / telephone fixe). Le tableau redonne a l'identique les offres Telenet deja encodees (internet seul 51/56, 58/65, 76/85 ; Basic+Mobile Basic 56/66 ; Standard+Mobile Basic 63/75 ; Basic+TV 51/76 ; Standard+TV 58/85 ; Basic+TV+Mobile Unlimited 62/97), ce qui valide la lecture. Variante sans telephone fixe. Decodeur et offre de base TV offerts 6 mois. Nouveaux clients, commandes du 05/10 au 01/11/2026. Activation et installation offertes (135 EUR). 6 mois de Netflix ou Disney+ offerts. Le cashback Astel est exclu.",
+   "jeune": false,
+   "regions": [
+    "VL",
+    "BXL"
+   ],
+   "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
+   "source": "https://www.astel.be/operateurs/telenet/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-27",
+   "promo_texte": "81 EUR/mois pendant 6 mois au lieu de 115 EUR (decodeur et offre de base TV offerts) + activation et installation offertes + 6 mois de Netflix ou Disney+ offerts",
+   "promo_mois": 6,
+   "promo_prix_mensuel": 81,
+   "id": "telenet-turbo-tv-mobile",
+   "operateur": "Telenet",
+   "produit": "pack",
+   "nom": "Internet Turbo + decodeur TV + Mobile Basic",
+   "prix_mensuel": 115
+  },
+  {
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "mobile illimité (300 Go a pleine vitesse puis 1 Mbps) ; internet fixe illimité",
+   "appels": "illimités",
+   "vitesse": "2,5 Gbps / 100 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Releve le 22/10/2026 dans le tableau de astel.be/operateurs/telenet/promotion (prix promo 6 mois et prix normal cote a cote pour 24 combinaisons internet / TV / mobile / telephone fixe). Le tableau redonne a l'identique les offres Telenet deja encodees (internet seul 51/56, 58/65, 76/85 ; Basic+Mobile Basic 56/66 ; Standard+Mobile Basic 63/75 ; Basic+TV 51/76 ; Standard+TV 58/85 ; Basic+TV+Mobile Unlimited 62/97), ce qui valide la lecture. Variante sans telephone fixe. Decodeur et offre de base TV offerts 6 mois. Nouveaux clients, commandes du 05/10 au 01/11/2026. Activation et installation offertes (135 EUR). 6 mois de Netflix ou Disney+ offerts. Le cashback Astel est exclu.",
+   "jeune": false,
+   "regions": [
+    "VL",
+    "BXL"
+   ],
+   "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
+   "source": "https://www.astel.be/operateurs/telenet/promotion",
+   "a_verifier": false,
+   "date_verif": "2026-10-27",
+   "promo_texte": "87 EUR/mois pendant 6 mois au lieu de 126 EUR (decodeur et offre de base TV offerts) + activation et installation offertes + 6 mois de Netflix ou Disney+ offerts",
+   "promo_mois": 6,
+   "promo_prix_mensuel": 87,
+   "id": "telenet-turbo-tv-mobile-unlimited",
+   "operateur": "Telenet",
+   "produit": "pack",
+   "nom": "Internet Turbo + decodeur TV + Mobile Unlimited",
+   "prix_mensuel": 126
+  },
+  {
+   "id": "base-pack-limited-gsm15",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Limited + Mobile BASE 15",
+   "prix_mensuel": 44,
+   "promo_texte": "36,6 EUR/mois au lieu de 44 EUR a vie (-10 % internet + -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 36.6,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "20 Go mobile + internet 500 Go",
+   "appels": "illimites",
+   "vitesse": "Internet Limited : 50 Mbps / 5 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-limited-gsm20",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Limited + Mobile BASE 20",
+   "prix_mensuel": 49,
+   "promo_texte": "40,1 EUR/mois au lieu de 49 EUR a vie (-10 % internet + -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 40.1,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "60 Go mobile + internet 500 Go",
+   "appels": "illimites",
+   "vitesse": "Internet Limited : 50 Mbps / 5 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-limited-gsm29",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Limited + Mobile BASE 29",
+   "prix_mensuel": 58,
+   "promo_texte": "46,4 EUR/mois au lieu de 58 EUR a vie (-10 % internet + -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 46.4,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "150 Go mobile + internet 500 Go",
+   "appels": "illimites",
+   "vitesse": "Internet Limited : 50 Mbps / 5 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-limited-gsm39",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Limited + Mobile BASE 39",
+   "prix_mensuel": 68,
+   "promo_texte": "53,4 EUR/mois au lieu de 68 EUR a vie (-10 % internet + -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 53.4,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "350 Go mobile + internet 500 Go",
+   "appels": "illimites",
+   "vitesse": "Internet Limited : 50 Mbps / 5 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-limited-tv-app",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Limited + TV (app TV (sans decodeur))",
+   "prix_mensuel": 40,
+   "promo_texte": "36 EUR/mois au lieu de 40 EUR a vie (-10 % internet + TV a vie), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 36.0,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "internet 500 Go",
+   "appels": "",
+   "vitesse": "Internet Limited : 50 Mbps / 5 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-limited-tv-deco",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Limited + TV (decodeur TV)",
+   "prix_mensuel": 45,
+   "promo_texte": "40,5 EUR/mois au lieu de 45 EUR a vie (-10 % internet + TV a vie), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 40.5,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "internet 500 Go",
+   "appels": "",
+   "vitesse": "Internet Limited : 50 Mbps / 5 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-unlimited-gsm15",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Unlimited + Mobile BASE 15",
+   "prix_mensuel": 55,
+   "promo_texte": "46,5 EUR/mois au lieu de 55 EUR a vie (-10 % internet + -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 46.5,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "20 Go mobile + internet illimite",
+   "appels": "illimites",
+   "vitesse": "Internet Unlimited : 200 Mbps / 20 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-unlimited-gsm20",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Unlimited + Mobile BASE 20",
+   "prix_mensuel": 60,
+   "promo_texte": "50 EUR/mois au lieu de 60 EUR a vie (-10 % internet + -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 50.0,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "60 Go mobile + internet illimite",
+   "appels": "illimites",
+   "vitesse": "Internet Unlimited : 200 Mbps / 20 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-unlimited-gsm29",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Unlimited + Mobile BASE 29",
+   "prix_mensuel": 69,
+   "promo_texte": "56,3 EUR/mois au lieu de 69 EUR a vie (-10 % internet + -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 56.3,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "150 Go mobile + internet illimite",
+   "appels": "illimites",
+   "vitesse": "Internet Unlimited : 200 Mbps / 20 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-unlimited-gsm39",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Unlimited + Mobile BASE 39",
+   "prix_mensuel": 79,
+   "promo_texte": "63,3 EUR/mois au lieu de 79 EUR a vie (-10 % internet + -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 63.3,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "350 Go mobile + internet illimite",
+   "appels": "illimites",
+   "vitesse": "Internet Unlimited : 200 Mbps / 20 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-unlimited-tv-app",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Unlimited + TV (app TV (sans decodeur))",
+   "prix_mensuel": 51,
+   "promo_texte": "45,9 EUR/mois au lieu de 51 EUR a vie (-10 % internet + TV a vie), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 45.9,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "internet illimite",
+   "appels": "",
+   "vitesse": "Internet Unlimited : 200 Mbps / 20 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-unlimited-tv-deco",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Unlimited + TV (decodeur TV)",
+   "prix_mensuel": 56,
+   "promo_texte": "50,4 EUR/mois au lieu de 56 EUR a vie (-10 % internet + TV a vie), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 50.4,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "internet illimite",
+   "appels": "",
+   "vitesse": "Internet Unlimited : 200 Mbps / 20 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-plus-gsm15",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Unlimited+ + Mobile BASE 15",
+   "prix_mensuel": 66,
+   "promo_texte": "56,4 EUR/mois au lieu de 66 EUR a vie (-10 % internet + -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 56.4,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "20 Go mobile + internet illimite",
+   "appels": "illimites",
+   "vitesse": "Internet Unlimited+ : 400 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-plus-gsm20",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Unlimited+ + Mobile BASE 20",
+   "prix_mensuel": 71,
+   "promo_texte": "59,9 EUR/mois au lieu de 71 EUR a vie (-10 % internet + -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 59.9,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "60 Go mobile + internet illimite",
+   "appels": "illimites",
+   "vitesse": "Internet Unlimited+ : 400 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-plus-gsm29",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Unlimited+ + Mobile BASE 29",
+   "prix_mensuel": 80,
+   "promo_texte": "66,2 EUR/mois au lieu de 80 EUR a vie (-10 % internet + -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 66.2,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "150 Go mobile + internet illimite",
+   "appels": "illimites",
+   "vitesse": "Internet Unlimited+ : 400 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-plus-gsm39",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Unlimited+ + Mobile BASE 39",
+   "prix_mensuel": 90,
+   "promo_texte": "73,2 EUR/mois au lieu de 90 EUR a vie (-10 % internet + -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 73.2,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "350 Go mobile + internet illimite",
+   "appels": "illimites",
+   "vitesse": "Internet Unlimited+ : 400 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-plus-tv-app",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Unlimited+ + TV (app TV (sans decodeur))",
+   "prix_mensuel": 62,
+   "promo_texte": "55,8 EUR/mois au lieu de 62 EUR a vie (-10 % internet + TV a vie), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 55.8,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "internet illimite",
+   "appels": "",
+   "vitesse": "Internet Unlimited+ : 400 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-plus-tv-deco",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Unlimited+ + TV (decodeur TV)",
+   "prix_mensuel": 67,
+   "promo_texte": "60,3 EUR/mois au lieu de 67 EUR a vie (-10 % internet + TV a vie), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 60.3,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "internet illimite",
+   "appels": "",
+   "vitesse": "Internet Unlimited+ : 400 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-limited-apptv-gsm15",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Limited + app TV + Mobile BASE 15",
+   "prix_mensuel": 55,
+   "promo_texte": "46,5 EUR/mois au lieu de 55 EUR a vie (-10 % internet + TV, -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 46.5,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "20 Go mobile + internet 500 Go",
+   "appels": "illimites",
+   "vitesse": "Internet Limited : 50 Mbps / 5 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-limited-apptv-gsm20",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Limited + app TV + Mobile BASE 20",
+   "prix_mensuel": 60,
+   "promo_texte": "50 EUR/mois au lieu de 60 EUR a vie (-10 % internet + TV, -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 50.0,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "60 Go mobile + internet 500 Go",
+   "appels": "illimites",
+   "vitesse": "Internet Limited : 50 Mbps / 5 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-limited-apptv-gsm29",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Limited + app TV + Mobile BASE 29",
+   "prix_mensuel": 69,
+   "promo_texte": "56,3 EUR/mois au lieu de 69 EUR a vie (-10 % internet + TV, -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 56.3,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "150 Go mobile + internet 500 Go",
+   "appels": "illimites",
+   "vitesse": "Internet Limited : 50 Mbps / 5 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-limited-apptv-gsm39",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Limited + app TV + Mobile BASE 39",
+   "prix_mensuel": 79,
+   "promo_texte": "63,3 EUR/mois au lieu de 79 EUR a vie (-10 % internet + TV, -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 63.3,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "350 Go mobile + internet 500 Go",
+   "appels": "illimites",
+   "vitesse": "Internet Limited : 50 Mbps / 5 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-unlimited-apptv-gsm15",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Unlimited + app TV + Mobile BASE 15",
+   "prix_mensuel": 66,
+   "promo_texte": "56,4 EUR/mois au lieu de 66 EUR a vie (-10 % internet + TV, -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 56.4,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "20 Go mobile + internet illimite",
+   "appels": "illimites",
+   "vitesse": "Internet Unlimited : 200 Mbps / 20 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-unlimited-apptv-gsm20",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Unlimited + app TV + Mobile BASE 20",
+   "prix_mensuel": 71,
+   "promo_texte": "59,9 EUR/mois au lieu de 71 EUR a vie (-10 % internet + TV, -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 59.9,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "60 Go mobile + internet illimite",
+   "appels": "illimites",
+   "vitesse": "Internet Unlimited : 200 Mbps / 20 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-unlimited-apptv-gsm29",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Unlimited + app TV + Mobile BASE 29",
+   "prix_mensuel": 80,
+   "promo_texte": "66,2 EUR/mois au lieu de 80 EUR a vie (-10 % internet + TV, -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 66.2,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "150 Go mobile + internet illimite",
+   "appels": "illimites",
+   "vitesse": "Internet Unlimited : 200 Mbps / 20 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
+  },
+  {
+   "id": "base-pack-unlimited-apptv-gsm39",
+   "operateur": "BASE",
+   "produit": "pack",
+   "nom": "Internet Unlimited + app TV + Mobile BASE 39",
+   "prix_mensuel": 90,
+   "promo_texte": "73,2 EUR/mois au lieu de 90 EUR a vie (-10 % internet + TV, -30 % GSM), promo GSM jusqu'au 16/11/2026",
+   "promo_mois": 999,
+   "promo_prix_mensuel": 73.2,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "350 Go mobile + internet illimite",
+   "appels": "illimites",
+   "vitesse": "Internet Unlimited : 200 Mbps / 20 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Remise de combinaison BASE : -10 % a vie sur l'internet et la TV des que deux services sont combines, et -30 % sur le GSM pour les commandes du 29/09/2026 au 16/11/2026. Activation offerte (30 EUR) et installation offerte (valeur 59 EUR). Prix releves le 27/10/2026 dans la matrice nationale astel.be/operateurs/base/promotion, qui redonne a l'identique nos 3 internet seuls (29 / 40 / 51 EUR) et notre pack Internet + TV + Mobile (76 -> 64,40 EUR) ; les montants concordent exactement avec les remises publiees par base.be/fr/internet.html.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.base.be/fr/internet.html",
+   "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
+   "a_verifier": false,
+   "date_verif": "2026-10-27"
   }
  ]
 }
