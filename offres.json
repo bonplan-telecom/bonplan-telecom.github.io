@@ -1,5 +1,5 @@
 {
- "date": "2026-11-05",
+ "date": "2026-11-07",
  "offres": [
   {
    "id": "proximus-mobile-essential",
@@ -26,7 +26,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "proximus-mobile-easy",
@@ -53,7 +53,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "proximus-mobile-smart",
@@ -80,7 +80,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "proximus-mobile-maxi",
@@ -107,7 +107,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "proximus-mobile-unlimited",
@@ -134,7 +134,7 @@
    "lien": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "source": "https://www.proximus.be/fr/id_cr_msub/particuliers/mobile/abonnements-gsm.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "proximus-payandgo-plus-15",
@@ -188,7 +188,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "orange-mobile-medium",
@@ -215,7 +215,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "orange-mobile-large",
@@ -242,7 +242,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "orange-mobile-unlimited",
@@ -269,7 +269,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "orange-mobile-child",
@@ -296,7 +296,7 @@
    "lien": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "source": "https://www.orange.be/fr/mobile/abonnements-gsm",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "orange-tempo-giga",
@@ -350,7 +350,7 @@
    "lien": "https://www.scarlet.be/fr/abonnement-gsm",
    "source": "https://www.scarlet.be/fr/abonnement-gsm",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "scarlet-berry",
@@ -377,7 +377,7 @@
    "lien": "https://www.scarlet.be/fr/abonnement-gsm",
    "source": "https://www.scarlet.be/fr/abonnement-gsm",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "scarlet-cherry",
@@ -404,7 +404,7 @@
    "lien": "https://www.scarlet.be/fr/abonnement-gsm",
    "source": "https://www.scarlet.be/fr/abonnement-gsm",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "scarlet-hot",
@@ -431,7 +431,7 @@
    "lien": "https://www.scarlet.be/fr/abonnement-gsm",
    "source": "https://www.scarlet.be/fr/abonnement-gsm",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "telenet-mobile-basic",
@@ -536,7 +536,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-20",
@@ -563,7 +563,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans/base-20.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-29",
@@ -590,7 +590,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-39",
@@ -617,7 +617,7 @@
    "lien": "https://www.base.be/en/mobile/monthly-plans.html",
    "source": "https://www.base.be/en/promo/webdeal.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "mobilevikings-10go",
@@ -860,7 +860,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "https://www.heytelecom.be/fr/mobile",
    "a_verifier": false,
-   "date_verif": "2026-11-01"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "hey-mobile-m",
@@ -887,7 +887,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "heytelecom.be/fr/abonnements-mobiles (27/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "hey-mobile-l",
@@ -914,7 +914,7 @@
    "lien": "https://www.heytelecom.be/fr/mobile",
    "source": "heytelecom.be/fr/abonnements-mobiles + callmepower.be/fr/telecom/fournisseurs/hey (07/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "hey-mobile-unlimited",
@@ -941,7 +941,7 @@
    "lien": "https://www.heytelecom.be/fr/abonnements-mobiles",
    "source": "https://www.heytelecom.be/fr/abonnements-mobiles",
    "a_verifier": false,
-   "date_verif": "2026-11-01"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "yoin-30go",
@@ -1144,7 +1144,7 @@
    "appels": "illimites",
    "vitesse": "",
    "engagement": "prépayé (30 jours)",
-   "conditions": "Pass prepaye 30 jours. Souscription 3, 6 ou 12 mois possible avec jusqu'a -32%. Duree de la reduction non communiquee : a reverifier. Page officielle lycamobile.be/fr/national-plans/ retentee le 22/10/2026 : toujours aucun tarif publie (reduite a une mention de plans prepayes et eSIM) et astel.be/operateurs/lycamobile toujours en erreur. Chiffre inchange, reste a verifier. Page officielle et fiche astel retentees le 27/10/2026 : toujours sans tarif. Revu le 31/10/2026 : lycamobile.be/fr/national-plans/ n'affiche toujours aucun tarif. lycamobile.be/fr/national-plans/ retestee le 01/11/2026 : la page ne publie toujours aucun tarif (ni prix, ni data, ni duree de reduction) et astel.be/operateurs/lycamobile reste en erreur. La reduction reste encodee « a vie » faute de duree communiquee : chiffre a verifier. lycamobile.be/fr/national-plans retestee le 05/11/2026 : toujours aucun tarif publie, la reserve reste ouverte.",
+   "conditions": "Pass prepaye 30 jours. Souscription 3, 6 ou 12 mois possible avec jusqu'a -32%. Duree de la reduction non communiquee : a reverifier. Page officielle lycamobile.be/fr/national-plans/ retentee le 22/10/2026 : toujours aucun tarif publie (reduite a une mention de plans prepayes et eSIM) et astel.be/operateurs/lycamobile toujours en erreur. Chiffre inchange, reste a verifier. Page officielle et fiche astel retentees le 27/10/2026 : toujours sans tarif. Revu le 31/10/2026 : lycamobile.be/fr/national-plans/ n'affiche toujours aucun tarif. lycamobile.be/fr/national-plans/ retestee le 01/11/2026 : la page ne publie toujours aucun tarif (ni prix, ni data, ni duree de reduction) et astel.be/operateurs/lycamobile reste en erreur. La reduction reste encodee « a vie » faute de duree communiquee : chiffre a verifier. lycamobile.be/fr/national-plans retestee le 05/11/2026 : toujours aucun tarif publie, la reserve reste ouverte. Retestee le 07/11/2026 : lycamobile.be/fr/national-plans/ ne publie toujours aucun tarif (page sans contenu chiffre) et astel.be/operateurs/lycamobile reste en erreur. La reduction demeure encodee 'a vie' faute de date de fin communiquee : 4e verification sans resultat.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -1154,7 +1154,7 @@
    "lien": "https://www.lycamobile.be/fr/bundle/belgium-plan-m/",
    "source": "https://www.lycamobile.be/fr/bundle/belgium-plan-m/",
    "a_verifier": true,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "lycamobile-plan-xxl",
@@ -1370,7 +1370,7 @@
    "lien": "https://www.scarlet.be/fr/internet",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "scarlet-loco",
@@ -1397,7 +1397,7 @@
    "lien": "https://www.scarlet.be/fr/internet",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "scarlet-loco-fiber-boost",
@@ -1424,7 +1424,7 @@
    "lien": "https://www.scarlet.be/fr/internet",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "scarlet-trio-mobile",
@@ -1451,7 +1451,7 @@
    "lien": "https://www.scarlet.be/fr/packs",
    "source": "https://www.scarlet.be/fr/internet",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "orange-livebox",
@@ -1558,7 +1558,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "telenet-internet-standard",
@@ -1584,7 +1584,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "telenet-standard-tv",
@@ -1610,7 +1610,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "www2.telenet.be + astel.be",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "telenet-standard-mobile",
@@ -1636,7 +1636,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "www2.telenet.be + astel.be",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "voo-net-super-relax",
@@ -1662,7 +1662,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "https://callmepower.be/fr/telecom/fournisseurs/voo",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "voo-net-giga-max",
@@ -1714,7 +1714,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "voo-trio-net-tv-mobile",
@@ -1740,7 +1740,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-internet-unlimited",
@@ -1767,7 +1767,7 @@
    "lien": "https://www.base.be/en/internet.html",
    "source": "base.be",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-internet-limited",
@@ -1794,7 +1794,7 @@
    "lien": "https://www.base.be/en/internet.html",
    "source": "base.be",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-internet-tv-mobile",
@@ -1821,7 +1821,7 @@
    "lien": "https://www.base.be/en/internet.html",
    "source": "test-achats.be/hightech/telecom/news/promotions-telecom (06/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "digi-5g-home-internet",
@@ -2275,7 +2275,7 @@
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
    "source": "https://www2.telenet.be/residential/en/promos/students.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "telenet-etudiant-internet-standard",
@@ -2301,7 +2301,7 @@
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
    "source": "https://www2.telenet.be/residential/en/promos/students.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "telenet-etudiant-internet-mobile-200",
@@ -2327,7 +2327,7 @@
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "telenet-etudiant-internet-mobile-500",
@@ -2353,7 +2353,7 @@
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "telenet-etudiant-internet-turbo",
@@ -2379,7 +2379,7 @@
    "lien": "https://www2.telenet.be/residential/en/promos/students.html",
    "source": "astel.be",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "proximus-mobile-kids",
@@ -2675,7 +2675,7 @@
    "lien": "https://www2.telenet.be/residential/nl/landingspaginas/tarieven/internet.html",
    "source": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "scarlet-duo",
@@ -2702,7 +2702,7 @@
    "lien": "https://www.scarlet.be/fr/packs",
    "source": "https://www.scarlet.be/fr/packs",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "scarlet-trio",
@@ -2729,7 +2729,7 @@
    "lien": "https://www.scarlet.be/fr/packs",
    "source": "https://www.scarlet.be/fr/packs",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-internet-unlimited-plus",
@@ -2756,7 +2756,7 @@
    "lien": "https://www.base.be/en/internet.html",
    "source": "base.be",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "digi-fibre-10g",
@@ -2933,7 +2933,7 @@
    "appels": "750 min + 750 SMS",
    "vitesse": "",
    "engagement": "prépayé (30 jours)",
-   "conditions": "Pass prepaye 30 jours. Lycamobile annonce 10 EUR/mois au lieu de 15 EUR sans communiquer de duree : encode comme reduction continue, a reverifier. Page officielle lycamobile.be/fr/national-plans/ retentee le 22/10/2026 : toujours aucun tarif publie (reduite a une mention de plans prepayes et eSIM) et astel.be/operateurs/lycamobile toujours en erreur. Chiffre inchange, reste a verifier. Page officielle et fiche astel retentees le 27/10/2026 : toujours sans tarif. Revu le 31/10/2026 : lycamobile.be/fr/national-plans/ n'affiche toujours aucun tarif. lycamobile.be/fr/national-plans/ retestee le 01/11/2026 : la page ne publie toujours aucun tarif (ni prix, ni data, ni duree de reduction) et astel.be/operateurs/lycamobile reste en erreur. La reduction reste encodee « a vie » faute de duree communiquee : chiffre a verifier. lycamobile.be/fr/national-plans retestee le 05/11/2026 : toujours aucun tarif publie, la reserve reste ouverte.",
+   "conditions": "Pass prepaye 30 jours. Lycamobile annonce 10 EUR/mois au lieu de 15 EUR sans communiquer de duree : encode comme reduction continue, a reverifier. Page officielle lycamobile.be/fr/national-plans/ retentee le 22/10/2026 : toujours aucun tarif publie (reduite a une mention de plans prepayes et eSIM) et astel.be/operateurs/lycamobile toujours en erreur. Chiffre inchange, reste a verifier. Page officielle et fiche astel retentees le 27/10/2026 : toujours sans tarif. Revu le 31/10/2026 : lycamobile.be/fr/national-plans/ n'affiche toujours aucun tarif. lycamobile.be/fr/national-plans/ retestee le 01/11/2026 : la page ne publie toujours aucun tarif (ni prix, ni data, ni duree de reduction) et astel.be/operateurs/lycamobile reste en erreur. La reduction reste encodee « a vie » faute de duree communiquee : chiffre a verifier. lycamobile.be/fr/national-plans retestee le 05/11/2026 : toujours aucun tarif publie, la reserve reste ouverte. Retestee le 07/11/2026 : lycamobile.be/fr/national-plans/ ne publie toujours aucun tarif (page sans contenu chiffre) et astel.be/operateurs/lycamobile reste en erreur. La reduction demeure encodee 'a vie' faute de date de fin communiquee : 4e verification sans resultat.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -2943,7 +2943,7 @@
    "lien": "https://www.lycamobile.be/fr/bundles/forfait-prepaye/",
    "source": "lycamobile.be",
    "a_verifier": true,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "lycamobile-plan-l",
@@ -2960,7 +2960,7 @@
    "appels": "illimites",
    "vitesse": "",
    "engagement": "prépayé (30 jours)",
-   "conditions": "Pass prepaye 30 jours. Duree de la reduction non communiquee : a reverifier. Page officielle lycamobile.be/fr/national-plans/ retentee le 22/10/2026 : toujours aucun tarif publie (reduite a une mention de plans prepayes et eSIM) et astel.be/operateurs/lycamobile toujours en erreur. Chiffre inchange, reste a verifier. Page officielle et fiche astel retentees le 27/10/2026 : toujours sans tarif. Revu le 31/10/2026 : lycamobile.be/fr/national-plans/ n'affiche toujours aucun tarif. lycamobile.be/fr/national-plans/ retestee le 01/11/2026 : la page ne publie toujours aucun tarif (ni prix, ni data, ni duree de reduction) et astel.be/operateurs/lycamobile reste en erreur. La reduction reste encodee « a vie » faute de duree communiquee : chiffre a verifier. lycamobile.be/fr/national-plans retestee le 05/11/2026 : toujours aucun tarif publie, la reserve reste ouverte.",
+   "conditions": "Pass prepaye 30 jours. Duree de la reduction non communiquee : a reverifier. Page officielle lycamobile.be/fr/national-plans/ retentee le 22/10/2026 : toujours aucun tarif publie (reduite a une mention de plans prepayes et eSIM) et astel.be/operateurs/lycamobile toujours en erreur. Chiffre inchange, reste a verifier. Page officielle et fiche astel retentees le 27/10/2026 : toujours sans tarif. Revu le 31/10/2026 : lycamobile.be/fr/national-plans/ n'affiche toujours aucun tarif. lycamobile.be/fr/national-plans/ retestee le 01/11/2026 : la page ne publie toujours aucun tarif (ni prix, ni data, ni duree de reduction) et astel.be/operateurs/lycamobile reste en erreur. La reduction reste encodee « a vie » faute de duree communiquee : chiffre a verifier. lycamobile.be/fr/national-plans retestee le 05/11/2026 : toujours aucun tarif publie, la reserve reste ouverte. Retestee le 07/11/2026 : lycamobile.be/fr/national-plans/ ne publie toujours aucun tarif (page sans contenu chiffre) et astel.be/operateurs/lycamobile reste en erreur. La reduction demeure encodee 'a vie' faute de date de fin communiquee : 4e verification sans resultat.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -2970,7 +2970,7 @@
    "lien": "https://www.lycamobile.be/fr/bundles/forfait-prepaye/",
    "source": "https://www.lycamobile.be/fr/bundle/belgium-plan-l/",
    "a_verifier": true,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "voo-duo-net-mobile",
@@ -2996,7 +2996,7 @@
    "lien": "https://www.voo.be/fr/offre",
    "source": "voo.be/fr/offre + callmepower.be/fr/telecom/fournisseurs/voo/pack (11/10/2026)",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "frais_activation": 0,
@@ -3220,7 +3220,7 @@
    "produit": "internet",
    "nom": "hey! Internet",
    "prix_mensuel": 39,
-   "promo_texte": "29 EUR/mois au lieu de 39 EUR a vie (-10 EUR/mois), annonce jusqu'au 30/12, installation offerte",
+   "promo_texte": "29 EUR/mois au lieu de 39 EUR a vie (-10 EUR/mois), promo du 02/11/2026 au 30/12/2026 inclus, installation et location du modem offertes",
    "promo_mois": 999,
    "promo_prix_mensuel": 29,
    "frais_activation": 0,
@@ -3229,7 +3229,7 @@
    "appels": "",
    "vitesse": "jusqu'a 200 Mbps / 10 Mbps",
    "engagement": "sans engagement",
-   "conditions": "Nouveaux clients. Installation et location du modem offertes. Vitesse reelle de 150 ou 200 Mbps selon la region ; au-dela de 3 TB/mois aux heures pleines (17h-23h59) le debit tombe a 20/2 Mbps. La promo a 29 EUR relevee chez callmepower correspondait a une ancienne campagne de 2024 : heytelecom.be/fr/internet-maison annonce 34 EUR le 08/10/2026. Revu le 31/10/2026 : heytelecom.be/fr/abonnements-mobiles affiche toujours la fenetre du 26/10 au 01/11/2026 inclus, 7 EUR au lieu de 9 EUR a vie, 25 Go (toujours sans les 10 Go de la fenetre precedente). Verifie le 01/11/2026 : les pages officielles de l'operateur redonnent ce jour la meme fenetre de souscription, dont le 01/11/2026 est le dernier jour (inclus) ; les prix et les conditions sont inchanges. Aucune campagne de remplacement pour novembre n'etait annoncee a cette date, ni par l'operateur, ni par callmepower (dernier article le 30/10), ni par test-achats : cette promo devra etre retiree ou reconduite au prochain passage, en comparant le contenu et pas seulement le prix. A VERIFIER : la banniere d'accueil de heytelecom.be annonce le 05/11/2026 29 EUR/mois a vie au lieu de 39 EUR 'jusqu'au 30 decembre', alors que la fiche produit affiche encore l'ancienne remise de -5 EUR/mois (34 EUR) avec une fenetre close le 01/11/2026. Les deux chiffres viennent de l'operateur mais se contredisent : le 29 EUR est retenu comme le plus recent, a confirmer des que la fiche produit sera mise a jour.",
+   "conditions": "Nouveaux clients et clients mobiles hey! ajoutant l'internet ; souscription en ligne, seule ou en pack avec un abonnement mobile. Installation et location du modem offertes (installation barree a 59 EUR). Vitesse annoncee de 150 ou 200 Mbps selon le reseau ; au-dela de 3 TB consommes aux heures pleines (17h-23h59) sur un mois, le debit tombe a 20/2 Mbps jusqu'a la fin de la periode. Historique du conflit : le 05/11/2026 la banniere d'accueil annoncait 29 EUR 'jusqu'au 30 decembre' alors que la fiche produit affichait encore 34 EUR (-5 EUR/mois) avec une fenetre close le 01/11/2026. CONFLIT TRANCHE le 07/11/2026 : heytelecom.be/fr/internet-maison, de nouveau accessible, confirme 29 EUR/mois au lieu de 39 EUR (-10 EUR/mois) du 02/11/2026 au 30/12/2026 inclus, soit exactement la fenetre de hey! mobile L ; l'ancienne remise de -5 EUR/mois n'est plus proposee. A VERIFIER (duree) : la meme page officielle se contredit sur la duree de la remise. Le titre et le corps annoncent -10 EUR/mois 'a vie' / 'pendant toute la duree de ton contrat', mais une mention secondaire dit '-10 EUR pendant 12 mois' puis '39 EUR/mois apres 12 mois'. La version NL de la page affiche en plus une fenetre de 2024 (28/10 au 12/11/2024), visiblement non mise a jour. La lecture 'a vie' est retenue comme l'annonce dominante et la plus recente ; la duree est a retrancher au prochain passage.",
    "jeune": false,
    "regions": [
     "BXL",
@@ -3237,9 +3237,9 @@
     "VL"
    ],
    "lien": "https://www.heytelecom.be/fr/internet-maison",
-   "source": "callmepower.be/fr/telecom/fournisseurs/hey + heytelecom.be/fr/internet-maison (07/10/2026)",
+   "source": "https://www.heytelecom.be/fr/internet-maison (07/11/2026) + heytelecom.be/fr",
    "a_verifier": true,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "yoin-6go",
@@ -3481,7 +3481,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "astel.be + www2.telenet.be",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "telenet-basic-mobile",
@@ -3507,7 +3507,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "astel.be + www2.telenet.be",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "telenet-basic-tv-mobile-unlimited",
@@ -3533,7 +3533,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "astel.be + test-achats.be",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "undo-zero-waste-sms",
@@ -4092,7 +4092,7 @@
     "BXL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-11-05",
+   "date_verif": "2026-11-07",
    "id": "telenet-etudiant-basic-mobile-unlimited",
    "operateur": "Telenet",
    "produit": "pack",
@@ -4118,7 +4118,7 @@
     "BXL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-11-05",
+   "date_verif": "2026-11-07",
    "id": "telenet-etudiant-standard-mobile-unlimited",
    "operateur": "Telenet",
    "produit": "pack",
@@ -4144,7 +4144,7 @@
     "BXL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-11-05",
+   "date_verif": "2026-11-07",
    "id": "telenet-etudiant-turbo-mobile-basic",
    "operateur": "Telenet",
    "produit": "pack",
@@ -4170,7 +4170,7 @@
     "BXL"
    ],
    "a_verifier": false,
-   "date_verif": "2026-11-05",
+   "date_verif": "2026-11-07",
    "id": "telenet-etudiant-turbo-mobile-unlimited",
    "operateur": "Telenet",
    "produit": "pack",
@@ -4581,7 +4581,7 @@
    "lien": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "telenet-standard-mobile-unlimited",
@@ -4607,7 +4607,7 @@
    "lien": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "telenet-turbo-mobile-basic",
@@ -4633,7 +4633,7 @@
    "lien": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "telenet-turbo-mobile-unlimited",
@@ -4659,7 +4659,7 @@
    "lien": "https://www2.telenet.be/residential/fr/produits/internet.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "frais_activation": 0,
@@ -4893,7 +4893,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-11-05",
+   "date_verif": "2026-11-07",
    "promo_texte": "Promo de fete du 02/11/2026 au 17/01/2027 inclus : appareil a prix reduit a la souscription (ex. TV TCL 55\" QLED a 59 EUR au lieu de 599 EUR, robot aspirateur Roborock a 59 EUR au lieu de 699 EUR) + activation et installation offertes (valeur 135 EUR) ; 6 mois de streaming offerts (Netflix, Disney+ ou Streamz) jusqu'au 31/05/2027",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -4919,7 +4919,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-11-05",
+   "date_verif": "2026-11-07",
    "promo_texte": "Promo de fete du 02/11/2026 au 17/01/2027 inclus : appareil a prix reduit a la souscription (ex. TV TCL 55\" QLED a 59 EUR au lieu de 599 EUR, robot aspirateur Roborock a 59 EUR au lieu de 699 EUR) + activation et installation offertes (valeur 135 EUR) ; 6 mois de streaming offerts (Netflix, Disney+ ou Streamz) jusqu'au 31/05/2027",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -4945,7 +4945,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-11-05",
+   "date_verif": "2026-11-07",
    "promo_texte": "Promo de fete du 02/11/2026 au 17/01/2027 inclus : appareil a prix reduit a la souscription (ex. TV TCL 55\" QLED a 59 EUR au lieu de 599 EUR, robot aspirateur Roborock a 59 EUR au lieu de 699 EUR) + activation et installation offertes (valeur 135 EUR) ; 6 mois de streaming offerts (Netflix, Disney+ ou Streamz) jusqu'au 31/05/2027",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -4971,7 +4971,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-11-05",
+   "date_verif": "2026-11-07",
    "promo_texte": "Promo de fete du 02/11/2026 au 17/01/2027 inclus : appareil a prix reduit a la souscription (ex. TV TCL 55\" QLED a 59 EUR au lieu de 599 EUR, robot aspirateur Roborock a 59 EUR au lieu de 699 EUR) + activation et installation offertes (valeur 135 EUR) ; 6 mois de streaming offerts (Netflix, Disney+ ou Streamz) jusqu'au 31/05/2027",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -4997,7 +4997,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-11-05",
+   "date_verif": "2026-11-07",
    "promo_texte": "Promo de fete du 02/11/2026 au 17/01/2027 inclus : appareil a prix reduit a la souscription (ex. TV TCL 55\" QLED a 59 EUR au lieu de 599 EUR, robot aspirateur Roborock a 59 EUR au lieu de 699 EUR) + activation et installation offertes (valeur 135 EUR) ; 6 mois de streaming offerts (Netflix, Disney+ ou Streamz) jusqu'au 31/05/2027",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -5023,7 +5023,7 @@
    "lien": "https://www2.telenet.be/residential/nl/producten/one.html",
    "source": "https://www.astel.be/operateurs/telenet/promotion",
    "a_verifier": false,
-   "date_verif": "2026-11-05",
+   "date_verif": "2026-11-07",
    "promo_texte": "Promo de fete du 02/11/2026 au 17/01/2027 inclus : appareil a prix reduit a la souscription (ex. TV TCL 55\" QLED a 59 EUR au lieu de 599 EUR, robot aspirateur Roborock a 59 EUR au lieu de 699 EUR) + activation et installation offertes (valeur 135 EUR) ; 6 mois de streaming offerts (Netflix, Disney+ ou Streamz) jusqu'au 31/05/2027",
    "promo_mois": 0,
    "promo_prix_mensuel": null,
@@ -5058,7 +5058,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-limited-gsm20",
@@ -5085,7 +5085,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-limited-gsm29",
@@ -5112,7 +5112,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-limited-gsm39",
@@ -5139,7 +5139,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-limited-tv-app",
@@ -5166,7 +5166,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-limited-tv-deco",
@@ -5193,7 +5193,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-unlimited-gsm15",
@@ -5220,7 +5220,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-unlimited-gsm20",
@@ -5247,7 +5247,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-unlimited-gsm29",
@@ -5274,7 +5274,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-unlimited-gsm39",
@@ -5301,7 +5301,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-unlimited-tv-app",
@@ -5328,7 +5328,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-unlimited-tv-deco",
@@ -5355,7 +5355,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-plus-gsm15",
@@ -5382,7 +5382,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-plus-gsm20",
@@ -5409,7 +5409,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-plus-gsm29",
@@ -5436,7 +5436,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-plus-gsm39",
@@ -5463,7 +5463,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-plus-tv-app",
@@ -5490,7 +5490,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-plus-tv-deco",
@@ -5517,7 +5517,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-limited-apptv-gsm15",
@@ -5544,7 +5544,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-limited-apptv-gsm20",
@@ -5571,7 +5571,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-limited-apptv-gsm29",
@@ -5598,7 +5598,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-limited-apptv-gsm39",
@@ -5625,7 +5625,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-unlimited-apptv-gsm15",
@@ -5652,7 +5652,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-unlimited-apptv-gsm20",
@@ -5679,7 +5679,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-unlimited-apptv-gsm29",
@@ -5706,7 +5706,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-unlimited-apptv-gsm39",
@@ -5733,7 +5733,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (27/10/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "proximus-flex-mega-fiber-gsm",
@@ -6624,7 +6624,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (01/11/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-limited-deco-gsm20",
@@ -6651,7 +6651,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (01/11/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-limited-deco-gsm29",
@@ -6678,7 +6678,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (01/11/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-limited-deco-gsm39",
@@ -6705,7 +6705,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (01/11/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-unlimited-deco-gsm15",
@@ -6732,7 +6732,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (01/11/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-unlimited-deco-gsm29",
@@ -6759,7 +6759,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (01/11/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-unlimited-deco-gsm39",
@@ -6786,7 +6786,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (01/11/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-plus-apptv-gsm15",
@@ -6813,7 +6813,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (01/11/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-plus-apptv-gsm20",
@@ -6840,7 +6840,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (01/11/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-plus-apptv-gsm29",
@@ -6867,7 +6867,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (01/11/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-plus-apptv-gsm39",
@@ -6894,7 +6894,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (01/11/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-plus-deco-gsm15",
@@ -6921,7 +6921,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (01/11/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-plus-deco-gsm20",
@@ -6948,7 +6948,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (01/11/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-plus-deco-gsm29",
@@ -6975,7 +6975,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (01/11/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "base-pack-plus-deco-gsm39",
@@ -7002,7 +7002,7 @@
    "lien": "https://www.base.be/fr/internet.html",
    "source": "astel.be/operateurs/base/promotion (01/11/2026) + base.be/fr/internet.html",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
   },
   {
    "id": "mobilevikings-internet-gsm-10",
@@ -7299,7 +7299,304 @@
    "lien": "https://www.base.be/fr/abonnements",
    "source": "astel.be/operateurs/base/promotion (matrice novembre 2026) + base.be/fr/abonnements",
    "a_verifier": false,
-   "date_verif": "2026-11-05"
+   "date_verif": "2026-11-07"
+  },
+  {
+   "id": "scarlet-duo-berry",
+   "operateur": "Scarlet",
+   "produit": "pack",
+   "nom": "Duo (Internet Loco + Mobile Berry)",
+   "prix_mensuel": 44,
+   "promo_texte": "Activation offerte (29 EUR) et installation offerte en ligne (79 EUR), soit 108 EUR : promo du 02/11/2026 au 04/01/2027 inclus",
+   "promo_mois": 0,
+   "promo_prix_mensuel": null,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "internet fixe illimite + 15 Go mobile (Berry)",
+   "appels": "",
+   "vitesse": "150 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Prix releves le 07/11/2026 sur la matrice Astel de novembre 2026 (astel.be/operateurs/scarlet/promotion), qui redonne au meme prix les quatre offres Scarlet deja encodees (Loco 34, Loco + Fiber Boost 44, Duo 42, Trio 45, Trio Mobile Cherry 50) avant d'etre utilisee pour les combinaisons manquantes. Coherence verifiee : Duo = Loco + forfait mobile sans remise, Trio Mobile = Trio + forfait mobile moins 8 EUR/mois de remise de combinaison, option Fiber Boost = +10 EUR/mois. Activation (29 EUR) et installation en ligne (79 EUR) offertes du 02/11/2026 au 04/01/2027 inclus pour les nouveaux clients et les clients mobiles existants souscrivant une offre avec Internet Loco (Poco n'est pas reprise dans cette promo). Le cashback Astel n'est pas une remise de l'operateur et n'est pas repris ici. Hausse de prix annoncee au 01/01/2027 : Loco Fiber Boost +2 EUR/mois.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.scarlet.be/fr/packs",
+   "source": "https://www.astel.be/operateurs/scarlet/promotion (matrice novembre 2026) + scarlet.be/fr/internet",
+   "a_verifier": false,
+   "date_verif": "2026-11-07"
+  },
+  {
+   "id": "scarlet-duo-cherry",
+   "operateur": "Scarlet",
+   "produit": "pack",
+   "nom": "Duo (Internet Loco + Mobile Cherry)",
+   "prix_mensuel": 47,
+   "promo_texte": "Activation offerte (29 EUR) et installation offerte en ligne (79 EUR), soit 108 EUR : promo du 02/11/2026 au 04/01/2027 inclus",
+   "promo_mois": 0,
+   "promo_prix_mensuel": null,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "internet fixe illimite + 35 Go mobile (Cherry)",
+   "appels": "600 minutes + SMS illimites",
+   "vitesse": "150 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Prix releves le 07/11/2026 sur la matrice Astel de novembre 2026 (astel.be/operateurs/scarlet/promotion), qui redonne au meme prix les quatre offres Scarlet deja encodees (Loco 34, Loco + Fiber Boost 44, Duo 42, Trio 45, Trio Mobile Cherry 50) avant d'etre utilisee pour les combinaisons manquantes. Coherence verifiee : Duo = Loco + forfait mobile sans remise, Trio Mobile = Trio + forfait mobile moins 8 EUR/mois de remise de combinaison, option Fiber Boost = +10 EUR/mois. Activation (29 EUR) et installation en ligne (79 EUR) offertes du 02/11/2026 au 04/01/2027 inclus pour les nouveaux clients et les clients mobiles existants souscrivant une offre avec Internet Loco (Poco n'est pas reprise dans cette promo). Le cashback Astel n'est pas une remise de l'operateur et n'est pas repris ici. Hausse de prix annoncee au 01/01/2027 : Loco Fiber Boost +2 EUR/mois.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.scarlet.be/fr/packs",
+   "source": "https://www.astel.be/operateurs/scarlet/promotion (matrice novembre 2026) + scarlet.be/fr/internet",
+   "a_verifier": false,
+   "date_verif": "2026-11-07"
+  },
+  {
+   "id": "scarlet-duo-hot",
+   "operateur": "Scarlet",
+   "produit": "pack",
+   "nom": "Duo (Internet Loco + Mobile Hot)",
+   "prix_mensuel": 52,
+   "promo_texte": "Activation offerte (29 EUR) et installation offerte en ligne (79 EUR), soit 108 EUR : promo du 02/11/2026 au 04/01/2027 inclus",
+   "promo_mois": 0,
+   "promo_prix_mensuel": null,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "internet fixe illimite + 65 Go mobile (Hot)",
+   "appels": "appels et SMS illimites",
+   "vitesse": "150 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Prix releves le 07/11/2026 sur la matrice Astel de novembre 2026 (astel.be/operateurs/scarlet/promotion), qui redonne au meme prix les quatre offres Scarlet deja encodees (Loco 34, Loco + Fiber Boost 44, Duo 42, Trio 45, Trio Mobile Cherry 50) avant d'etre utilisee pour les combinaisons manquantes. Coherence verifiee : Duo = Loco + forfait mobile sans remise, Trio Mobile = Trio + forfait mobile moins 8 EUR/mois de remise de combinaison, option Fiber Boost = +10 EUR/mois. Activation (29 EUR) et installation en ligne (79 EUR) offertes du 02/11/2026 au 04/01/2027 inclus pour les nouveaux clients et les clients mobiles existants souscrivant une offre avec Internet Loco (Poco n'est pas reprise dans cette promo). Le cashback Astel n'est pas une remise de l'operateur et n'est pas repris ici. Hausse de prix annoncee au 01/01/2027 : Loco Fiber Boost +2 EUR/mois.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.scarlet.be/fr/packs",
+   "source": "https://www.astel.be/operateurs/scarlet/promotion (matrice novembre 2026) + scarlet.be/fr/internet",
+   "a_verifier": false,
+   "date_verif": "2026-11-07"
+  },
+  {
+   "id": "scarlet-trio-mobile-hot",
+   "operateur": "Scarlet",
+   "produit": "pack",
+   "nom": "Trio Mobile (Internet + TV + Mobile Hot)",
+   "prix_mensuel": 55,
+   "promo_texte": "Activation offerte (29 EUR) et installation offerte en ligne (79 EUR), soit 108 EUR : promo du 02/11/2026 au 04/01/2027 inclus",
+   "promo_mois": 0,
+   "promo_prix_mensuel": null,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "internet fixe illimite + 65 Go mobile (Hot)",
+   "appels": "appels et SMS illimites",
+   "vitesse": "150 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Prix releves le 07/11/2026 sur la matrice Astel de novembre 2026 (astel.be/operateurs/scarlet/promotion), qui redonne au meme prix les quatre offres Scarlet deja encodees (Loco 34, Loco + Fiber Boost 44, Duo 42, Trio 45, Trio Mobile Cherry 50) avant d'etre utilisee pour les combinaisons manquantes. Coherence verifiee : Duo = Loco + forfait mobile sans remise, Trio Mobile = Trio + forfait mobile moins 8 EUR/mois de remise de combinaison, option Fiber Boost = +10 EUR/mois. Activation (29 EUR) et installation en ligne (79 EUR) offertes du 02/11/2026 au 04/01/2027 inclus pour les nouveaux clients et les clients mobiles existants souscrivant une offre avec Internet Loco (Poco n'est pas reprise dans cette promo). Le cashback Astel n'est pas une remise de l'operateur et n'est pas repris ici. Hausse de prix annoncee au 01/01/2027 : Loco Fiber Boost +2 EUR/mois.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.scarlet.be/fr/packs",
+   "source": "https://www.astel.be/operateurs/scarlet/promotion (matrice novembre 2026) + scarlet.be/fr/internet",
+   "a_verifier": false,
+   "date_verif": "2026-11-07"
+  },
+  {
+   "id": "scarlet-duo-fiber-boost",
+   "operateur": "Scarlet",
+   "produit": "pack",
+   "nom": "Duo (Internet Loco + Mobile Red) + Fiber Boost",
+   "prix_mensuel": 52,
+   "promo_texte": "Activation offerte (29 EUR) et installation offerte en ligne (79 EUR), soit 108 EUR : promo du 02/11/2026 au 04/01/2027 inclus",
+   "promo_mois": 0,
+   "promo_prix_mensuel": null,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "internet fixe illimite + 10 Go mobile (Red)",
+   "appels": "300 minutes + SMS illimites",
+   "vitesse": "300 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Prix releves le 07/11/2026 sur la matrice Astel de novembre 2026 (astel.be/operateurs/scarlet/promotion), qui redonne au meme prix les quatre offres Scarlet deja encodees (Loco 34, Loco + Fiber Boost 44, Duo 42, Trio 45, Trio Mobile Cherry 50) avant d'etre utilisee pour les combinaisons manquantes. Coherence verifiee : Duo = Loco + forfait mobile sans remise, Trio Mobile = Trio + forfait mobile moins 8 EUR/mois de remise de combinaison, option Fiber Boost = +10 EUR/mois. Activation (29 EUR) et installation en ligne (79 EUR) offertes du 02/11/2026 au 04/01/2027 inclus pour les nouveaux clients et les clients mobiles existants souscrivant une offre avec Internet Loco (Poco n'est pas reprise dans cette promo). Le cashback Astel n'est pas une remise de l'operateur et n'est pas repris ici. Hausse de prix annoncee au 01/01/2027 : Loco Fiber Boost +2 EUR/mois.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.scarlet.be/fr/packs",
+   "source": "https://www.astel.be/operateurs/scarlet/promotion (matrice novembre 2026) + scarlet.be/fr/internet",
+   "a_verifier": false,
+   "date_verif": "2026-11-07"
+  },
+  {
+   "id": "scarlet-duo-berry-fiber-boost",
+   "operateur": "Scarlet",
+   "produit": "pack",
+   "nom": "Duo (Internet Loco + Mobile Berry) + Fiber Boost",
+   "prix_mensuel": 54,
+   "promo_texte": "Activation offerte (29 EUR) et installation offerte en ligne (79 EUR), soit 108 EUR : promo du 02/11/2026 au 04/01/2027 inclus",
+   "promo_mois": 0,
+   "promo_prix_mensuel": null,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "internet fixe illimite + 15 Go mobile (Berry)",
+   "appels": "",
+   "vitesse": "300 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Prix releves le 07/11/2026 sur la matrice Astel de novembre 2026 (astel.be/operateurs/scarlet/promotion), qui redonne au meme prix les quatre offres Scarlet deja encodees (Loco 34, Loco + Fiber Boost 44, Duo 42, Trio 45, Trio Mobile Cherry 50) avant d'etre utilisee pour les combinaisons manquantes. Coherence verifiee : Duo = Loco + forfait mobile sans remise, Trio Mobile = Trio + forfait mobile moins 8 EUR/mois de remise de combinaison, option Fiber Boost = +10 EUR/mois. Activation (29 EUR) et installation en ligne (79 EUR) offertes du 02/11/2026 au 04/01/2027 inclus pour les nouveaux clients et les clients mobiles existants souscrivant une offre avec Internet Loco (Poco n'est pas reprise dans cette promo). Le cashback Astel n'est pas une remise de l'operateur et n'est pas repris ici. Hausse de prix annoncee au 01/01/2027 : Loco Fiber Boost +2 EUR/mois.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.scarlet.be/fr/packs",
+   "source": "https://www.astel.be/operateurs/scarlet/promotion (matrice novembre 2026) + scarlet.be/fr/internet",
+   "a_verifier": false,
+   "date_verif": "2026-11-07"
+  },
+  {
+   "id": "scarlet-duo-cherry-fiber-boost",
+   "operateur": "Scarlet",
+   "produit": "pack",
+   "nom": "Duo (Internet Loco + Mobile Cherry) + Fiber Boost",
+   "prix_mensuel": 57,
+   "promo_texte": "Activation offerte (29 EUR) et installation offerte en ligne (79 EUR), soit 108 EUR : promo du 02/11/2026 au 04/01/2027 inclus",
+   "promo_mois": 0,
+   "promo_prix_mensuel": null,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "internet fixe illimite + 35 Go mobile (Cherry)",
+   "appels": "600 minutes + SMS illimites",
+   "vitesse": "300 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Prix releves le 07/11/2026 sur la matrice Astel de novembre 2026 (astel.be/operateurs/scarlet/promotion), qui redonne au meme prix les quatre offres Scarlet deja encodees (Loco 34, Loco + Fiber Boost 44, Duo 42, Trio 45, Trio Mobile Cherry 50) avant d'etre utilisee pour les combinaisons manquantes. Coherence verifiee : Duo = Loco + forfait mobile sans remise, Trio Mobile = Trio + forfait mobile moins 8 EUR/mois de remise de combinaison, option Fiber Boost = +10 EUR/mois. Activation (29 EUR) et installation en ligne (79 EUR) offertes du 02/11/2026 au 04/01/2027 inclus pour les nouveaux clients et les clients mobiles existants souscrivant une offre avec Internet Loco (Poco n'est pas reprise dans cette promo). Le cashback Astel n'est pas une remise de l'operateur et n'est pas repris ici. Hausse de prix annoncee au 01/01/2027 : Loco Fiber Boost +2 EUR/mois.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.scarlet.be/fr/packs",
+   "source": "https://www.astel.be/operateurs/scarlet/promotion (matrice novembre 2026) + scarlet.be/fr/internet",
+   "a_verifier": false,
+   "date_verif": "2026-11-07"
+  },
+  {
+   "id": "scarlet-duo-hot-fiber-boost",
+   "operateur": "Scarlet",
+   "produit": "pack",
+   "nom": "Duo (Internet Loco + Mobile Hot) + Fiber Boost",
+   "prix_mensuel": 62,
+   "promo_texte": "Activation offerte (29 EUR) et installation offerte en ligne (79 EUR), soit 108 EUR : promo du 02/11/2026 au 04/01/2027 inclus",
+   "promo_mois": 0,
+   "promo_prix_mensuel": null,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "internet fixe illimite + 65 Go mobile (Hot)",
+   "appels": "appels et SMS illimites",
+   "vitesse": "300 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Prix releves le 07/11/2026 sur la matrice Astel de novembre 2026 (astel.be/operateurs/scarlet/promotion), qui redonne au meme prix les quatre offres Scarlet deja encodees (Loco 34, Loco + Fiber Boost 44, Duo 42, Trio 45, Trio Mobile Cherry 50) avant d'etre utilisee pour les combinaisons manquantes. Coherence verifiee : Duo = Loco + forfait mobile sans remise, Trio Mobile = Trio + forfait mobile moins 8 EUR/mois de remise de combinaison, option Fiber Boost = +10 EUR/mois. Activation (29 EUR) et installation en ligne (79 EUR) offertes du 02/11/2026 au 04/01/2027 inclus pour les nouveaux clients et les clients mobiles existants souscrivant une offre avec Internet Loco (Poco n'est pas reprise dans cette promo). Le cashback Astel n'est pas une remise de l'operateur et n'est pas repris ici. Hausse de prix annoncee au 01/01/2027 : Loco Fiber Boost +2 EUR/mois.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.scarlet.be/fr/packs",
+   "source": "https://www.astel.be/operateurs/scarlet/promotion (matrice novembre 2026) + scarlet.be/fr/internet",
+   "a_verifier": false,
+   "date_verif": "2026-11-07"
+  },
+  {
+   "id": "scarlet-trio-fiber-boost",
+   "operateur": "Scarlet",
+   "produit": "pack",
+   "nom": "Trio (Internet + Telephone fixe + TV) + Fiber Boost",
+   "prix_mensuel": 55,
+   "promo_texte": "Activation offerte (29 EUR) et installation offerte en ligne (79 EUR), soit 108 EUR : promo du 02/11/2026 au 04/01/2027 inclus",
+   "promo_mois": 0,
+   "promo_prix_mensuel": null,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "illimite",
+   "appels": "appels vers les fixes en Belgique",
+   "vitesse": "300 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Prix releves le 07/11/2026 sur la matrice Astel de novembre 2026 (astel.be/operateurs/scarlet/promotion), qui redonne au meme prix les quatre offres Scarlet deja encodees (Loco 34, Loco + Fiber Boost 44, Duo 42, Trio 45, Trio Mobile Cherry 50) avant d'etre utilisee pour les combinaisons manquantes. Coherence verifiee : Duo = Loco + forfait mobile sans remise, Trio Mobile = Trio + forfait mobile moins 8 EUR/mois de remise de combinaison, option Fiber Boost = +10 EUR/mois. Activation (29 EUR) et installation en ligne (79 EUR) offertes du 02/11/2026 au 04/01/2027 inclus pour les nouveaux clients et les clients mobiles existants souscrivant une offre avec Internet Loco (Poco n'est pas reprise dans cette promo). Le cashback Astel n'est pas une remise de l'operateur et n'est pas repris ici. Hausse de prix annoncee au 01/01/2027 : Loco Fiber Boost +2 EUR/mois.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.scarlet.be/fr/packs",
+   "source": "https://www.astel.be/operateurs/scarlet/promotion (matrice novembre 2026) + scarlet.be/fr/internet",
+   "a_verifier": false,
+   "date_verif": "2026-11-07"
+  },
+  {
+   "id": "scarlet-trio-mobile-fiber-boost",
+   "operateur": "Scarlet",
+   "produit": "pack",
+   "nom": "Trio Mobile (Internet + TV + Mobile Cherry) + Fiber Boost",
+   "prix_mensuel": 60,
+   "promo_texte": "Activation offerte (29 EUR) et installation offerte en ligne (79 EUR), soit 108 EUR : promo du 02/11/2026 au 04/01/2027 inclus",
+   "promo_mois": 0,
+   "promo_prix_mensuel": null,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "internet fixe illimite + 35 Go mobile (Cherry)",
+   "appels": "600 minutes + SMS illimites",
+   "vitesse": "300 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Prix releves le 07/11/2026 sur la matrice Astel de novembre 2026 (astel.be/operateurs/scarlet/promotion), qui redonne au meme prix les quatre offres Scarlet deja encodees (Loco 34, Loco + Fiber Boost 44, Duo 42, Trio 45, Trio Mobile Cherry 50) avant d'etre utilisee pour les combinaisons manquantes. Coherence verifiee : Duo = Loco + forfait mobile sans remise, Trio Mobile = Trio + forfait mobile moins 8 EUR/mois de remise de combinaison, option Fiber Boost = +10 EUR/mois. Activation (29 EUR) et installation en ligne (79 EUR) offertes du 02/11/2026 au 04/01/2027 inclus pour les nouveaux clients et les clients mobiles existants souscrivant une offre avec Internet Loco (Poco n'est pas reprise dans cette promo). Le cashback Astel n'est pas une remise de l'operateur et n'est pas repris ici. Hausse de prix annoncee au 01/01/2027 : Loco Fiber Boost +2 EUR/mois.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.scarlet.be/fr/packs",
+   "source": "https://www.astel.be/operateurs/scarlet/promotion (matrice novembre 2026) + scarlet.be/fr/internet",
+   "a_verifier": false,
+   "date_verif": "2026-11-07"
+  },
+  {
+   "id": "scarlet-trio-mobile-hot-fiber-boost",
+   "operateur": "Scarlet",
+   "produit": "pack",
+   "nom": "Trio Mobile (Internet + TV + Mobile Hot) + Fiber Boost",
+   "prix_mensuel": 65,
+   "promo_texte": "Activation offerte (29 EUR) et installation offerte en ligne (79 EUR), soit 108 EUR : promo du 02/11/2026 au 04/01/2027 inclus",
+   "promo_mois": 0,
+   "promo_prix_mensuel": null,
+   "frais_activation": 0,
+   "frais_equipement": 0,
+   "data": "internet fixe illimite + 65 Go mobile (Hot)",
+   "appels": "appels et SMS illimites",
+   "vitesse": "300 Mbps / 30 Mbps",
+   "engagement": "sans engagement",
+   "conditions": "Prix releves le 07/11/2026 sur la matrice Astel de novembre 2026 (astel.be/operateurs/scarlet/promotion), qui redonne au meme prix les quatre offres Scarlet deja encodees (Loco 34, Loco + Fiber Boost 44, Duo 42, Trio 45, Trio Mobile Cherry 50) avant d'etre utilisee pour les combinaisons manquantes. Coherence verifiee : Duo = Loco + forfait mobile sans remise, Trio Mobile = Trio + forfait mobile moins 8 EUR/mois de remise de combinaison, option Fiber Boost = +10 EUR/mois. Activation (29 EUR) et installation en ligne (79 EUR) offertes du 02/11/2026 au 04/01/2027 inclus pour les nouveaux clients et les clients mobiles existants souscrivant une offre avec Internet Loco (Poco n'est pas reprise dans cette promo). Le cashback Astel n'est pas une remise de l'operateur et n'est pas repris ici. Hausse de prix annoncee au 01/01/2027 : Loco Fiber Boost +2 EUR/mois.",
+   "jeune": false,
+   "regions": [
+    "BXL",
+    "WAL",
+    "VL"
+   ],
+   "lien": "https://www.scarlet.be/fr/packs",
+   "source": "https://www.astel.be/operateurs/scarlet/promotion (matrice novembre 2026) + scarlet.be/fr/internet",
+   "a_verifier": false,
+   "date_verif": "2026-11-07"
   }
  ]
 }
